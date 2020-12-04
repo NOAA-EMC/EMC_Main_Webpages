@@ -1,0 +1,3 @@
+<?php include 'emc_plain_files/header.php';?>
+<?php include 'emc_plain_files/content.php'; ?>
+<?php include 'emc_plain_files/footer.php';?>

@@ -1,0 +1,10 @@
+Order Allow,Deny
+Allow from all
+Deny from 66.249.72.15
+Deny from 192.111.123.190
+
+RewriteEngine On
+RewriteRule ^([^/]*)/$ http://www.emc.ncep.noaa.gov/index.php?branch=$1 [L]
+RewriteRule ^([^/]*)/([^/]*)\.php$ /index.php?branch=$1&tab=$2 [L]
+php_flag short_open_tag on
+ 
