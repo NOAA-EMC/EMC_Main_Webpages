@@ -15,13 +15,13 @@ global $browser_title;
           </div>
         </div>
       </div>
-     <h2 id="section-title">Global Ensemble Forecast System</h2>
+     <h2 id="section-title"><center>Global Ensemble Forecast System</center></h2>
      	<div id="description">
 				<p style="margin-left:0px; margin-right:0px; text-align:start"><span style="font-size:14.4px"><span style="color:#000000"><span style="font-family:Arial,Helvetica,sans-serif"></span></span></span></p>
 
 <!--<center style="color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="font-size:24px;"><span style="font-family:arial,helvetica,sans-serif;"><u>Global Ensemble Forecast System (GEFS)</u></span></span></center>-->
 
-<p style="margin-left:0px; margin-right:0px; text-align:start"><img src="https://www.emc.ncep.noaa.gov/emc/images/forcast_system_icons/animated/gefs_animated.gif" style="border: 0px none; box-sizing: border-box; vertical-align: middle;"></p>
+<p style="margin-left:0px; margin-right:0px; text-align:center"><img src="https://www.emc.ncep.noaa.gov/emc/images/forcast_system_icons/animated/gefs_animated.gif" style="border: 0px none; box-sizing: border-box; vertical-align: middle;"></p>
 
 <p style="margin-left:0px; margin-right:0px"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:12px;">To illustrate the use of ensemble based probabilistic forecast, the relative measure of predictability (RMOP, Toth et al. 2003), is shown in the above animation from the GEFS run from 0000 UTC 4 November 2020, out to 15 days (360 hours). Considering the 120-h forecast valid at 0000 UTC 9 November 2020, the shading indicates the RMOP of the ensemble mean 500-hPa height at each grid point, compared to ensemble forecasts of 500-hPa height over the previous 30 days. These are in 10% increments as indicated by the color bar at the bottom of the graphic. Shading at 90% indicates that at least 9 of 10 ensemble forecasts in the past 30 days had fewer ensemble members in the same "bin" as the ensemble mean than the present forecast. The blue numbers over each box represents the percentage of time that a forecast with the given degree of predictability has verified over the past 30 days. Here, over the 90% predictability box we see that only 61-84% of the forecasts with 90% relative predictability at 120 hours have verified in the same climatological bin as the observed 500-hPa height at 120 hours over the past 30 days. Note that in general, the values are generally lower than the RMOP numbers below the bar. This is because the underlying forecast model is imperfect, the initial conditions are imprecise, and the atmosphere behaves chaotically.</span></span><br>
 
