@@ -37,7 +37,774 @@ global $browser_title;
 
 <p class="teaser" style="margin: 0px 0px 1.5em; padding: 0px; border: 0px none; outline: 0px none; background: transparent none repeat scroll 0% 0%; vertical-align: baseline; font-family: &quot;Open Sans&quot;,Helvetica,Verdana,Arial,sans-serif; color: rgb(68, 68, 68); line-height: 1.556em; text-rendering: auto;"><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;">Details on each GEFS upgrade can be found in the <a href="https://www.emc.ncep.noaa.gov/gmb/yzhu/html/ENS_IMP.html">GEFS implementation log</a>. Evolution of the GEFS configurations to date are summarized in the table below:</span></span></p>
 
-<p style="color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;"><img alt="https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/gefs/gefshistory1.PNG" class="transparent" src="https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/gefs/gefshistory1.PNG" width="1000" height="805"></p>
+<table class=a border=1 cellspacing=0 cellpadding=0 width=719 style='border-collapse:
+ collapse;mso-table-layout-alt:fixed;border:none;mso-border-alt:solid white 1.0pt;
+ mso-yfti-tbllook:1056;mso-padding-alt:5.0pt 5.0pt 5.0pt 5.0pt;mso-border-insideh:
+ 1.0pt solid white;mso-border-insidev:1.0pt solid white'>
+ <tr style='mso-yfti-irow:-1;mso-yfti-firstrow:yes;mso-yfti-lastfirstrow:yes;
+  height:25.0pt'>
+  <td width=62 style='width:46.5pt;border:solid white 1.0pt;border-bottom:solid white 3.0pt;
+  background:#5B9BD5;padding:1.0pt 3.0pt 1.0pt 3.0pt;height:25.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:1'><b style='mso-bidi-font-weight:normal'><span
+  lang=EN style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'>Version</span></b><b style='mso-bidi-font-weight:normal'><span
+  lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:white'><o:p></o:p></span></b></p>
+  </td>
+  <td width=72 style='width:.75in;border-top:solid white 1.0pt;border-left:
+  none;border-bottom:solid white 3.0pt;border-right:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;background:#5B9BD5;padding:1.0pt 3.0pt 1.0pt 3.0pt;
+  height:25.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:1'><b style='mso-bidi-font-weight:normal'><span
+  lang=EN style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'>Implementation </span></b><b style='mso-bidi-font-weight:
+  normal'><span lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;
+  mso-fareast-font-family:Calibri;color:white'><o:p></o:p></span></b></p>
+  </td>
+  <td width=80 style='width:60.0pt;border-top:solid white 1.0pt;border-left:
+  none;border-bottom:solid white 3.0pt;border-right:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;background:#5B9BD5;padding:1.0pt 3.0pt 1.0pt 3.0pt;
+  height:25.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:1'><b style='mso-bidi-font-weight:normal'><span
+  lang=EN style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'>Initial uncertainty </span></b><b style='mso-bidi-font-weight:
+  normal'><span lang=EN style='font-size:11.0pt;font-family:"Calibri",sans-serif;
+  mso-fareast-font-family:Calibri;color:white'><o:p></o:p></span></b></p>
+  </td>
+  <td width=72 style='width:.75in;border-top:solid white 1.0pt;border-left:
+  none;border-bottom:solid white 3.0pt;border-right:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;background:#5B9BD5;padding:1.0pt 3.0pt 1.0pt 3.0pt;
+  height:25.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:1'><b style='mso-bidi-font-weight:normal'><span
+  lang=EN style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'>TS relocation</span></b><b style='mso-bidi-font-weight:normal'><span
+  lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:white'><o:p></o:p></span></b></p>
+  </td>
+  <td width=81 style='width:60.75pt;border-top:solid white 1.0pt;border-left:
+  none;border-bottom:solid white 3.0pt;border-right:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;background:#5B9BD5;padding:1.0pt 3.0pt 1.0pt 3.0pt;
+  height:25.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:1'><b style='mso-bidi-font-weight:normal'><span
+  lang=EN style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'>Model Uncertainty</span></b><b style='mso-bidi-font-weight:normal'><span
+  lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:white'><o:p></o:p></span></b></p>
+  </td>
+  <td width=149 style='width:111.75pt;border-top:solid white 1.0pt;border-left:
+  none;border-bottom:solid white 3.0pt;border-right:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;background:#5B9BD5;padding:1.0pt 3.0pt 1.0pt 3.0pt;
+  height:25.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:1'><b style='mso-bidi-font-weight:normal'><span
+  lang=EN style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'>Resolution </span></b><b style='mso-bidi-font-weight:
+  normal'><span lang=EN style='font-size:11.0pt;font-family:"Calibri",sans-serif;
+  mso-fareast-font-family:Calibri;color:white'><o:p></o:p></span></b></p>
+  </td>
+  <td width=51 style='width:38.25pt;border-top:solid white 1.0pt;border-left:
+  none;border-bottom:solid white 3.0pt;border-right:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;background:#5B9BD5;padding:1.0pt 3.0pt 1.0pt 3.0pt;
+  height:25.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:1'><b style='mso-bidi-font-weight:normal'><span
+  lang=EN style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'>FCST length </span></b><b style='mso-bidi-font-weight:
+  normal'><span lang=EN style='font-size:11.0pt;font-family:"Calibri",sans-serif;
+  mso-fareast-font-family:Calibri;color:white'><o:p></o:p></span></b></p>
+  </td>
+  <td width=77 style='width:57.75pt;border-top:solid white 1.0pt;border-left:
+  none;border-bottom:solid white 3.0pt;border-right:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;background:#5B9BD5;padding:1.0pt 3.0pt 1.0pt 3.0pt;
+  height:25.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:1'><b style='mso-bidi-font-weight:normal'><span
+  lang=EN style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'>Ens. size (members) </span></b><b style='mso-bidi-font-weight:
+  normal'><span lang=EN style='font-size:11.0pt;font-family:"Calibri",sans-serif;
+  mso-fareast-font-family:Calibri;color:white'><o:p></o:p></span></b></p>
+  </td>
+  <td width=75 style='width:56.25pt;border-top:solid white 1.0pt;border-left:
+  none;border-bottom:solid white 3.0pt;border-right:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;background:#5B9BD5;padding:1.0pt 3.0pt 1.0pt 3.0pt;
+  height:25.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:1'><b style='mso-bidi-font-weight:normal'><span
+  lang=EN style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'>Daily frequency </span></b><b style='mso-bidi-font-weight:
+  normal'><span lang=EN style='font-size:11.0pt;font-family:"Calibri",sans-serif;
+  mso-fareast-font-family:Calibri;color:white'><o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:0;height:19.0pt'>
+  <td width=62 style='width:46.5pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;background:#D0DEEF;padding:1.0pt 3.0pt 1.0pt 3.0pt;
+  height:19.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:64'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>V1.0</span><span
+  lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+  <td width=72 style='width:.75in;border-top:none;border-left:none;border-bottom:
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;background:#D0DEEF;padding:1.0pt 3.0pt 1.0pt 3.0pt;
+  height:19.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:64'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>1992.12</span><span
+  lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+  <td width=80 rowspan=7 style='width:60.0pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;background:#D0DEEF;
+  padding:1.0pt 3.0pt 1.0pt 3.0pt;height:19.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:64'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>Bred
+  vector </span><span lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;
+  mso-fareast-font-family:Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+  <td width=72 rowspan=6 style='width:.75in;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;background:#D0DEEF;
+  padding:2.0pt 5.0pt 2.0pt 5.0pt;height:19.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:64'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>None</span><span
+  lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+  <td width=81 rowspan=8 style='width:60.75pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;background:#D0DEEF;
+  padding:2.0pt 5.0pt 2.0pt 5.0pt;height:19.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:64'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>None</span><span
+  lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+  <td width=149 style='width:111.75pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;background:#D0DEEF;
+  padding:1.0pt 3.0pt 1.0pt 3.0pt;height:19.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:64'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>T62L18
+  ~200km</span><span lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;
+  mso-fareast-font-family:Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+  <td width=51 style='width:38.25pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;background:#D0DEEF;
+  padding:2.0pt 5.0pt 2.0pt 5.0pt;height:19.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:64'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>12</span><span
+  lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+  <td width=77 style='width:57.75pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;background:#D0DEEF;
+  padding:2.0pt 5.0pt 2.0pt 5.0pt;height:19.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:64'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>2+1</span><span
+  lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+  <td width=75 style='width:56.25pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;background:#D0DEEF;
+  padding:2.0pt 5.0pt 2.0pt 5.0pt;height:19.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:64'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>00UTC</span><span
+  lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1;height:19.0pt'>
+  <td width=62 style='width:46.5pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;background:#E9EFF7;padding:1.0pt 3.0pt 1.0pt 3.0pt;
+  height:19.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:128'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>V2.0</span><span
+  lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+  <td width=72 style='width:.75in;border-top:none;border-left:none;border-bottom:
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;background:#E9EFF7;padding:1.0pt 3.0pt 1.0pt 3.0pt;
+  height:19.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:128'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>1994.03</span><span
+  lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+  <td width=149 rowspan=2 style='width:111.75pt;border-top:none;border-left:
+  none;border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;
+  mso-border-top-alt:solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;
+  background:#E9EFF7;padding:1.0pt 3.0pt 1.0pt 3.0pt;height:19.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:128'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>T62L18
+  ~200km</span><span lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;
+  mso-fareast-font-family:Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+  <td width=51 rowspan=10 style='width:38.25pt;border-top:none;border-left:
+  none;border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;
+  mso-border-top-alt:solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;
+  background:#E9EFF7;padding:2.0pt 5.0pt 2.0pt 5.0pt;height:19.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:128'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>16</span><span
+  lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+  <td width=77 rowspan=2 style='width:57.75pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;background:#E9EFF7;
+  padding:2.0pt 5.0pt 2.0pt 5.0pt;height:19.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:128'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>10+1
+  (00UTC)</span><span lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;
+  mso-fareast-font-family:Calibri;color:black'><o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:128'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>4+1
+  (12UTC)</span><span lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;
+  mso-fareast-font-family:Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+  <td width=75 rowspan=4 style='width:56.25pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;background:#E9EFF7;
+  padding:2.0pt 5.0pt 2.0pt 5.0pt;height:19.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:128'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>00UTC</span><span
+  lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'><o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:128'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>12UTC</span><span
+  lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2;height:35.0pt'>
+  <td width=62 style='width:46.5pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;background:#D0DEEF;padding:1.0pt 3.0pt 1.0pt 3.0pt;
+  height:35.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:64'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>V3.0</span><span
+  lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+  <td width=72 style='width:.75in;border-top:none;border-left:none;border-bottom:
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;background:#D0DEEF;padding:1.0pt 3.0pt 1.0pt 3.0pt;
+  height:35.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:64'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>2000.06</span><span
+  lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3;height:29.0pt'>
+  <td width=62 style='width:46.5pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;background:#E9EFF7;padding:1.0pt 3.0pt 1.0pt 3.0pt;
+  height:29.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:128'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>V4.0</span><span
+  lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+  <td width=72 style='width:.75in;border-top:none;border-left:none;border-bottom:
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;background:#E9EFF7;padding:1.0pt 3.0pt 1.0pt 3.0pt;
+  height:29.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:128'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>2001.01</span><span
+  lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+  <td width=149 style='width:111.75pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;background:#E9EFF7;
+  padding:1.0pt 3.0pt 1.0pt 3.0pt;height:29.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:128'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>T126L28(0-2.5)
+  ~100km</span><span lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;
+  mso-fareast-font-family:Calibri;color:black'><o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:128'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>T62L28(2.5-16)
+  ~200km</span><span lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;
+  mso-fareast-font-family:Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+  <td width=77 rowspan=3 style='width:57.75pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;background:#E9EFF7;
+  padding:2.0pt 5.0pt 2.0pt 5.0pt;height:29.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:128'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>10+1</span><span
+  lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4;height:29.0pt'>
+  <td width=62 style='width:46.5pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;background:#D0DEEF;padding:1.0pt 3.0pt 1.0pt 3.0pt;
+  height:29.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:64'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>V5.0</span><span
+  lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+  <td width=72 style='width:.75in;border-top:none;border-left:none;border-bottom:
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;background:#D0DEEF;padding:1.0pt 3.0pt 1.0pt 3.0pt;
+  height:29.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:64'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>2004.03</span><span
+  lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+  <td width=149 style='width:111.75pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;background:#D0DEEF;
+  padding:1.0pt 3.0pt 1.0pt 3.0pt;height:29.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:64'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>T126(0-3.5)
+  ~100km</span><span lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;
+  mso-fareast-font-family:Calibri;color:black'><o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:64'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>T62L28(3.5-16)
+  ~200km</span><span lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;
+  mso-fareast-font-family:Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5;height:29.0pt'>
+  <td width=62 style='width:46.5pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;background:#E9EFF7;padding:1.0pt 3.0pt 1.0pt 3.0pt;
+  height:29.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:128'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>V6.0</span><span
+  lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+  <td width=72 style='width:.75in;border-top:none;border-left:none;border-bottom:
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;background:#E9EFF7;padding:2.0pt 5.0pt 2.0pt 5.0pt;
+  height:29.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:128'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>2005.08</span><span
+  lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+  <td width=149 style='width:111.75pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;background:#E9EFF7;
+  padding:1.0pt 3.0pt 1.0pt 3.0pt;height:29.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:128'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>T126L28(0-7.5)
+  ~100km</span><span lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;
+  mso-fareast-font-family:Calibri;color:black'><o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:128'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>T62L28(7.5-16)
+  ~200km</span><span lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;
+  mso-fareast-font-family:Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+  <td width=75 style='width:56.25pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;background:#E9EFF7;
+  padding:2.0pt 5.0pt 2.0pt 5.0pt;height:29.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:128'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6;height:19.0pt'>
+  <td width=62 style='width:46.5pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;background:#D0DEEF;padding:1.0pt 3.0pt 1.0pt 3.0pt;
+  height:19.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:64'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>V7.0</span><span
+  lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+  <td width=72 style='width:.75in;border-top:none;border-left:none;border-bottom:
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;background:#D0DEEF;padding:1.0pt 3.0pt 1.0pt 3.0pt;
+  height:19.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:64'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>2006.05</span><span
+  lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+  <td width=72 rowspan=5 style='width:.75in;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;background:#D0DEEF;
+  padding:2.0pt 5.0pt 2.0pt 5.0pt;height:19.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:64'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>TSR</span><span
+  lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+  <td width=149 rowspan=2 style='width:111.75pt;border-top:none;border-left:
+  none;border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;
+  mso-border-top-alt:solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;
+  background:#D0DEEF;padding:2.0pt 5.0pt 2.0pt 5.0pt;height:19.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:64'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>T126L28
+  ~100km</span><span lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;
+  mso-fareast-font-family:Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+  <td width=77 style='width:57.75pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;background:#D0DEEF;
+  padding:2.0pt 5.0pt 2.0pt 5.0pt;height:19.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:64'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>14+1</span><span
+  lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+  <td width=75 rowspan=6 style='width:56.25pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;background:#D0DEEF;
+  padding:2.0pt 5.0pt 2.0pt 5.0pt;height:19.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:64'><b style='mso-bidi-font-weight:normal'><span
+  lang=EN style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'>00UTC</span></b><span lang=EN style='font-size:14.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'><o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:64'><b style='mso-bidi-font-weight:normal'><span
+  lang=EN style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'>06UTC</span></b><span lang=EN style='font-size:14.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'><o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:64'><b style='mso-bidi-font-weight:normal'><span
+  lang=EN style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'>12UTC</span></b><span lang=EN style='font-size:14.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'><o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:64'><b style='mso-bidi-font-weight:normal'><span
+  lang=EN style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'>18UTC </span></b><span lang=EN style='font-size:14.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'><o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:64'><b style='mso-bidi-font-weight:normal'><span
+  lang=EN style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'>(16 days)</span></b><span lang=EN style='font-size:14.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'><o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:64'><b style='mso-bidi-font-weight:normal'><span
+  lang=EN style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'><o:p>&nbsp;</o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:64'><b style='mso-bidi-font-weight:normal'><span
+  lang=EN style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'><o:p>&nbsp;</o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:64'><b style='mso-bidi-font-weight:normal'><span
+  lang=EN style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'><o:p>&nbsp;</o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:64'><b style='mso-bidi-font-weight:normal'><span
+  lang=EN style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'><o:p>&nbsp;</o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:64'><b style='mso-bidi-font-weight:normal'><span
+  lang=EN style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'><o:p>&nbsp;</o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:64'><b style='mso-bidi-font-weight:normal'><span
+  lang=EN style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:red'>00UTC (35 days)</span></b><span lang=EN style='font-size:
+  14.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;
+  color:black'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7;height:20.0pt'>
+  <td width=62 style='width:46.5pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;background:#E9EFF7;padding:1.0pt 3.0pt 1.0pt 3.0pt;
+  height:20.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:128'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>V8.0</span><span
+  lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+  <td width=72 style='width:.75in;border-top:none;border-left:none;border-bottom:
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;background:#E9EFF7;padding:1.0pt 3.0pt 1.0pt 3.0pt;
+  height:20.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:128'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>2007.03</span><span
+  lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+  <td width=80 rowspan=3 style='width:60.0pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;background:#E9EFF7;
+  padding:1.0pt 3.0pt 1.0pt 3.0pt;height:20.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:128'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>(BV-
+  ETR)</span><span lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;
+  mso-fareast-font-family:Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+  <td width=77 rowspan=4 style='width:57.75pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;background:#E9EFF7;
+  padding:2.0pt 5.0pt 2.0pt 5.0pt;height:20.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:128'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>20+1</span><span
+  lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:8;height:21.0pt'>
+  <td width=62 style='width:46.5pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;background:#D0DEEF;padding:1.0pt 3.0pt 1.0pt 3.0pt;
+  height:21.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:64'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>V9.0</span><span
+  lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+  <td width=72 style='width:.75in;border-top:none;border-left:none;border-bottom:
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;background:#D0DEEF;padding:1.0pt 3.0pt 1.0pt 3.0pt;
+  height:21.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:64'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>2010.02</span><span
+  lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+  <td width=81 rowspan=3 style='width:60.75pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;background:#D0DEEF;
+  padding:2.0pt 5.0pt 2.0pt 5.0pt;height:21.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:64'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>STTP</span><span
+  lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+  <td width=149 valign=top style='width:111.75pt;border-top:none;border-left:
+  none;border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;
+  mso-border-top-alt:solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;
+  background:#D0DEEF;padding:2.0pt 5.0pt 2.0pt 5.0pt;height:21.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:64'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>T190L28
+  ~70k<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:9;height:29.0pt'>
+  <td width=62 style='width:46.5pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;background:#E9EFF7;padding:1.0pt 3.0pt 1.0pt 3.0pt;
+  height:29.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:128'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>V10.0</span><span
+  lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+  <td width=72 style='width:.75in;border-top:none;border-left:none;border-bottom:
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;background:#E9EFF7;padding:1.0pt 3.0pt 1.0pt 3.0pt;
+  height:29.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:128'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>2012.02</span><span
+  lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+  <td width=149 style='width:111.75pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;background:#E9EFF7;
+  padding:1.0pt 3.0pt 1.0pt 3.0pt;height:29.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:128'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>T254L42
+  (0-8) ~50km</span><span lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;
+  mso-fareast-font-family:Calibri;color:black'><o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:128'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>T190L42
+  (8-16) ~70km</span><span lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;
+  mso-fareast-font-family:Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:10;height:29.0pt'>
+  <td width=62 style='width:46.5pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;background:#D0DEEF;padding:1.0pt 3.0pt 1.0pt 3.0pt;
+  height:29.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:64'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>V11.0</span><span
+  lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+  <td width=72 style='width:.75in;border-top:none;border-left:none;border-bottom:
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;background:#D0DEEF;padding:1.0pt 3.0pt 1.0pt 3.0pt;
+  height:29.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:64'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>2015.12</span><span
+  lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+  <td width=80 rowspan=2 style='width:60.0pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;background:#D0DEEF;
+  padding:2.0pt 5.0pt 2.0pt 5.0pt;height:29.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:64'><b style='mso-bidi-font-weight:normal'><span
+  lang=EN style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:red'><o:p>&nbsp;</o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:64'><b style='mso-bidi-font-weight:normal'><span
+  lang=EN style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:red'><o:p>&nbsp;</o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:64'><span class=SpellE><b style='mso-bidi-font-weight:
+  normal'><span lang=EN style='font-size:11.0pt;font-family:"Calibri",sans-serif;
+  mso-fareast-font-family:Calibri;color:red'>EnKF</span></b></span><b
+  style='mso-bidi-font-weight:normal'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:red'>
+  (f06)</span></b><span lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;
+  mso-fareast-font-family:Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+  <td width=149 style='width:111.75pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;background:#D0DEEF;
+  padding:1.0pt 3.0pt 1.0pt 3.0pt;height:29.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:64'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>TL574L64
+  (0-8) ~33km</span><span lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;
+  mso-fareast-font-family:Calibri;color:black'><o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:64'><span lang=EN style='font-size:11.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'>TL382L64
+  (8-16) ~50km </span><span lang=EN style='font-size:14.0pt;font-family:"Calibri",sans-serif;
+  mso-fareast-font-family:Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:11;mso-yfti-lastrow:yes;height:11.0pt'>
+  <td width=62 style='width:46.5pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;background:#E9EFF7;padding:1.0pt 3.0pt 1.0pt 3.0pt;
+  height:11.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:128'><b style='mso-bidi-font-weight:normal'><span
+  lang=EN style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:red'>V12.0*</span></b><span lang=EN style='font-size:14.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+  <td width=72 style='width:.75in;border-top:none;border-left:none;border-bottom:
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;background:#E9EFF7;padding:1.0pt 3.0pt 1.0pt 3.0pt;
+  height:11.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:128'><b style='mso-bidi-font-weight:normal'><span
+  lang=EN style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:red'>2020.10</span></b><span lang=EN style='font-size:14.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+  <td width=72 style='width:.75in;border-top:none;border-left:none;border-bottom:
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;background:#E9EFF7;padding:2.0pt 5.0pt 2.0pt 5.0pt;
+  height:11.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:128'><b style='mso-bidi-font-weight:normal'><span
+  lang=EN style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:red'>None</span></b><span lang=EN style='font-size:14.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+  <td width=81 style='width:60.75pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;background:#E9EFF7;
+  padding:2.0pt 5.0pt 2.0pt 5.0pt;height:11.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:128'><b style='mso-bidi-font-weight:normal'><span
+  lang=EN style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:red'>SPPT+SKEB</span></b><span lang=EN style='font-size:14.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+  <td width=149 style='width:111.75pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;background:#E9EFF7;
+  padding:1.0pt 3.0pt 1.0pt 3.0pt;height:11.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:128'><b style='mso-bidi-font-weight:normal'><span
+  lang=EN style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:red'>C384L64 (0-35) ~25km</span></b><span lang=EN
+  style='font-size:14.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+  <td width=51 style='width:38.25pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;background:#E9EFF7;
+  padding:2.0pt 5.0pt 2.0pt 5.0pt;height:11.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:128'><b style='mso-bidi-font-weight:normal'><span
+  lang=EN style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:red'>16(35)</span></b><span lang=EN style='font-size:14.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+  <td width=77 style='width:57.75pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;background:#E9EFF7;
+  padding:2.0pt 5.0pt 2.0pt 5.0pt;height:11.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
+  mso-pagination:none;mso-yfti-cnfc:128'><b style='mso-bidi-font-weight:normal'><span
+  lang=EN style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+  Calibri;color:red'>30+1+1</span></b><span lang=EN style='font-size:14.0pt;
+  font-family:"Calibri",sans-serif;mso-fareast-font-family:Calibri;color:black'><o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+<p>
 
 <p class="western" style="margin-top: 0.04in; margin-bottom: 0.08in; line-height: 100%" lang="en-GB" align="justify"><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;"><span lang="en-US"><b>2. Current Status</b></span></span></span></p>
 
