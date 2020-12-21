@@ -111,6 +111,7 @@
 								<img src="emc/images/news_caption/hurricane_eye_resize.gif"/>
 								<h4>Latest News/Events</h4>
 								<ul class="list-group">
+									<li class="list-group-item right-angle-after"><a href="https://ufscommunity.org/wp-content/uploads/2020/12/Bulletin_UFS_Community_Fall_2020_Full.pdf">Fall 2020 UFS Community Bulletin: Celebrating Bill Lapenta's Legacy</a></li>
 									<li class="list-group-item right-angle-after"><a href="https://www.jcsda.org/jedi-fv3-release">The Joint Center for Satellite Data Assimilation announces the first public release of JEDI-FV3</a></li>
 									<li class="list-group-item right-angle-after"><a href="https://sites.google.com/a/noaa.gov/nws-insider/news-from-the-field-and-hq/2020-news-from-the-field/noaaupgradesglobalensembleforecastsystem">NWS Insider article on GEFS v12 Implementation</a></li>
 									<li class="list-group-item right-angle-after"><a href="https://www.youtube.com/watch?v=G7Q800Pi7QM&feature=youtu.be">Now Playing: NOAA Weather Partners video on EMC</a></li>
@@ -133,9 +134,9 @@
  									 <li class="list-group-item right-angle-after"><a href="https://www.emc.ncep.noaa.gov/users/meg/gefsv12/">GEFSv12 implemented on 23 September 2020</a></li>
  									 <li class="list-group-item right-angle-after"><a href="https://www.emc.ncep.noaa.gov/users/meg/rapv5_hrrrv4/">RAPv5/HRRRv4 implemented on 2 December 2020</a></li>
  									 <li class="list-group-item right-angle-after"><a href="https://www.weather.gov/media/notification/scn20-105rtofs2.pdf">RTOFS implemented on 10 December 2020</a></li>
- 								         <li class="list-group-item right-angle-after"><a href="https://www.emc.ncep.noaa.gov/users/EIB/Implementations/NWPSv1-3_EE_meeting_073119.pptx">Nearshore Wave Prediction System v1.3 in December 2020</a></li>
+ 								         <li class="list-group-item right-angle-after"><a href="https://www.emc.ncep.noaa.gov/users/EIB/Implementations/NWPSv1-3_EE_meeting_073119.pptx">Nearshore Wave Prediction System v1.3 in January 2021</a></li>
  									 <li class="list-group-item right-angle-after"><a href="https://www.emc.ncep.noaa.gov/users/meg/gfsv16/">GFSv16 in February 2021</a></li>
- 									 <li class="list-group-item right-angle-after"><a href="https://www.emc.ncep.noaa.gov/users/meg/hrefv3/">HREFv3 in February 2021</a></li>
+ 									 <li class="list-group-item right-angle-after"><a href="https://www.emc.ncep.noaa.gov/users/meg/hrefv3/">HREFv3 on hold</a></li>
  									 <li class="list-group-item right-angle-after"><a href="https://www.emc.ncep.noaa.gov/users/meg/home/future.html" class="read-more-link">Additional Information </a></li>
 								</ul>
 							</div>
