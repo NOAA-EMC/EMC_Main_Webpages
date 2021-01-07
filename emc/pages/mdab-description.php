@@ -37,7 +37,7 @@
 	<ul>
 		<li style="margin-left: 0.83in;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">Data Assimilation (Dr. Daryl Kleist)</span></span></li>
 		<li style="margin-left: 0.83in;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">Coupled Modeling (Dr. Avichal Mehra)</span></span></li>
-		<li style="margin-left: 0.83in;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">Model Physics (Dr. Jian-Wen Bao, acting)</span></span></li>
+		<li style="margin-left: 0.83in;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">Model Physics (Dr. Fanglin Yang)</span></span></li>
 	</ul>
 	</li>
 </ul>
