@@ -93,6 +93,7 @@
 								<h4>Recent Publications</h4>
 								<ul class="list-group">
                                                                   <font size="2">
+								  <li class="list-group-item"><b>Abdolali, et al., 2021:</b> <a href="https://doi.org/10.1007/s10236-020-01426-9">Evaluating the accuracy and uncertainty of atmospheric and wave model hindcasts during severe events using model ensembles.</a> Published in <i>Ocean Dynamics</i></li>
 								  <li class="list-group-item"><b>Ma et al., 2020:</b> <a href="https://doi.org/10.3390/atmos11090888">Investigating the Impact of High-Resolution Land–Sea Masks on Hurricane Forecasts in HWRF.</a> Published in <i>Atmosphere</i></li>
 								  <li class="list-group-item"><b>Morris et al., 2020:</b> <a href="https://doi.org/10.1175/WAF-D-19-0201.1">A Quality Assessment of the Real-Time Mesoscale Analysis (RTMA) for Aviation.</a> Published in <i>Weather and Forecasting</i></li>
 								  <li class="list-group-item"><b>Zhang et al., 2020:</b> <a href="https://www.mdpi.com/2073-4433/11/8/801/pdf">The Impact of Stochastic Physics-Based Hybrid GSI/EnKF Data Assimilation on Hurricane Forecasts Using EMC Operational Hurricane Modeling System.</a> Published in <i>Atmosphere</i></li>
@@ -100,7 +101,6 @@
 								  <li class="list-group-item"><b>Dong et al., 2020:</b> <a href="https://doi.org/10.3390/atmos11060617">The Evaluation of Real-Time Hurricane Analysis and Forecast System (HAFS) Stand-Alone Regional (SAR) Model Performance for the 2019 Atlantic Hurricane Season.</a> Published in <i>Atmosphere</i></li>
 								  <li class="list-group-item"><b>Black, 2020:</b> <a href="https://repository.library.noaa.gov/view/noaa/23887">A documentation of the NMMB’s nesting capabilities and mechanisms.</a> NCEP Office Note #503</li>
 								  <li class="list-group-item"><b>Yang et al., 2020:</b> <a href="https://doi.org/10.25923/esw8-5n84">Application of a Nonlinear Transformation Function to the Variational Analysis of Visibility and Ceiling Height.</a> NCEP Office Note #502</li>
-								  <li class="list-group-item"><b>Purser, 2020:</b> <a href="https://repository.library.noaa.gov/view/noaa/23441">Solving the Laplace equation in a right-angled bicorn and constructing smooth functions for conformal overset grids.</a> NCEP Office Note #501</li>
                                                                   </font>
                                                                 <li class="list-group-item"><a href="https://www.emc.ncep.noaa.gov/emc/docs/EMC_Pubs_List.pdf" class="read-more-link">More Publications</a></li>
 								</ul>
