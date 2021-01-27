@@ -61,7 +61,7 @@
                                 Storm Prediction Center (SPC), and Tropical Prediction Center (TPC) are NCEP service centers. EMC and NCEP Central Operations (NCO) provide support 
                                 to the service centers; EMC by developing and maintaining numerical prediction and data assimilation models, and NCO by running the models and 
                                 maintaining NCEP's IT and comm systems. In 2005, the Space Environment Center (SEC) also became part of NCEP and was renamed the Space Weather 
-                                Prediction Center in October 2007. In 2014 the Hydrometerological Prediction Center (HPC) was renamed the Weather Prediction Center (WPC).</p>
+                                Prediction Center in October 2007. In 2010 the Tropical Prediction Center was renamed the National Hurricane Center (NHC). In 2014 the Hydrometerological Prediction Center (HPC) was renamed the Weather Prediction Center (WPC).</p>
                                 
                                 <p style="margin-left:0px; margin-right:0px; text-align:start">
                                 In the summer of 2012, EMC moved to its current home, the NOAA Center for Weather and Climate Prediction (NCWCP) in College Park, MD. 
