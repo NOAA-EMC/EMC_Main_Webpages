@@ -54,8 +54,7 @@
                                             <li class="list-group-item">
                                             <h5><a class="read-more-link" href="https://www.emc.ncep.noaa.gov/emc/pages/projects/monsoondesk.php">NCEP Monsoon Desk</a></h5>
                                             <span class="more">
-        										The Monsoon Desk at NOAA's National Centers for Environmental Prediction (NCEP) s<span class="moreellipses">...&nbsp;</span><span class="morecontent"><span>erves as the modality to coordinate numerical model simulations and diagnostics between NCEP and MoES parties in India. For details please read the Monsoon Desk curriculum.  
-                                            </span>&nbsp;&nbsp;<a href="" class="morelink">Show more &gt;</a></span></span>
+        					The Monsoon Desk at NOAA's National Centers for Environmental Prediction (NCEP) serves as the modality to coordinate numerical model simulations and diagnostics between NCEP and MoES parties in India. For details please read the Monsoon Desk curriculum.  
                                             </li>
                                          </ul>
                                       </div>

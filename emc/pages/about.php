@@ -63,8 +63,7 @@
                                             <li class="list-group-item">
                                             <h5><a class="read-more-link" href="https://www.emc.ncep.noaa.gov/emc/pages/strategicvision.php">Our Strategic Vision</a></h5>
                                             <span class="more">
-        										We develop numerical forecast systems and enhance numerical forecast through nume<span class="moreellipses">...&nbsp;</span><span class="morecontent"><span>rical compuational technology and data assimilation techniques.  
-                                            </span>&nbsp;&nbsp;<a href="" class="morelink">Show more &gt;</a></span></span>
+                                                We maintain, enhance and transition to operations advanced numerical guidance systems for the Nation's weather/water/climate enterprise and the global community for the protection of life/property and the enhancement of the economy. 
                                             </li>
                                          </ul>
                                       </div>
@@ -75,8 +74,7 @@
                                             <li class="list-group-item">
                                             <h5><a class="read-more-link" href="https://www.emc.ncep.noaa.gov/emc/pages/ourhistory.php">Our History</a></h5>
                                             <span class="more">
-        										EMC's history started with its predecessor, the Joint Numerical Weather Predictio<span class="moreellipses">...&nbsp;</span><span class="morecontent"><span>n (JNWPU) which began in 1954. Over the years EMC has evolved into one of the primary centers for the development and advancement in the nations' numerical weather, water, and climate prediction.  
-                                            </span>&nbsp;&nbsp;<a href="" class="morelink">Show more &gt;</a></span></span>
+        						EMC's history started with its predecessor, the Joint Numerical Weather Prediction (JNWPU) which began in 1954. Over the years EMC has evolved into one of the primary centers for the development and advancement in the nations' numerical weather, water, and climate prediction.  
                                             </li>
                                          </ul>
                                       </div>
@@ -99,8 +97,7 @@
                                             <li class="list-group-item">
                                             <h5><a class="read-more-link" href="https://www.emc.ncep.noaa.gov/emc/pages/collaborators.php">Collaborators</a></h5>
                                             <span class="more">
-        										Collaborating with other organizations is a crucial component to our success. We <span class="moreellipses">...&nbsp;</span><span class="morecontent"><span>collectively improve our strength by collaborating with many government agencies, universities, private sector organizations, and interim projects within the NOAA community.  
-                                            </span>&nbsp;&nbsp;<a href="" class="morelink">Show more &gt;</a></span></span>
+        					Collaborating with other organizations is a crucial component to our success. We collectively improve our strength by collaborating with many government agencies, universities, private sector organizations, and interim projects within the NOAA community.  
                                             </li>
                                          </ul>
                                       </div>

@@ -45,8 +45,7 @@
                                             <li class="list-group-item">
                                             <h5><a class="read-more-link" href="https://www.emc.ncep.noaa.gov/emc/pages/infrastructure.php">Infrastructure</a></h5>
                                             <span class="more">
-        										We develop models for different components of the Earth System so that we can imp<span class="moreellipses">...&nbsp;</span><span class="morecontent"><span>rove our weather/climate/ocean forecasts.  
-                                            </span>&nbsp;&nbsp;<a href="" class="morelink">Show more &gt;</a></span></span>
+        					We develop models for different components of the Earth System so that we can improve our weather/climate/ocean forecasts.  
                                             </li>
                                          </ul>
                                       </div>
