@@ -120,7 +120,7 @@
     								<li><a href="https://www.emc.ncep.noaa.gov/emc/pages/ourhistory.php">Our History</a></li>
     								<li><a href="https://www.emc.ncep.noaa.gov/emc/pages/components-leadership.php">Components/Leadership</a></li>
     								<li><a href="https://www.emc.ncep.noaa.gov/emc/pages/collaborators.php">Collaborators</a></li>
-    								<li><a href="https://www.emc.ncep.noaa.gov/emc/docs/EMC_Fed_Contractor_Awards.pdf">Awards</a></li>
+    								<li><a href="https://www.emc.ncep.noaa.gov/emc/docs/EMC_Awards.pdf">Awards</a></li>
     								<li><a href="https://www.emc.ncep.noaa.gov/emc/pages/careers.php">Careers</a></li>
     								<li><a href="https://www.emc.ncep.noaa.gov/emc/pages/contact.php">Contact Us</a></li>
     								<li><a href="https://www.emc.ncep.noaa.gov/emc/pages/staff.php">Staff Directory</a></li>
