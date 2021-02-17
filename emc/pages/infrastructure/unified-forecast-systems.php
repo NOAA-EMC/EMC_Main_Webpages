@@ -47,6 +47,8 @@ global $browser_title;
 
 <p align="left" style="line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">October 6, 2020 : UFS Medium Range Weather Application v1.1 is now available. For details, please visit the <a href="https://ufscommunity.org//news/medrangeweatherapp_v1p1/">UFS portal web site</a> on this release.</font></span></p>
 
+<p align="left" style="line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">July 2020: Launch of UFS Research to Operations (UFS-R2O) Project. For details, please visit the <a href="https://vlab.ncep.noaa.gov/web/ufs-r2o">UFS-R2O web site</a>.</font></span></p>
+
 <p align="left" style="line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">The first UFS Users Workshop was held virtually from 27-29 July 2020. For the meeting agenda and links to presentations, please visit the <a href="https://dtcenter.org/events/2020/unified-forecast-system-ufs-users-workshop/agenda">workshop web site</a>.</font></span></p>
 
 <p align="left" style="line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">March 11, 2020 : The first official release of a UFS application, the UFS Medium Range Weather Application v1.0, is now available. For details, please visit the <a href="https://ufscommunity.org//news/medrangeweatherapp/">UFS web site </a> or the <a href=ihttps://www.noaa.gov/media-release/noaa-launches-new-approach-to-accelerate-innovation-and-new-science-in-weather">official NOAA press release</a>.</font></span></p>
