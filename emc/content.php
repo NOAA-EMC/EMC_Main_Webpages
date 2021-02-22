@@ -136,7 +136,7 @@
  									 <li class="list-group-item right-angle-after"><a href="https://www.weather.gov/media/notification/scn20-105rtofs2.pdf">RTOFS implemented on 10 December 2020</a></li>
  								         <li class="list-group-item right-angle-after"><a href="https://www.emc.ncep.noaa.gov/users/EIB/Implementations/NWPSv1-3_EE_meeting_073119.pptx">Nearshore Wave Prediction System v1.3 implemented on 3 February 2021</a></li>
  									 <li class="list-group-item right-angle-after"><a href="https://www.emc.ncep.noaa.gov/users/meg/gfsv16/">GFSv16 in March 2021</a></li>
- 									 <li class="list-group-item right-angle-after"><a href="https://www.emc.ncep.noaa.gov/users/meg/hrefv3/">HREFv3 in Spring 2021</a></li>
+ 									 <li class="list-group-item right-angle-after"><a href="https://www.emc.ncep.noaa.gov/users/meg/hrefv3/">HREFv3 in May 2021</a></li>
  									 <li class="list-group-item right-angle-after"><a href="https://www.emc.ncep.noaa.gov/users/meg/home/future.html" class="read-more-link">Additional Information </a></li>
 								</ul>
 							</div>
