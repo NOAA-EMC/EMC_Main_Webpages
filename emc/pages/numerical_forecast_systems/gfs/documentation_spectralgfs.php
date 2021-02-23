@@ -16,7 +16,7 @@ global $browser_title;
           </li>
           <li class="nav-item">
             <a class="nav-link active" href="https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/gfs/documentation.php">
-              Documentation
+              Documentation 
             </a>
           </li>
           <li class="nav-item">
@@ -29,9 +29,9 @@ global $browser_title;
               References
             </a>
           </li>
-		</ul>
+	</ul>
 		
-		<h6 class="sidebar-heading d-flex justify-content-between align-items-center px-3 mt-4 mb-1 text-muted">
+	<h6 class="sidebar-heading d-flex justify-content-between align-items-center px-3 mt-4 mb-1 text-muted">
           <span>Others</span>
           <a class="d-flex align-items-center text-muted" href="#">
             <span data-feather="plus-circle"></span>
@@ -44,7 +44,7 @@ global $browser_title;
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" href="http://mag.ncep.noaa.gov/model-guidance-model-parameter.php?group=Model%20Guidance&model=GFS&area=NAMER&ps=area">
+            <a class="nav-link active " href="http://mag.ncep.noaa.gov/model-guidance-model-parameter.php?group=Model%20Guidance&model=GFS&area=NAMER&ps=area">
               Model Guidance
             </a>
           </li>
@@ -75,7 +75,7 @@ global $browser_title;
      	<div id="description">
 				<center>
 <h1>The Global Forecast System (GFS) - Global Spectral Model (GSM)</h1>
-<span style="font-size:16px;">(Updated May 2016, March 2018 and June 2019)</span>
+<span style="font-size:16px;">(Updated May 2016, March 2018, June 2019, and March 2021)</span>
 
 <ul>
 	<li style="text-align: left;"><a href="https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/gfs/implementations.php"><u>Recent GFS implementation details</u></a></li>
@@ -92,11 +92,7 @@ global $browser_title;
 </ul>
 ___________________________________________________________________________________________________________________</center>
 
-<h3><strong>PLEASE NOTE : On June 12, 2019 EMC implemented version 15 of the Global Forecast System (GFS) in production. The major component of this implementation was to replace the global spectral model with the Finite Volume Cubed Sphere (FV3) dynamical core, developed at NOAA's Geophysical Fluid Dynamics Laboratory (GFDL). The operational FV3GFS runs the same physics as the previous GFS, except that the Zhao-Carr microphysics with the more advanced GFDL microphysics scheme.</strong></h3>
-
-<h3><strong>More details on the implementation of the FV3GFS can be found in the <a href="https://www.weather.gov/media/notification/scn19-40gfs_v15_1.pdf">NWS Service Change Notice</a>, on <a href="https://vlab.ncep.noaa.gov/web/fv3gfs">EMC's FV3GFS page</a> on the NOAA Virtual Lab web site, or at the "Recent GFS Implementation details" link above. </strong></h3>
-
-<h3><strong>The following documentation of the GFS Global Spectral Model which follows will remain for reference for the time being.</strong></h3>
+<h3><strong>PLEASE NOTE : The following documentation is for the Global Spectral Model, which ran in the GFS from 1980-2019. For documentation on the current GFS, click on the "Documentation" link at the top of the dashboard on the left side of this page.</strong></h3>
 <p>
 
 <h3>1.0 The NCEP Global Forecast System (GFS)</h3>

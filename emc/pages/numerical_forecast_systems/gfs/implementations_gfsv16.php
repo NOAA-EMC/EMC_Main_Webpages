@@ -14,18 +14,18 @@ global $browser_title;
               Dashboard <span class="sr-only">(current)</span>
             </a>
           </li>
-          <li class="nav-item">
+          <li class="nav-item active">
             <a class="nav-link active" href="https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/gfs/documentation.php">
               Documentation
             </a>
           </li>
-          <li class="nav-item">
+          <li class="nav-item active">
             <a class="nav-link active" href="https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/gfs/implementations.php">
               Implementations
             </a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link active" href="https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/gfs/references.php">
+          <li class="nav-item active">
+            <a class="nav-link" href="https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/gfs/references.php">
               References
             </a>
           </li>
@@ -53,11 +53,6 @@ global $browser_title;
               Performance
             </a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link active" href="https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/gfs/documentation_spectralgfs.php">
-              Legacy Spectral Model-based GFS Documentation
-            </a>
-          </li>
         </ul>
       </div>
     </nav>
@@ -74,6 +69,315 @@ global $browser_title;
       </div>
      	<div id="description">
 				<p style="text-align: center;"><span style="font-size: 26px;">List of GFS Implementations (scroll to the end of this page for a list of all NCEP global model implementations since 1980)</span></p>
+
+<table>
+	<tbody>
+		<tr>
+			<td width="100">
+			<h2><u>Date</u></h2>
+			</td>
+			<td>
+			<h2><u>Title</u></h2>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" bgcolor="#e5e4e2"><b>Q2FY21</b></td>
+			<td valign="top" bgcolor="#e5e4e2"><b><a href="javascript:void();"><font color="#008000">GFS v16</font></a> - implementated on <font color="#008000">March 17, 2021, 12 UTC</font></b>
+			<table id="div7">
+				<tbody>
+					<tr>
+						<td>
+						<div><br>
+					<span style="font-family: courier new;">On March 17, 2021, beginning with the 1200 Coordinated Universal Time (UTC) run, the National Centers for Environmental Prediction (NCEP) will upgrade the GFS and Global Data Assimilation System (GDAS) from version 15.3 to 16.0. As part of this upgrade, the previously standalone global deterministic WAVEWATCH III wave model Multi_1 will run coupled to the GFS forecast. GFS version 16.0 is the first major upgrade to the Finite Volume Cubed Sphere (FV3) dynamical core-based GFS, which replaced the spectral dynamical core in June 2019. In this upgrade, NCEP is increasing the number of model vertical layers from 64 to 127 and extending the model top from the upper stratosphere (~55 km height) to the mesopause (~80 km height).  Changes include the following:</span>
+						<ul>
+							<li><span style="font-family: courier new;">Changes to the model components and physics </span></li>
+							<li><span style="font-family: courier new;">Changes to the wave model </span></li>
+							<li><span style="font-family: courier new;">Changes to the data assimilation</span></li>
+							<li><span style="font-family: courier new;">Changes to product output products</span></li>
+						</ul>
+						<span style="font-family: courier new;"> 1) Changes to the forecast model components and physics<br>
+						<br>
+						<ul>
+							<li><span style="font-family: courier new;">Updated Planetary Boundary Layer (PBL) scheme, namely a scale-aware Turbulent Kinetic Energy Based Moist Eddy-Diffusivity Mass-Flux (sa-TKE-EDMF) parameterization for vertical turbulent mixing.</span></li>
+							<li><span style="font-family: courier new;">New parameterization of sub-grid scale gravity-wave physics. </span></li>
+							<li><span style="font-family: courier new;">Updated radiation package to improve solar radiation absorption by water clouds and a revised cloud overlap assumption for radiation calculation.</span></li>
+							<li><span style="font-family: courier new;">Revised ground heat flux calculation over snowpack. </span></li>
+							<li><span style="font-family: courier new;">Improved cloud microphysics for computing ice cloud effective radius </span></li>
+						</ul>
+
+						<br>
+						<span style="font-family: courier new;"> 2) Changes to the wave model<br>
+						<br>
+                                                   The current operational standalone global deterministic wave model Multi_1 (wave_multi_1.v3.3) 
+                                                   will become a component in the GFS, coupled using a one-way scheme in which the atmospheric model 
+                                                   provides winds to the WAVEWATCH III model.  New features include a grid redesign, wave-current 
+                                                   interaction and improved physics optimized to more frequent atmospheric forcing.<br>
+						<br>
+						3) Changes to Data Assimilation </span></p>
+
+						<ul>
+							<li><span style="font-family: courier new;">Use observational precipitation to drive and spin up the uncoupled Global Land Data Assimilation System (GLDAS) in the GDAS cycle to provide more realistic land initial conditions </span></li>
+							<li><span style="font-family: courier new;">Use a Local Ensemble Kalman Filter (LETKF) with model space localization and linearized observation operator to replace the Ensemble Square Root Filter (EnSRF) </span></li>
+							<li><span style="font-family: courier new;">Apply a new 4-Dimensional Incremental Analysis Update (4D-IAU) technique </span></li>
+							<li><span style="font-family: courier new;">Turn on Stochastic Kinetic Energy Backscatter (SKEB) scheme in GDAS ensemble forecasts </span></li>
+							<li><span style="font-family: courier new;">Update variational Quality Control (QC) </span></li>
+							<li><span style="font-family: courier new;">Apply Hilbert curve to aircraft data </span></li>
+							<li><span style="font-family: courier new;">Update aircraft bias correction with safeguards </span></li>
+							<li><span style="font-family: courier new;">Assimilate additional COSMIC-2 GNSS-RO data (COSMIC-2 E1 and E2) </span></li>
+							<li><span style="font-family: courier new;">Apply correlated observation error for CrIS over sea surfaces and IASI over sea and land</span></li>
+							<li><span style="font-family: courier new;">Assimilate AMSU-A channel 14 and ATMS channel 15 without bias correction </span></li>
+							<li><span style="font-family: courier new;">Assimilate CSR data from ABI_G16, AHI_Himawari8, and SEVIRI_M08 </span></li>
+							<li><span style="font-family: courier new;">Assimilate AVHRR from NOAA-19 and Metop-B for near sea-surface temperature (NSST)</span></li>
+							<li><span style="font-family: courier new;">Assimilate high-density flight-level wind, temperature, and moisture observations in tropical storm environment </span></li>
+							<li><span style="font-family: courier new;">Upgrade to Community Radiative Transfer Model (CRTM) v2.3.0 </span></li>
+						</ul>
+
+						<p><span style="font-family: courier new;">4) Changes to directory structures on the NCEP Web services<br>
+                                                          <br>
+                                                            WAVEWATCH III multi_1 products found on NOMADS/ftpprd in pub/data/nccf/com/wave/prod/<br>
+                                                            will be replaced by GFS.v16 Wave products and moved to the GFS directory structure for NOMADS/ftpprd:<br>
+                                                            pub/data/nccf/com/gfs/prod/<br>  
+                                                          <br>
+                                                          With this upgrade, the following changes occur on either the NCEP web services:<br>
+                                                           <a href="https://nomads.ncep.noaa.gov/pub/data/nccf/com/">https://nomads.ncep.noaa.gov/pub/data/nccf/com/</a><br> 
+                                                           <a href="ftp://ftpprd.ncep.noaa.gov/pub/data/nccf/com/">ftp://ftpprd.ncep.noaa.gov/pub/data/nccf/com/</a><br>
+                                                          or on the NWS Web services:<br>
+                                                           <a href="https://tgftp.nws.noaa.gov/SL.us008001/ST.opnl/">https://tgftp.nws.noaa.gov/SL.us008001/ST.opnl/</a><br> 
+                                                           <a href="ftp://tgftp.nws.noaa.gov/SL.us008001/ST.opnl/">ftp://tgftp.nws.noaa.gov/SL.us008001/ST.opnl/</a><br> 
+						</span></p>
+
+						<ul>
+                                                     <li><span style="font-family: courier new;">Atmospheric output:</span></li>
+                                                      <ul>
+							<li><span style="font-family: courier new;">pub/data/nccf/com/gfs/prod/gfs.YYYYMMDD/CC/atmos </span></li>
+							<li><span style="font-family: courier new;">pub/data/nccf/com/gfs/prod/gdas.YYYYMMDD/CC/atmos </span></li>
+							<li><span style="font-family: courier new;">pub/data/nccf/com/gfs/prod/enkfgdas.YYYYMMDD/CC/atmos </span></li>
+                                                      </ul>
+                                                     <li><span style="font-family: courier new;">Wave output:</span></li>
+                                                      <ul>
+							<li><span style="font-family: courier new;">pub/data/nccf/com/gfs/prod/gfs.YYYYMMDD/CC/wave </span></li>
+							<li><span style="font-family: courier new;">pub/data/nccf/com/gfs/prod/gdas.YYYYMMDD/CC/wave </span></li>
+                                                      </ul>
+						</ul>
+						<span style="font-family: courier new;">where YYYYMMDD is year, month, and day and CC is cycle.<br>
+						<br>
+						5) Changes to the output file names on the NCEP Web services </span>
+
+						<ul>
+                                                    <li> GFS native grid files: The format of GFS analysis and forecast history files is changed from nemsio 
+                                                         (binary) to netcdf, including a change of file extension. For example:
+                                                         <ul>
+                                                           <li>gfs.tCCz.atmanl.nemsio  --> gfs.tCCz.atmanl.nc
+                                                           <li>gfs.tCCz.sfcanl.nemsio  --> gfs.tCCz.sfcanl.nc
+                                                           <li>gfs.tCCz.atmfHHH.nemsio --> gfs.tCCz.atmfHHH.nc
+                                                           <li>gfs.tCCz.sfcfHHH.nemsio --> gfs.tCCz.sfcfHHH.nc
+                                                         </ul>
+                                                           Where CC is 00, 06, 12, 18, and HHH is 000-012
+                                                    <li> GDAS native grid files: The format of GDAS analysis and forecast history files is changed from nemsio 
+                                                         (binary) to netcdf, including a change of file extension.  For example:
+                                                         <ul>
+                                                           <li>gdas.tCCz.atmanl.nemsio --> gdas.tCCz.atmanl.nc
+                                                           <li>gdas.tCCz.sfcanl.nemsio --> gdas.CCz.sfcanl.nc
+                                                           <li>gdas.tCCz.atmfHHH.nemsio --> gdas.tCCz.atmfHHH.nc 
+                                                           <li>gdas.tCCz.sfcfHHH.nemsio --> gdas.tCCz.sfcfHHH.nc 
+                                                         </ul>
+                                                           Where CC is 00, 06, 12, 18, and HHH is 000-012
+                                                    <li> ENKFGDAS native grid files: The format of EnKF forecast history files is changed from nemsio (binary) 
+                                                         to netcdf, including a change of file extension.  For example:  gdas.tCCz.sfcfHHH.nemsio --> gdas.tCCz.sfcfHHH.nc
+                                                    <li> WAVE grib2 files: The output grib2 file names change to align with the rest of the GFS.
+                                                          <ul>
+                                                            <li> Prefix changes from multi_1 to gfswave or gdaswave
+                                                            <li> Grid resolution naming convention changes and some products replaced by new output
+                                                               <ul>
+                                                                  <li> glo_30mext    --> global.0p25
+                                                                  <li> glo_30m       --> global.0p16, gsouth.0p25
+                                                                  <li> at_10m        --> atlocn.0p16
+                                                                  <li> wc_10m        --> wcoast.0p16
+                                                                  <li> ak_10m        --> arctic.9km
+                                                                  <li> ep_10m        --> epacif.0p16
+                                                               </ul>
+                                                                 Example: multi_1.glo_30mext.t00z.f000.grib2 ->  gfswave.t00z.global.0p25.f000.grib2 
+                                                          </ul>
+                                                    <li> GFSWAVE bulletin and spectra tar files: The station output names will change with the prefix 
+                                                         going from multi_1 to gfswave for the wave bulletin and spectra tar files. Example:<br>
+                                                         multi_1.t12z.spec_tar.gz-> gfswave.t12z.spec_tar.gz
+                                                    <li> GTG turbulence: The file that contained the GTG turbulence will be replaced by a file with 
+                                                         both GTG turbulence and icing severity:<br> 
+                                                         gfs.tCCz.gtg.0p25.fFFF.grib2 -> gfs.tCCz.wafs_0p25.fFFF.grib2
+                                                </ul>
+
+						<p><span style="font-family: courier new;">6) Changes to Variables on the NCEP Web services </span></p>
+
+						<ul>
+                                                     <li> The following changes will be made to GFS station BUFR soundings:
+                                                        <ul> 
+                                                           <li> Remove station elevation adjustment from grid terrain to station terrain. 
+                                                                When model grid terrain height is different from station elevation, 
+                                                                temperature, humidity and pressure were adjusted to the station surface in GFS V15. 
+                                                                This adjustment is removed in GFS V16.
+                                                           <li> Correct unit and values for surface evaporation. The values and units of the net 
+                                                                surface evaporation in GFS V15 is actually the surface latent heat net flux with 
+                                                                unit of (W m-2). The values have been changed to net surface evaporation with units of kg/m**2.
+                                                           <li> Replace nearest neighbor grid point for bufr station HILO (Hilo, Hawaii) with a better-represented 
+                                                                grid point with similar terrain height and profile to the station. This update was made after 
+                                                                extensive investigation. The original grid point is located to the west of the station 
+                                                               (lat/lon: 19.73967/204.8438); the new grid point is to the south (lat/lon: 19.62252/204.9609).
+                                                           <li> Add bufr station character IDs to the sounding files in the header section.
+                                                        </ul>
+                                                     <li> Update atmospheric pressure GRIB (pgrb2) files as follows: 
+                                                        <ul>
+                                                           <li> Unify all 3-D fields to have the same 41 standard isobaric layers for all forecast hours, including analysis time.
+                                                           <li> Add seven more pressure levels (at 0.01, 0.02, 0.04, 0.07, 0.1, 0.2, 0.7 hPa) for all isobaric fields 
+                                                                in the upper stratosphere and the mesosphere
+                                                           <li> Add several new variables including cloud ceiling height (HGT), instantaneous total column 
+                                                                cloud fraction (TCDC), instantaneous cloud fraction (LCDC/MCDC/HCDC) at low/middle/high cloud, 
+                                                                1 and 4 km radar reflectivity (REFD), radar reflectivity (REFD) at model layer 1 and 2, 
+                                                                mixed layer convective available potential (CAPE) and convective inhibition (CIN), plant canopy 
+                                                                surface water (CWAT), soil moisture (SOILL) at 0-0.1, 0.1-0.4, 0.4-1,1-2 m below ground level, 
+                                                                sea ice thickness (ICETK), surface roughness (SFCR), sea ice skin temperature (ICETMP), 
+                                                                soil type (SOTYP), vegetation type (VEG) and frictional velocity (FRICV).
+                                                           <li> Remove the legacy field 5-wave height (5WAVE), one of the two land-sea masks LANDN, 
+                                                                and the icing severity. The icing severity will be moved to the new file: gfs.tHHz.wafs_0p25.fFFF.grib2. 
+                                                           <li> Replace the land-sea mask (LAND) obtained via nearest neighbor interpolation with the one 
+                                                                interpolated via bi-linear interpolation.
+                                                           <li> Replace filtered Shuell Sea Level Pressure with unfiltered one using the same ID (PRMSL). 
+                                                                The heavily filtered Shuell Sea Level has caused confusion to users due to its inconsistency 
+                                                                with the 10m wind field.  
+                                                           <li> Change labeling of time averaged cloud fraction at low/middle/high clouds from TCDC to LCDC, MCDC, HCDC.
+                                                           <li> Increase GRIB precision for several variables. A complete list can be found 
+                                                                <a href="https://www.nco.ncep.noaa.gov/pmb/changes/GFSv16_sflux_precision.pdf"> here.</a>
+                                                           <li> Remove all isobaric specific humidity fields (SPFH) from atmospheric pressure GRIB 
+                                                                backup (pgrb2b) files. A subset of these isobaric specific humidity fields have been moved to
+                                                                pgrb2 files; SPFH at the following pressure levels have been removed: 125 hPa to 975 hPa every 50 hPa.
+                                                           <li> Replace legacy synthetic nadir GOES 12/13 with synthetic nadir ABI GOES-R in the following files: 
+                                                                gfs.tCCz.goessimpgrb2fFFF.grd221
+                                                           <li> Remove lifted index (LFTX) from the surface flux (sfluxgrb) files; users may get this field from 
+                                                                pressure GRIB (pgrb2) files. 
+                                                           <li> Change the Grib2 master table version number from 2 to 6 for all variables in gfs.tCCz.wafs_grb45fFF.grib2
+							</ul>
+							</li>
+						</ul>
+
+						<p><span style="font-family: courier new;">7) Additions to Product and Files on NCEP Web Services<br>
+						<ul>
+                                                    <li> New parameters are included in the gfswave grib2 output files:
+                                                      <ul>
+                                                        <li> Significant wave height of third swell partition (SWELL:3)
+                                                        <li> Mean wave period of third swell partition (SWPER:3)
+                                                        <li> Mean wave direction of third swell partition (SWDIR:3)
+                                                      </ul>
+                                                    <li> Add gdas.tCCz.crisf4.tm00.bufr_d files containing level 1B radiance data from the 
+                                                         S-NPP/N20 CrIS instrument. The previously available CrIS data was discontinued by 
+                                                         the upstream provider in early 2020.
+                                                    <li> Add the new file gfs.tHHz.wafs_0p25_unblended.fFF.grib2 to be used by UK Metoffice 
+                                                         to produce blended WAFS products. The file contains icing severity and GTG turbulence on 
+                                                         limited ICAO standard levels of exact numbers, as well as CB field.
+                                                    <li> Add the station time series BUFR station lists. The new stations are:
+                                                       <ul>
+                                                          <li> 048327 18.77N  98.96E VTCC CHIANG MAI, THAILAND 
+                                                          <li> 048381 16.47N 102.78E VTUK KHON KAEN, THAILAND
+                                                          <li> 048400 15.77N 100.14E VTPN NAKHON SAWAN, THAILAND
+                                                          <li> 048407 15.25N 104.87E VTUU UBON RATCHATHANI, THAILAND 
+                                                          <li> 048453 13.67N 100.61E BKK BANGKOK THAILAND 
+                                                          <li> 048568  7.19N 100.61E VTSH 10 SONGKHLA, THAILAND
+                                                       </ul>
+                                                    <li> Add new consolidated aviation file: gfs.tHHz.wafs_0p25.fFFF.grib2 
+                                                         containing GTG turbulence and icing severity.  
+                                                    <li> Change the grib2 parameter of icing severity changed from 234 to 37 and the mnemonic from ICSEV to ICESEV.
+                                                    <li> Interpolate Icing Severity and Turbulence products onto ICAO standard levels of reference numbers 
+                                                         instead of standard pressure levels.
+                                                  </ul>
+						</ul>
+
+						<p><span style="font-family: courier new;">8) Removal/Replacement from NCEP Web Services: </span></p>
+
+						<ul>
+                                                   <li> Replace legacy synthetic nadir GOES 12/13 on global 1 degree grid with synthetic nadir ABI 
+                                                        GOES-R products on global .25 degree grid. Remove gfs.tCCz.goessimpgrb2.1p00.fFFF and 
+                                                        replace with gfs.tCCz.goessimpgrb2.0p25.fFFF 
+                                                   <li> Remove WAFS blended product at 1.25 deg: WAFS_blended_YYYYMMDDHHfFF.grib2
+                                                   <li> Remove Wave Products with replacements where noted:
+                                                        <ul>
+                                                          <li> All products from legacy grids: akw, enp, wna, nww3
+                                                          <li> All 4-arcmin grib2 data files: ak_4m, at_4m, wc_4m
+                                                          <li> Binary forcing files (icean_5m, gfs_30m, aoc_15m)
+                                                          <li> CSV bulletins (csbull)
+                                                          <li> multi_1.glo_30m.tCCz.fFFF.grib2 removed, replaced by  
+                                                              <ul>
+                                                                <li> gdaswave.tCCz.global.0p16.fFFF.grib2,     
+                                                                <li> gfswave.tCCz.global.0p16.fFFF.grib2, 
+                                                                <li> gdaswave.tCCz.gsouth.0p25.fFFF.grib2, and 
+                                                                <li> ggfswave.tCCz.gsouth.0p25.fFFF.grib2
+                                                              </ul>
+                                                          <li> multi_1.at_10m.tCCz.f???.grib2 removed, replaced by gdaswave.tCCz.atlocn.0p16.fFFF.grib2 
+                                                               and gfswave.tCCz.atlocn.0p16.fFFF.grib2
+                                                          <li> multi_1.wc_10m.tCCz.f???.grib2 removed, replaced by gdaswave.tCCz.wcoast.0p16.fFFF.grib2 
+                                                               and gfswave.tCCz.wcoast.0p16.fFFF.grib2
+                                                          <li> multi_1.ep_10m.tCCz.f???.grib2 removed, replaced by gdaswave.tCCz.epacif.0p16.fFFF.grib2 
+                                                               and gfswave.tCCz.epacif.0p16.fFFF.grib2
+                                                          <li> multi_1.ak_10m.tCCz.fFFF.grib2 removed, replaced by gdaswave.tCCz.arctic.9km.fFFF.grib2 
+                                                               and gfswave.tCCz.arctic.9km.fFFF.grib2
+                                                          <li> multi_1.glo_30mext.tCCz.fFFF.grib2 removed, replaced by gdaswave.tCCz.global.0p25.fFFF.grib2 
+                                                               and gfswave.tCCz.global.0p25.fFFF.grib2 
+                                                       </ul>
+                                                    </ul>
+
+
+						<p><span style="font-family: courier new;">9) Product Timing and Volume Changes </span></p>
+						<ul>
+                                                   <li> Increase in data volume of the pgrb2 files by approximately 55% per file.
+                                                   <li> Increase in data volume of sflux files by approximately 29%.
+                                                   <li> Increase in data volume of pgrbfull files by approximately 32%
+                                                   <li> Decrease data volume of pgrb2b files by approximately 5%
+                                                   <li> Increase data volume of each bufr station from 100kb to 190kb; 
+                                                        Increase AWIPS collective files size by about 90%.
+                                                   <li> Delay in the delivery of the GFS atmos pgrb2 output for all resolutions, 
+                                                        starting at 8 minutes for forecast hour 000 and growing to 11 minutes for forecast hour 384
+                                                   <li> Delay in the delivery of GDAS atmos pgrb2 output by up to 26 minutes
+                                                   <li> Delay in the delivery of GDAS ensemble (ENKF) atmos output 19 to 23 minutes
+                                                   <li> Delay in the delivery of Synthetic GOES products gfs.tHHz.goessimpgrb2.0p25.fFFF files by up to 14 minutes
+                                                   <li> Delay in the delivery of WAFS product 
+                                                        gfs.tHHz.wafs_grb45fFF.grib2 by 21 minutes
+                                                   <li> Delay in the delivery of gfs.tCCz.wafs_0p25.fFFF.grib2 by up to 21 minutes, 
+                                                        which replaces the GTG turbulence product gfs.tCCz.gtg.0p25.fFFF.grib2
+                                                   <li> Delay in the delivery of WAFS wafsgfs_L_tCCz_intdskFF.grib2 and wafsgfs_P_tCCz_intdskFF.grib2
+                                                   <li> Delay in the delivery of BUFR sounding products by up to 8 minutes
+                                                   <li> Delay in the delivery of the wave spectra and bulletin files (gfswave.tHHz.spec_tar.gz, 
+                                                        gfswave.tHHz.bull_tar, gfswave.tHHz.cbull_tar) by up to 85 minutes due to the increase 
+                                                        in wave forecast from 180 to 384 hours. 
+						</ul>
+
+						<p><span style="font-family: courier new;">10) Removal of products from NOAAPort/SBN  </span></p>
+						<ul>
+                                                  <li> 5 wave height (5WAVH) legacy variable from AWIPS products: 
+                                                       20km grids (CONUS, Alaska, Puerto Rico, Pacific region) and LAT/LON 1.0 degree grid
+                                                  <li> U and V winds and temperature in wintemv legacy bulletin format for select levels: 
+                                                       850mb, 700mb, 500mb, 400mb, 300mb,250mb, 200mb, 150mb, 100mb
+                                                  <li> Ship information in navybull legacy bulletin
+                                                  <li> U and V winds, temperature, height, relative humidity in gridbuls legacy bulletin
+                                                  <li> Gridded wind-waves from AWIPS products including Alaska 10-arcmin, Alaska 4-arcmin, 
+                                                       Atlantic 4-arcmin and West Coast 4-arcmin. The Alaska grids will be replaced by the Arctic 9km grid.
+                                                  <li> Gridded wave steepness (wstp) AWIPS products for all domains.
+                                                  <li> Legacy NWW3 grids in grib1 format
+                                                  <li> All WMO headers proposed for removal are listed <a href="https://www.nco.ncep.noaa.gov/pmb/changes/gfsv16_removal_grids.php">here<a>.
+						</ul>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><br>
+_________________________________________________________________________________________________________________<br>
+<br>
+&nbsp;</p>
+
+<h1><u>Previous Implementations:</u></h1>
+
+<p>&nbsp;</p>
+
 
 <table>
 	<tbody>
@@ -359,15 +663,6 @@ global $browser_title;
 		</tr>
 	</tbody>
 </table>
-
-<p><br>
-_________________________________________________________________________________________________________________<br>
-<br>
-&nbsp;</p>
-
-<h1><u>Previous Implementations:</u></h1>
-
-<p>&nbsp;</p>
 
 <table>
 	<tbody>

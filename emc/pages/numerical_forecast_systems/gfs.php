@@ -15,17 +15,17 @@ global $browser_title;
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/gfs/documentation.php">
+            <a class="nav-link active" href="https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/gfs/documentation.php">
               Documentation
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/gfs/implementations.php">
+            <a class="nav-link active" href="https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/gfs/implementations.php">
               Implementations
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/gfs/references.php">
+            <a class="nav-link active" href="https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/gfs/references.php">
               References
             </a>
           </li>
@@ -39,36 +39,21 @@ global $browser_title;
         </h6>
         <ul class="nav flex-column mb-2">
           <li class="nav-item">
-            <a class="nav-link" href="http://www.nco.ncep.noaa.gov/pmb/products/gfs/">
+            <a class="nav-link active" href="http://www.nco.ncep.noaa.gov/pmb/products/gfs/">
               Products
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="http://mag.ncep.noaa.gov/model-guidance-model-parameter.php?group=Model%20Guidance&model=GFS&area=NAMER&ps=area">
+            <a class="nav-link active" href="http://mag.ncep.noaa.gov/model-guidance-model-parameter.php?group=Model%20Guidance&model=GFS&area=NAMER&ps=area">
               Model Guidance
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="https://vlab.ncep.noaa.gov/web/gfs/performance">
+            <a class="nav-link active" href="https://www.emc.ncep.noaa.gov/users/verification/global/">
               Performance
             </a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="https://vlab.ncep.noaa.gov/web/gfs">
-              Collaborative VLab Page
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="https://vlab.ncep.noaa.gov/web/gfs/rfcs">
-              Operational GFS system changes since 2016
-            </a>
-          </li>
         </ul>
-        
-		<!-- The file that contains the Resource links to VLAB & Help -->
-		<?php include '../portal_resources_sidelnks.php';?>
-		  
-		 
       </div>
     </nav>
 
