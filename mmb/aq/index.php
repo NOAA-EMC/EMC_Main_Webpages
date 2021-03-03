@@ -143,8 +143,18 @@
    <!--<a href="https://www.weather.gov/sti/stimodeling_airquality">NOAA  NAM 12 - CMAQ Ozone and PM Forecasts</a>-->
       <h1>The Community Multiscale Air Quality Modeling System</h1>
 
-The NOAA-EPA National Air Quality Forecast Capability (NAQFC) operational ozone predictions are created using a system that consists of the <a style="color:blue" href="https://www.weather.gov/nwsexit.php?url=https://www.epa.gov/cmaq">Community Multiscale Air Quality (CMAQ)</a> model driven by the North American Mesoscale (NAM) meteorological model. The operational CMAQ system running in NCEP uses CB05 chemical mechanism, latest point sources emissions, EPA NEI-2005 area and projected mobile sources and BEIS 3.1.3 biogenic emission. Its current domains cover CONUS, Hawaii and Alaska at 12km horizontal resolution and 35 vertical layers up to 100hPa. This system is running 4 cycles per day. The 18Z and 00Z cycles run forecasts to 6-hours, which provide the background fields for the  06Z and 12Z cycles which provide guidance to 48-hours.
-
+<p>
+The Operational  NOAA-EPA National Air Quality Forecast Capability (NAQFC) ozone and fine particulate matter 
+(PM2.5) predictions are produced twice daily to 48 forecast hours for the 06 and 12 UTC run cycles. The 
+system consists of the Community Multiscale Air Quality (CMAQ) model, which is driven by the NWS North 
+American 12 km meteorological model (<a style="color:blue" href="https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/nam.php">NAM</a>). 
+The operational CMAQ v5.0.2 running at NCEP uses CB05 chemical 
+mechanism, the AERO-5 aerosol chemistry, latest point sources emissions, EPA National Emissions Inventory 
+2014v2 area and  mobile sources and Biogenic Emissions Inventory System that uses the Biomass Emission Land 
+Database v3. Aerosol lateral boundary conditions are provided by the NWS <a  style="color:blue" href="https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/gefs_aero.php">GEFS-Aerosol</a> global 4x/day 
+predictions. Bias corrected ozone and PM2.5 predictions are also produced using the ESRL analog Kalman Filter method.
+</p>
+<br>
 The AQ model operational predictions are displayed by the National Weather Service's <a style="color:blue" href="https://airquality.weather.gov/">National Digital Forecast Database (NDFD)</a>, showing 1-hr/8-hr averages and daily maxima of 1-hr/8-hr averages of ozone. In addition, operational ozone predictions and testing of PM2.5 predictions are displayed at the links provided below.
 <br>
 <br><h3><a style="color:blue" href="https://www.weather.gov/sti/stimodeling_airquality" >National Air Quality Forecast Capability (NAQFC) : Official NWS site </a></h3>
