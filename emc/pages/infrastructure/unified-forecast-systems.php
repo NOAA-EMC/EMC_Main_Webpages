@@ -45,13 +45,13 @@ global $browser_title;
 
 <p><span style="font-family:arial,helvetica,sans-serif;"><font size="4" style="font-size: 14pt">1) Latest News</font></span></p>
 
-<p align="left" style="line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">October 6, 2020 : UFS Medium Range Weather Application v1.1 is now available. For details, please visit the <a href="https://ufscommunity.org//news/medrangeweatherapp_v1p1/">UFS portal web site</a> on this release.</font></span></p>
+<p align="left" style="line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">October 6, 2020 : UFS Medium Range Weather Application v1.1 is now available. For details, please visit the <a href="http://www.weather.gov/exit?url=https://ufscommunity.org//news/medrangeweatherapp_v1p1/">UFS community web site</a> on this release.</font></span></p>
 
 <p align="left" style="line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">July 2020: Launch of UFS Research to Operations (UFS-R2O) Project. For details, please visit the <a href="https://vlab.ncep.noaa.gov/web/ufs-r2o">UFS-R2O web site</a>.</font></span></p>
 
-<p align="left" style="line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">The first UFS Users Workshop was held virtually from 27-29 July 2020. For the meeting agenda and links to presentations, please visit the <a href="https://dtcenter.org/events/2020/unified-forecast-system-ufs-users-workshop/agenda">workshop web site</a>.</font></span></p>
+<p align="left" style="line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">The first UFS Users Workshop was held virtually from 27-29 July 2020. For the meeting agenda and links to presentations, please visit the <a href="http://www.weather.gov/exit?url=https://dtcenter.org/events/2020/unified-forecast-system-ufs-users-workshop/agenda">workshop web site</a>.</font></span></p>
 
-<p align="left" style="line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">March 11, 2020 : The first official release of a UFS application, the UFS Medium Range Weather Application v1.0, is now available. For details, please visit the <a href="https://ufscommunity.org//news/medrangeweatherapp/">UFS web site </a> or the <a href=ihttps://www.noaa.gov/media-release/noaa-launches-new-approach-to-accelerate-innovation-and-new-science-in-weather">official NOAA press release</a>.</font></span></p>
+<p align="left" style="line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">March 11, 2020 : The first official release of a UFS application, the UFS Medium Range Weather Application v1.0, is now available. For details, please visit the <a href="http://www.weather.gov/exit?url=https://ufscommunity.org//news/medrangeweatherapp/">UFS community web site </a> or the <a href=https://www.noaa.gov/media-release/noaa-launches-new-approach-to-accelerate-innovation-and-new-science-in-weather">official NOAA press release</a>.</font></span></p>
 
 <p><a id="TAB1"></a></p>
 
@@ -65,7 +65,7 @@ global $browser_title;
 
 <p style="line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">UFS applications share numerical forecast system elements, including Earth-system model components (e.g. atmosphere, ocean, sea ice, land, chemistry, etc.), observation processing, pre-processing, data assimilation, forward forecasting, ensemble and probabilistic processing, and post-processing. The applications share infrastructure such as model coupling tools and workflow software.</font></span></p>
 
-<p style="line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">Comprehensive and updated news on the Unified Forecast System can be found on the <a href="https://ufscommunity.org/">UFS Portal</a> website.</font></span></p>
+<p style="line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">Comprehensive and updated news on the Unified Forecast System can be found on the <a href="http://www.weather.gov/exit?url=https://ufscommunity.org/">UFS community</a> web page.</font></span></p>
 
 <p><a id="TAB2"></a></p>
 
@@ -90,7 +90,7 @@ global $browser_title;
 	<p style="line-height: 150%"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Implement the unified next generation model in regional applications (Rapidly Refreshed Convective-Allowing Ensemble Forecast system, Regional Nested Hurricane Forecast System)</span></span></p>
 	</li>
 	<li>
-	<p style="line-height: 150%"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">For further details see the <a href="https://ufscommunity.org/#/science/index">Applications Plan</a> on the UFS web site.</span></span></p>
+	<p style="line-height: 150%"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">For further details see the <a href="http://www.weather.gov/exit?url=https://ufscommunity.org/#/science/index">Applications Plan</a> on the UFS community web site.</span></span></p>
 	</li>
 </ul>
 
@@ -155,7 +155,7 @@ global $browser_title;
 
 <p align="left" style="margin-bottom: 0in; line-height: 150%">&nbsp;</p>
 
-<p align="left" style="margin-bottom: 0in; line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">The public release of the first Short-Range Weather Convective Allowing Model (SRW-CAM) UFS weather app is scheduled for the winter of 2021. Additional details will be forthcoming on this web page and at the <a href="https://ufscommunity.org/">UFS Web Portal</a> website.</font></span></p>
+<p align="left" style="margin-bottom: 0in; line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">The public release of the first Short-Range Weather Convective Allowing Model (SRW-CAM) UFS weather app is scheduled for the winter of 2021. Additional details will be forthcoming on this web page and at the <a href="https://ufscommunity.org/">UFS Community</a> web page.</font></span></p>
 
 <p align="left" style="margin-bottom: 0in; line-height: 150%">&nbsp;</p>
 
