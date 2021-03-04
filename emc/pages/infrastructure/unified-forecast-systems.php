@@ -45,6 +45,8 @@ global $browser_title;
 
 <p><span style="font-family:arial,helvetica,sans-serif;"><font size="4" style="font-size: 14pt">1) Latest News</font></span></p>
 
+<p align="left" style="line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">March 4, 2021 : UFS Short-Range Weather Application v1.0 is now available. For details, please visit the <a href="http://www.weather.gov/exit?url=https://ufscommunity.org/news/srwa/">UFS community web site</a> on this release.</font></span></p>
+
 <p align="left" style="line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">October 6, 2020 : UFS Medium Range Weather Application v1.1 is now available. For details, please visit the <a href="http://www.weather.gov/exit?url=https://ufscommunity.org//news/medrangeweatherapp_v1p1/">UFS community web site</a> on this release.</font></span></p>
 
 <p align="left" style="line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">July 2020: Launch of UFS Research to Operations (UFS-R2O) Project. For details, please visit the <a href="https://vlab.ncep.noaa.gov/web/ufs-r2o">UFS-R2O web site</a>.</font></span></p>
@@ -152,10 +154,6 @@ global $browser_title;
 </ul>
 
 <p align="left" style="margin-bottom: 0in; line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">The RRFS is intended to facilitate the replacement of current long-standing regional systems in the NPS: NAM/NAM nests, RAP/HRRR, and HiResW/HREF in the 2023 timeframe.</font></span></p>
-
-<p align="left" style="margin-bottom: 0in; line-height: 150%">&nbsp;</p>
-
-<p align="left" style="margin-bottom: 0in; line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">The public release of the first Short-Range Weather Convective Allowing Model (SRW-CAM) UFS weather app is scheduled for the winter of 2021. Additional details will be forthcoming on this web page and at the <a href="https://ufscommunity.org/">UFS Community</a> web page.</font></span></p>
 
 <p align="left" style="margin-bottom: 0in; line-height: 150%">&nbsp;</p>
 
