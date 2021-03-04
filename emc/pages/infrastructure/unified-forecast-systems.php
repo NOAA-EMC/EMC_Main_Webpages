@@ -140,7 +140,7 @@ global $browser_title;
 
 <p align="left" style="margin-bottom: 0in; line-height: 150%">&nbsp;</p>
 
-<p align="left" style="margin-bottom: 0in; line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">The initial implementation of the limited area FV3 in the NPS will be in the <a href="https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/href-hiresw.php">High-Resolution Forecast System/HiResW</a>, where the HiResW-NMMB member of HREF will be replaced by a limited area FV3 member, tentatively in the fall/winter of 2020. This is a step towards the eventual implementation of the Rapid Refresh Forecast System (RRFS), a convection-allowing ensemble system having the following projected configuration:</font></span></p>
+<p align="left" style="margin-bottom: 0in; line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">The initial implementation of the limited area FV3 in the NPS will be in the <a href="https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/href-hiresw.php">High-Resolution Forecast System/HiResW</a>, where the HiResW-NMMB member of HREF will be replaced by a limited area FV3 member, planned for the spring of 2021. This is a step towards the eventual implementation of the Rapid Refresh Forecast System (RRFS), a convection-allowing ensemble system having the following projected configuration:</font></span></p>
 
 <p align="left" style="margin-bottom: 0in; line-height: 150%">&nbsp;</p>
 
