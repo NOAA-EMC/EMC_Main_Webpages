@@ -93,6 +93,7 @@
 								<h4>Recent Publications</h4>
 								<ul class="list-group">
                                                                   <font size="2">
+								  <li class="list-group-item"><b>Wang et al., 2021:</b> <a href="https://doi.org/10.1175/WAF-D-20-0134.1">A New Horizontal Mixing-Length Formulation for Numerical Simulations of Tropical Cyclones.</a> Published in <i>Weather and Forecasting</i></li>
 								  <li class="list-group-item"><b>Abdolali et al., 2021:</b> <a href="https://doi.org/10.1007/s10236-020-01426-9">Evaluating the accuracy and uncertainty of atmospheric and wave model hindcasts during severe events using model ensembles.</a> Published in <i>Ocean Dynamics</i></li>
 								  <li class="list-group-item"><b>Ma et al., 2020:</b> <a href="https://doi.org/10.3390/atmos11090888">Investigating the Impact of High-Resolution Land–Sea Masks on Hurricane Forecasts in HWRF.</a> Published in <i>Atmosphere</i></li>
 								  <li class="list-group-item"><b>Morris et al., 2020:</b> <a href="https://doi.org/10.1175/WAF-D-19-0201.1">A Quality Assessment of the Real-Time Mesoscale Analysis (RTMA) for Aviation.</a> Published in <i>Weather and Forecasting</i></li>
@@ -100,7 +101,6 @@
 								  <li class="list-group-item"><b>Abdolali et al., 2020:</b> <a href="https://doi.org/10.1016/j.coastaleng.2020.103656">Large-scale Hurricane Modeling Using Domain Decomposition Parallelization and Implicit Scheme Implemented in WAVEWATCH III Wave Model.</a> Published in <i>Coastal Engineering</i></li>
 								  <li class="list-group-item"><b>Dong et al., 2020:</b> <a href="https://doi.org/10.3390/atmos11060617">The Evaluation of Real-Time Hurricane Analysis and Forecast System (HAFS) Stand-Alone Regional (SAR) Model Performance for the 2019 Atlantic Hurricane Season.</a> Published in <i>Atmosphere</i></li>
 								  <li class="list-group-item"><b>Black, 2020:</b> <a href="https://repository.library.noaa.gov/view/noaa/23887">A documentation of the NMMB’s nesting capabilities and mechanisms.</a> NCEP Office Note #503</li>
-								  <li class="list-group-item"><b>Yang et al., 2020:</b> <a href="https://doi.org/10.25923/esw8-5n84">Application of a Nonlinear Transformation Function to the Variational Analysis of Visibility and Ceiling Height.</a> NCEP Office Note #502</li>
                                                                   </font>
                                                                 <li class="list-group-item"><a href="https://www.emc.ncep.noaa.gov/emc/docs/EMC_Pubs_List.pdf" class="read-more-link">More Publications</a></li>
 								</ul>
@@ -111,15 +111,15 @@
 								<img src="emc/images/news_caption/hurricane_eye_resize.gif"/>
 								<h4>Latest News/Events</h4>
 								<ul class="list-group">
-									<li class="list-group-item right-angle-after"><a href="https://ufscommunity.org/wp-content/uploads/2020/12/Bulletin_UFS_Community_Fall_2020_Full.pdf">Fall 2020 UFS Community Bulletin: Celebrating Bill Lapenta's Legacy</a></li>
-									<li class="list-group-item right-angle-after"><a href="https://www.jcsda.org/jedi-fv3-release">The Joint Center for Satellite Data Assimilation announces the first public release of JEDI-FV3</a></li>
+									<li class="list-group-item right-angle-after"><a href="https://www.weather.gov/news/210403-ufs">Public release of the Unified Forecast System Short-Range Weather Application v1.0</a></li>
+									<li class="list-group-item right-angle-after"><a href="http://www.weather.gov/exit?url=https://ufscommunity.org/wp-content/uploads/2020/12/Bulletin_UFS_Community_Fall_2020_Full.pdf">Fall 2020 UFS Community Bulletin: Celebrating Bill Lapenta's Legacy</a></li>
+									<li class="list-group-item right-angle-after"><a href="http://www.weather.gov/exit?url=https://www.jcsda.org/jedi-fv3-release">The Joint Center for Satellite Data Assimilation announces the first public release of JEDI-FV3</a></li>
 									<li class="list-group-item right-angle-after"><a href="https://sites.google.com/a/noaa.gov/nws-insider/news-from-the-field-and-hq/2020-news-from-the-field/noaaupgradesglobalensembleforecastsystem">NWS Insider article on GEFS v12 Implementation</a></li>
-									<li class="list-group-item right-angle-after"><a href="https://www.youtube.com/watch?v=G7Q800Pi7QM&feature=youtu.be">Now Playing: NOAA Weather Partners video on EMC</a></li>
-									<li class="list-group-item right-angle-after"><a href="https://ufscommunity.org/news/medrangeweatherapp_v1p1">Public release of the Unified Forecast System Medium Range Weather Application v1.1</a></li>
-									<li class="list-group-item right-angle-after"><a href="https://dtcenter.org/events/2020/unified-forecast-system-ufs-users-workshop/agenda">UFS Users Workshop : 27-29 July 2020</a></li>
+									<li class="list-group-item right-angle-after"><a href="http://www.weather.gov/exit?url=https://www.youtube.com/watch?v=G7Q800Pi7QM&feature=youtu.be">Now Playing: NOAA Weather Partners video on EMC</a></li>
+									<li class="list-group-item right-angle-after"><a href="http://www.weather.gov/exit?url=https://ufscommunity.org/news/medrangeweatherapp_v1p1">Public release of the Unified Forecast System Medium Range Weather Application v1.1</a></li>
+									<li class="list-group-item right-angle-after"><a href="http://www.weather.gov/exit?url=https://dtcenter.org/events/2020/unified-forecast-system-ufs-users-workshop/agenda">UFS Users Workshop : 27-29 July 2020</a></li>
 									<li class="list-group-item right-angle-after"><a href="http://www.emc.ncep.noaa.gov/impdoc/impDoc.html">Documents on past (2018 and earlier) EMC changes to the NCEP Production Suite</a></li>
 									<li class="list-group-item right-angle-after"><a href="https://www.weather.gov/media/sti/nggps/UFS%20SIP%20FY19-21_20181129.pdf">Unified Forecast System FY19-21 Strategic Implementation Plan</a></li>
-									<li class="list-group-item right-angle-after"><a href="https://www.emc.ncep.noaa.gov/annualreviews/NCEPmodelReview.html">2019 NCEP Production Suite Review</a></li>
 								</ul>
 									
 							</div>
