@@ -74,8 +74,8 @@
                                 		<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><small><big><a href="https://www.emc.ncep.noaa.gov/users/verification/air_quality/cmaq/ops/">CMAQ Ozone &amp; PM Error Time Series</a></big></small></strong></span></span></li>
                                 		<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><a href="http://www.emc.ncep.noaa.gov/mmb/hchuang/web/html/hysplit_bluesky.html"><strong><small><big>HYSPLIT Smoke Forecasts vs GASP satellite</big></small></strong></a></span></span></li>
                                 		<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><a href="https://www.emc.ncep.noaa.gov/mmb/hchuang/web/html/verif_hysplit_dust.html">HYSPLIT Dust Error Time Series</a></strong></span></span></li>
-                                		<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><a href="https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/gefs_aero.php">GEFS-Aerosol Page</a></strong></span></span></li>
                                 	</ul>
+                                		<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><a href="https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/gefs_aero.php">GEFS-Aerosol Page</a></strong></span></span></li>
                                 	</li>
                                 </ul>
                                 
