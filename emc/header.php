@@ -187,7 +187,6 @@
                                     <div class="form-item form-type-textfield form-item-zip">
                                       <label class="element-invisible" for="edit-zip">Enter your ZIP code </label><br>
                                         <input placeholder="Enter City or ZIP code" class="zip-input form-text form-control" name="edit-zip" value="" size="0" maxlength="128" autocomplete="off" type="text">
-    
                                     </div>
                                     
                                     <input name="edit-submit" value="GO" class="form-submit btn btn-primary" type="submit">
