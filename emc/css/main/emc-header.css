@@ -157,6 +157,46 @@
 /**************** 
  Navigation Menu
  *****************/
+
+
+ .autocomplete-suggestions {
+    border: 1px solid darkgray;
+    background: white;
+    overflow: auto;
+}
+
+
+.menu_main_nav li a {
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.5rem;
+    line-height: 2em ;
+    font-weight: 600;
+    padding: 1.2em 0.8em;
+	color: white;
+    text-decoration: none;
+}
+
+
+
+
+#local-forecast-btn{
+    padding: 2px !important;
+    position: relative;
+    bottom: 2px;
+
+}
+
+#local-forecast-input{
+    outline:none;
+    pointer-events: none;
+    color:black;
+}
+
+#local-forecast-btn{
+  font-weight: 600 !important;
+  border-radius: 0.1em !important;
+}
+
  .navbar .navbar-nav {
   float: none;
   vertical-align: top;
@@ -174,14 +214,6 @@
     justify-content: center;
 }
 
-.menu_main_nav li a {
-    font-family: "Montserrat", sans-serif;
-    font-size: 1.5rem;
-    line-height: 1em;
-    font-weight: 600;
-	padding: 1.2em 1.2em;
-	color: white;
-}
 
 .menu_main_nav li a:hover {
 	color: white;
