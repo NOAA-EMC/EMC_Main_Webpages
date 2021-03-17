@@ -177,28 +177,15 @@
 							  <li class="nav-item">
 							  	<a href="http://www.weather.gov/help">Help</a>
 							  </li>
-							  <li class="nav-item dropdown">
-							  	<a class="nav-link dropdown-toggle" id="findWeatherIndicator" data-toggle="dropdown" href="#">Find your Local Weather</a>
-							  	<ul class="dropdown-menu">
-							  	<li>
-							  	<form id="submitWeatherForm" class="weather-widget-form no-weather hide-formatting noaa-weather-widget-form"  method="post" accept-charset="UTF-8">
-                                <div class="lower">
-                                  <div class="form-wrapper">
-                                    <div class="form-item form-type-textfield form-item-zip">
-                                      <label class="element-invisible" for="edit-zip">Enter your ZIP code </label><br>
-                                        <input placeholder="Enter City or ZIP code" class="zip-input form-text form-control" name="edit-zip" value="" size="0" maxlength="128" autocomplete="off" type="text">
-    
-                                    </div>
-                                    
-                                    <input name="edit-submit" value="GO" class="form-submit btn btn-primary" type="submit">
-                                  </div>
-                                  <div class="inner"><div id="weather"></div></div>
-<!--  <div class="autocomplete-suggestions" style="position: absolute; display: none; max-height: 300px; z-index: 9999;"></div>-->
-                                </div>
-                          </form>
+							  <li>
+								    <form id="local-forecast-form" method="post" action="https://forecast.weather.gov/zipcity.php" target="_blank">
+									<label class="local-forecast-label"><a>Local Forecast</a></label>
+									<input class="local-forecast-input form-control"  id="inputstring" name="inputstring" style="" type="text" size="12" title="Enter ZIP/City, State for local forecast" />
+									<button class="btn btn-primary local-forecast-btn" type="submit" class="btn btn-primary">Go</button>
+									</form>
 							  	</li>
-							  	</ul>
-							  </li>
+							  
+
 							  
 						  </ul>
 			
