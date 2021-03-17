@@ -178,23 +178,26 @@
 
 
 
+.local-forecast-label{
+pointer-events: none
+}
 
-#local-forecast-btn{
-    padding: 2px !important;
+.local-forecast-input{
+    outline:none;
+    color:black;
+    border-radius:2px;
+    padding:1rem;  
+    height:0;
+    width:8rem;
+    display:inline-block;
+}
+
+.local-forecast-btn{
+ font-weight: 500;
+    border-radius: 0.2em;
+    padding: 0.2em 0.3em;
     position: relative;
     bottom: 2px;
-
-}
-
-#local-forecast-input{
-    outline:none;
-    pointer-events: none;
-    color:black;
-}
-
-#local-forecast-btn{
-  font-weight: 600 !important;
-  border-radius: 0.1em !important;
 }
 
  .navbar .navbar-nav {

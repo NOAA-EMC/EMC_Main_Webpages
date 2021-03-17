@@ -177,18 +177,15 @@
 							  <li class="nav-item">
 							  	<a href="http://www.weather.gov/help">Help</a>
 							  </li>
-							  <li class="nav-item dropdown">
-							  	<a class="nav-link dropdown-toggle" id="findWeatherIndicator" data-toggle="dropdown" href="#">Find your Local Weather</a>
-							  	<ul class="dropdown-menu">
-							  	<li>
+							  <li>
 								    <form id="local-forecast-form" method="post" action="https://forecast.weather.gov/zipcity.php" target="_blank">
-									<label id="local-forecast-label"><a>Local Forecast</a></label>
-									<input id="local-forecast-input"  id="inputstring" name="inputstring" style="" type="text" size="12" title="Enter ZIP/City, State for local forecast" />
-									<button class="btn btn-primary" id="local-forecast-btn"type="submit" class="btn btn-primary">Go</button>
+									<label class="local-forecast-label"><a>Local Forecast</a></label>
+									<input class="local-forecast-input form-control"  id="inputstring" name="inputstring" style="" type="text" size="12" title="Enter ZIP/City, State for local forecast" />
+									<button class="btn btn-primary local-forecast-btn" type="submit" class="btn btn-primary">Go</button>
 									</form>
 							  	</li>
-							  	</ul>
-							  </li>
+							  
+
 							  
 						  </ul>
 			

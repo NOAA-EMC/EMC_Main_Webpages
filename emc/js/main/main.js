@@ -3,7 +3,6 @@
  */
 
 
-
 function changeWeather(obj) {
 	var formWrapper = document.getElementsByClassName("form-wrapper")[0];
 	formWrapper.style.display='inline';
@@ -59,6 +58,8 @@ function submitFn(obj, evt) {
  * Fixed an issue where the drop down links were acting funny
  */
 $(document).ready(function() {
+
+	$('#local-forecast-form')[0].reset()
 	//When the Page loads hide the search result container 
 	$('.result-container').hide();
 	pageLoadsWeatherData();
