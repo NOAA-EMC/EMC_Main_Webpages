@@ -231,7 +231,7 @@
                                             <li class="list-group-item">
                                             <h5><a class="read-more-link" id="wavewatch-iii" href="https://polar.ncep.noaa.gov/waves/">Global Wave Model (WAVEWATCH III)</a></h5>
                                             <span class="more">
-        					The NCEP operational global wave suite runs the WAVEWATCH III model, driven by wind forecasts from the NCEP Global Forecast System (GFS)  
+                                                The NCEP operational global wave model (WAVEWATCH III) runs as coupled compoet to the NCEP Global Forecast System (GFS) and in ensemble model coupled to the Global Ensemble Forecast Systen (GEFS)
                                             </li>
                                          </ul>
                                       </div>
