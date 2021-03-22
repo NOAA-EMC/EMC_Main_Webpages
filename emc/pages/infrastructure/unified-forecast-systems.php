@@ -132,7 +132,7 @@ global $browser_title;
 
 <p>&nbsp;</p>
 
-<p align="left" style="margin-bottom: 0in; line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">On March 22, 2021, GFS version 16 was implemented in NCEP Operations. With this upgrade, NCEP is merging the operational standalone global deterministic WAVEWATCH III based wave model
+<p align="left" style="margin-bottom: 0in; line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">On March 22, 2021, GFS version 16 was implemented in NCEP Operations. With this upgrade, NCEP is merging the operational global deterministic WAVEWATCH III wave model
 Multi_1 into the GFS system. An updated version of the WAVEWATCH III model has been coupled to the GFS using a one-way
 coupling scheme in which the atmospheric model provides forcing to the wave model using the NOAA Environmental Modeling System
 (NEMS). Additional information can be found on the EMC Model Evaluation Group’s <a href="https://www.emc.ncep.noaa.gov/users/meg/gfsv16/">GFS v16 website</a>, which includes numerous links
