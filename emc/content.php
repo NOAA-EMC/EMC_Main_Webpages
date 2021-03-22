@@ -111,6 +111,7 @@
 								<img src="emc/images/news_caption/hurricane_eye_resize.gif"/>
 								<h4>Latest News/Events</h4>
 								<ul class="list-group">
+									<li class="list-group-item right-angle-after"><a href="https://www.noaa.gov/media-release/noaa-upgrades-flagship-us-global-weather-model">NOAA News Release on Global Forecast System Version 16 Implementation</a></li>
 									<li class="list-group-item right-angle-after"><a href="https://www.weather.gov/news/210403-ufs">Public release of the Unified Forecast System Short-Range Weather Application v1.0</a></li>
 									<li class="list-group-item right-angle-after"><a href="http://www.weather.gov/exit?url=https://ufscommunity.org/wp-content/uploads/2020/12/Bulletin_UFS_Community_Fall_2020_Full.pdf">Fall 2020 UFS Community Bulletin: Celebrating Bill Lapenta's Legacy</a></li>
 									<li class="list-group-item right-angle-after"><a href="http://www.weather.gov/exit?url=https://www.jcsda.org/jedi-fv3-release">The Joint Center for Satellite Data Assimilation announces the first public release of JEDI-FV3</a></li>
@@ -118,7 +119,6 @@
 									<li class="list-group-item right-angle-after"><a href="http://www.weather.gov/exit?url=https://www.youtube.com/watch?v=G7Q800Pi7QM&feature=youtu.be">Now Playing: NOAA Weather Partners video on EMC</a></li>
 									<li class="list-group-item right-angle-after"><a href="http://www.weather.gov/exit?url=https://ufscommunity.org/news/medrangeweatherapp_v1p1">Public release of the Unified Forecast System Medium Range Weather Application v1.1</a></li>
 									<li class="list-group-item right-angle-after"><a href="http://www.weather.gov/exit?url=https://dtcenter.org/events/2020/unified-forecast-system-ufs-users-workshop/agenda">UFS Users Workshop : 27-29 July 2020</a></li>
-									<li class="list-group-item right-angle-after"><a href="http://www.emc.ncep.noaa.gov/impdoc/impDoc.html">Documents on past (2018 and earlier) EMC changes to the NCEP Production Suite</a></li>
 									<li class="list-group-item right-angle-after"><a href="https://www.weather.gov/media/sti/nggps/UFS%20SIP%20FY19-21_20181129.pdf">Unified Forecast System FY19-21 Strategic Implementation Plan</a></li>
 								</ul>
 									
