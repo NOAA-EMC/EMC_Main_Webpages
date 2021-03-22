@@ -77,7 +77,7 @@ global $browser_title;
 		</tr>
 		<tr>
 			<td valign="top" bgcolor="#e5e4e2"><b>Q2FY21</b></td>
-			<td valign="top" bgcolor="#e5e4e2"><b><a href="javascript:void();"><font color="#008000">GFS v16</font></a> - implementated on <font color="#008000">March 17, 2021, 12 UTC</font></b>
+			<td valign="top" bgcolor="#e5e4e2"><b><a href="javascript:void();"><font color="#008000">GFS v16</font></a> - implementated on <font color="#008000">March 22, 2021, 12 UTC</font></b>
 			<table id="div7">
 				<tbody>
 					<tr>

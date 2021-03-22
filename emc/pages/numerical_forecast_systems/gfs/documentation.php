@@ -101,7 +101,7 @@ for this change, on <a href="https://vlab.ncep.noaa.gov/web/fv3gfs">EMC's GFS pa
 at the "Recent GFS Implementation details" link above. Comprehensive information on the official evaluation 
 of GFS v15 is available at the <a href="https://www.emc.ncep.noaa.gov/users/meg/fv3gfs/">EMC GFS V15 Model Evaluation Group’s (MEG) web site</a>.
 <br>
-<p>On March 17th, 2021, NCEP implemented GFS version 16. In addition to the numerous model and data assimilation changes 
+<p>On March 22th, 2021, NCEP implemented GFS version 16. In addition to the numerous model and data assimilation changes 
 that are described in the <a href="https://www.weather.gov/media/notification/scn_21-20_gfsv16.0_aaa_update.pdf">NWS Service Change Notice</a>, 
 with this upgrade, NCEP is merging the operational standalone global deterministic WAVEWATCH III based wave model 
 Multi_1 into the GFS system. An updated version of the WAVEWATCH III model has been coupled to the GFS using a one-way 
