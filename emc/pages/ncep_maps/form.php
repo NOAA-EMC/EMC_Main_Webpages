@@ -86,7 +86,6 @@ function generateSourcePath($map, $varname, $modelOld, $modelNew, $season, $n, $
 $imageStr = generateSourcePath($map, $varname,$modelOld,$modelNew, $season, $n, $domain, $period, $mask);
 $img = "../images/P6/". $map. "/".$imageStr;
 
-var_dump($img);
 function generateImg($img){
     if (file_exists($img)) {
         $src = $img;

@@ -9,7 +9,7 @@
 <div id="mapsContainer">
         <form class="form-group mapsMenu" action="" method="post">  
                             <label>Map</label>
-                        <select class="form-control" name="maps">
+                        <select class="form-control" name="map">
                                 <option><?php echo $biasmapsOption  ?></option>
                         </select>                  
                         <label>Varname</label>

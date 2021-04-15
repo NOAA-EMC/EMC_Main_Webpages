@@ -3,11 +3,14 @@
 
 <div id="mainHeader">
     <div class="header">
-    <?php echo $map ?>
     </div>
 </div>
 <div id="mapsContainer">
         <form class="form-group mapsMenu" action="" method="post"> 
+                        <label>Map</label>
+                        <select class="form-control" name="map">
+                                <option><?php echo $diffmapsOption  ?></option>
+                        </select>  
                         <label>Varname</label>
                         <select class="form-control" name="varname">
                             <?php foreach($varNameOption as $varname) { ?>
