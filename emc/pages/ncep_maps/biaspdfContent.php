@@ -3,6 +3,18 @@
 
 <div id="mainHeader">
     <div class="header">
+    <div id="buttonContainer">
+        <form action="../diffmaps/index.php">
+        <button class="btn btn-primary">Diffmaps</button>
+        </form action = "">
+        <form action="../biasmaps/index.php">
+        <button class="btn btn-primary">Biasmaps</button>
+        </form>
+        <form action="../biaspdf/index.php">
+        <button class="btn btn-primary">Biaspdf</button>
+        </form>
+    </div>
+
     </div>
 </div>
 <div id="mapsContainer">
@@ -17,6 +29,12 @@
                                 <option><?php echo $varname  ?></option>
                             <?php } ?>
                         </select>
+                        <label>Model Old </label>
+                        <select class="form-control" name="modelOld">
+                            <?php foreach($modelOldOption as $modelOld) { ?>
+                                <option><?php echo $modelOld  ?></option>
+                            <?php } ?>
+                        </select> 
                         <label>Model New </label>
                         <select class="form-control" name="modelNew">
                             <?php foreach($modelNewOption as $modelNew) { ?>
@@ -41,10 +59,10 @@
                                 <option><?php echo $domain  ?></option>
                             <?php } ?>
                         </select>
-                        <label>Period</label>
-                        <select class="form-control" name="period">
-                            <?php foreach($periodOption as $period) { ?>
-                                <option><?php echo $period  ?></option>
+                        <label>mask</label>
+                        <select class="form-control" name="mask">
+                            <?php foreach($maskOption as $mask) { ?>
+                                <option><?php echo $mask  ?></option>
                             <?php } ?>
                         </select>
                         <br>
@@ -52,9 +70,8 @@
                         <button class="btn btn-primary" name="submitBtn">Submit</button>
                 </form>
                         
-    <div class="mapsImages">
-    <?php if($content === "image not found"){ return " ";}?>
-    <img src="<?php echo $content ?>" />
+    <div id="mapsImages">
+    <?php  echo $content ?>
     </div>
     </div>
 </div>

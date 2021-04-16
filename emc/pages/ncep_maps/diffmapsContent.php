@@ -1,8 +1,19 @@
-<?php include './data.php'?>
-<?php include './form.php' ?>
+<?php include '../../data.php'?>
+<?php include '../../form.php' ?>
 
 <div id="mainHeader">
     <div class="header">
+    <div id="buttonContainer">
+        <form action="../diffmaps/index.php">
+        <button class="btn btn-primary">Diffmaps</button>
+        </form action = "">
+        <form action="../biasmaps/index.php">
+        <button class="btn btn-primary">Biasmaps</button>
+        </form>
+        <form action="../biaspdf/index.php">
+        <button class="btn btn-primary">Biaspdf</button>
+        </form>
+    </div>
     </div>
 </div>
 <div id="mapsContainer">
@@ -16,13 +27,13 @@
                             <?php foreach($varNameOption as $varname) { ?>
                                 <option><?php echo $varname  ?></option>
                             <?php } ?>
-                        </select>                   
-                        <label>Varname</label>
-                        <select class="form-control" name="varname">
-                            <?php foreach($varNameOption as $varname) { ?>
-                                <option><?php echo $varname  ?></option>
+                        </select>   
+                        <label>Model Old </label>
+                        <select class="form-control" name="modelOld">
+                            <?php foreach($modelOldOption as $modelOld) { ?>
+                                <option><?php echo $modelOld  ?></option>
                             <?php } ?>
-                        </select>
+                        </select>                
                         <label>Model New </label>
                         <select class="form-control" name="modelNew">
                             <?php foreach($modelNewOption as $modelNew) { ?>
@@ -57,10 +68,8 @@
                    
                         <button class="btn btn-primary" name="submitBtn">Submit</button>
                 </form>
-                        
-     <div class="mapsImages">
-    <?php if($content === "image not found"){ return " ";}?>
-    <img src="<?php echo $content ?>" />
+     <div id="mapsImages">
+     <?php echo $content ?>
     </div>
     </div>
 </div>

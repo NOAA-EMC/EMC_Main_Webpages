@@ -3,6 +3,17 @@
 
 <div id="mainHeader">
     <div class="header">
+    <div id="buttonContainer">
+        <form action="../diffmaps/index.php">
+        <button class="btn btn-primary">Diffmaps</button>
+        </form action = "">
+        <form action="../biasmaps/index.php">
+        <button class="btn btn-primary">Biasmaps</button>
+        </form>
+        <form action="../biaspdf/index.php">
+        <button class="btn btn-primary">Biaspdf</button>
+        </form>
+    </div>
 
     </div>
 </div>
@@ -52,10 +63,10 @@
                    
                         <button class="btn btn-primary" name="submitBtn">Submit</button>
                 </form>
-    <div class="mapsImages">
-    <?php if($content === "image not found"){ return " ";}?>
-    <img src="<?php echo $content ?>" />
-    </div>
+
+    <div id="mapsImages">
+    <?php echo $content ?>
+   </div>
     </div>
 </div>
 

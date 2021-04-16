@@ -71,7 +71,7 @@ function generateSourcePath($map, $varname, $modelOld, $modelNew, $season, $n, $
 
     }
 
-    if($map = "diffmaps"){
+    if($map === "diffmaps"){
         $imageSrc = $map.'.'.$varname.'.'.$modelNew.'.vs.'.$modelOld.'.'.$season.'.'.$n.'ICs'.'.'.$period.'.'.$domain.'.png';
     }
 
@@ -84,16 +84,18 @@ function generateSourcePath($map, $varname, $modelOld, $modelNew, $season, $n, $
 }
 
 $imageStr = generateSourcePath($map, $varname,$modelOld,$modelNew, $season, $n, $domain, $period, $mask);
-$img = "../images/P6/". $map. "/".$imageStr;
 
-function generateImg($img){
-    if (file_exists($img)) {
-        $src = $img;
-    } else {
-        $src = "image not found";
-    }
-    return $src;
+$img = " ";
+
+
+
+function generateImg($img,$map, $imageStr){
+if(isset($_POST['submitBtn'])){
+    $img =  '<img class="map" src='. "../../images/P6/". $map. "/".$imageStr. ' />';
+    return $img;
 }
+}
+   
 
-$content = generateImg($img);
+$content = generateImg($img, $map, $imageStr);
 
