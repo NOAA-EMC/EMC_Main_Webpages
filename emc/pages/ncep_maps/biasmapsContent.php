@@ -25,7 +25,7 @@
                         </select>                  
                         <label>Varname</label>
                         <select class="form-control" name="varname">
-                            <?php foreach($varNameOption as $varname) { ?>
+                            <?php foreach($biasmapsVarname as $varname) { ?>
                                 <option><?php echo $varname  ?></option>
                             <?php } ?>
                         </select>
@@ -37,25 +37,25 @@
                         </select>
                         <label>Season</label>
                         <select class="form-control" name="season">
-                            <?php foreach($seasonOption as $season) { ?>
+                            <?php foreach($biasmapsSeason as $season) { ?>
                                 <option><?php echo $season  ?></option>
                             <?php } ?>
                         </select>
                         <label>N</label>
                         <select class="form-control" name="n">
-                            <?php foreach($nOption as $n) { ?>
+                            <?php foreach($biasmapsNs as $n) { ?>
                                 <option><?php echo $n  ?></option>
                             <?php } ?>
                         </select>
                         <label>Domain</label>
                         <select class="form-control" name="domain">
-                            <?php foreach($domainOption as $domain) { ?>
+                            <?php foreach($biasmapsDomain as $domain) { ?>
                                 <option><?php echo $domain  ?></option>
                             <?php } ?>
                         </select>
                         <label>Period</label>
                         <select class="form-control" name="period">
-                            <?php foreach($periodOption as $period) { ?>
+                            <?php foreach($biasmapsPeriod as $period) { ?>
                                 <option><?php echo $period  ?></option>
                             <?php } ?>
                         </select>

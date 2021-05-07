@@ -33,9 +33,7 @@ if(empty($_POST['season'])){
 if(empty($_POST['season'])){
     $season = null;
 }
-if(isset($_POST['season'])){
-    $season =  $_POST['season'];
-}
+
 
 if(empty($_POST['n'])){
     $n = null;
@@ -43,7 +41,19 @@ if(empty($_POST['n'])){
 
 if(isset($_POST['n'])){
     $n = $_POST['n'];
+
+
+if(isset($_POST['season'])){
+    $season =  $_POST['season'];
+    if($season === "AllAvailable"){
+        $n = '28';
+    }else{
+        $n = '7';
+    }
 }
+
+}
+
 
 if(empty($_POST['domain'])){
     $domain = null;
@@ -64,11 +74,14 @@ if(empty($_POST['period'])){
 
 
 
-function generateSourcePath($map, $varname, $modelOld, $modelNew, $season, $n, $domain, $period, $mask){
+function generateSourcePath($map, $varname, $modelOld, $modelNew, $season,$n, $domain, $period, $mask){
     $imageSrc = null;
+  
     if($map === "biasmaps"){
         $imageSrc = $map.'.'.$varname.'.'.$modelNew.'.'.$season.'.'.$n.'ICs'.'.'.$domain.'.'.$period.'.png';
 
+
+    
     }
 
     if($map === "diffmaps"){
@@ -76,6 +89,7 @@ function generateSourcePath($map, $varname, $modelOld, $modelNew, $season, $n, $
     }
 
     if($map === "biaspdf"){
+        
        $imageSrc = $map.'.'.$varname.'.'.$modelOld.'.'.$modelNew.'.'.$season.'.'.$n.'ICs'.'.'.$domain.'.'.$mask.'.png';
     }
 

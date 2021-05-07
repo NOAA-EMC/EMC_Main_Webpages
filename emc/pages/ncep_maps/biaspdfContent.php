@@ -25,7 +25,7 @@
                         </select>                    
                         <label>Varname</label>
                         <select class="form-control" name="varname">
-                            <?php foreach($varNameOption as $varname) { ?>
+                            <?php foreach($biaspdfVarname as $varname) { ?>
                                 <option><?php echo $varname  ?></option>
                             <?php } ?>
                         </select>
@@ -43,25 +43,25 @@
                         </select>
                         <label>Season</label>
                         <select class="form-control" name="season">
-                            <?php foreach($seasonOption as $season) { ?>
+                            <?php foreach($biaspdfSeason as $season) { ?>
                                 <option><?php echo $season  ?></option>
                             <?php } ?>
                         </select>
                         <label>N</label>
                         <select class="form-control" name="n">
-                            <?php foreach($nOption as $n) { ?>
+                            <?php foreach($biaspdfNs as $n) { ?>
                                 <option><?php echo $n  ?></option>
                             <?php } ?>
                         </select>
                         <label>Domain</label>
                         <select class="form-control" name="domain">
-                            <?php foreach($domainOption as $domain) { ?>
+                            <?php foreach($biaspdfDomain as $domain) { ?>
                                 <option><?php echo $domain  ?></option>
                             <?php } ?>
                         </select>
                         <label>mask</label>
                         <select class="form-control" name="mask">
-                            <?php foreach($maskOption as $mask) { ?>
+                            <?php foreach($biaspdfMask as $mask) { ?>
                                 <option><?php echo $mask  ?></option>
                             <?php } ?>
                         </select>
