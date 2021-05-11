@@ -210,7 +210,7 @@
                                             <li class="list-group-item">
                                             <h5><a class="read-more-link" id="href-hiresw" href="https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/href-hiresw.php">High-Resolution Ensemble Forecast</a></h5>
                                             <span class="more">
-        					The High-Resolution Ensemble Forecast system employs NCEP's operational convection-allowing (~3km) systems to generate ensemble products, using current/time-lagged forecasts from the HiresWindow run (ARW/NMMB over CONUS, Alaska, Hawaii, Puerto Rico). For the CONUS, the NAM 3km nest is also used.  
+        					The High-Resolution Ensemble Forecast system employs NCEP's operational convection-allowing (~3km) systems to generate ensemble products, using current/time-lagged forecasts from the HiresWindow run (ARW/FV3LAM over CONUS, Alaska, Hawaii, Puerto Rico). For the CONUS, the HRRR and the NAM 3km nest is also used.  
                                          </ul>
                                       </div>
                                              									
@@ -231,7 +231,7 @@
                                             <li class="list-group-item">
                                             <h5><a class="read-more-link" id="wavewatch-iii" href="https://polar.ncep.noaa.gov/waves/">Global Wave Model (WAVEWATCH III)</a></h5>
                                             <span class="more">
-        					The NCEP operational global wave suite runs the WAVEWATCH III model, driven by wind forecasts from the NCEP Global Forecast System (GFS)  
+                                                The NCEP operational global wave model (WAVEWATCH III) runs as coupled component to the NCEP Global Forecast System (GFS) and Global Ensemble Forecast System (GEFS)
                                             </li>
                                          </ul>
                                       </div>
