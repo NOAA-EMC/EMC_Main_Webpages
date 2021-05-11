@@ -35,28 +35,9 @@ global $browser_title;
                 <li class="nav-item">
                     <a class="nav-link"  aria-selected="false"
                     data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://www.emc.ncep.noaa.gov/projects/nems-doc/documentation.html&amp;source=gmail&amp;ust=1528979474471000&amp;usg=AFQjCNGhigUiwKVDRWVpgpe_nikSasgXQA" 
-                    href="http://www.emc.ncep.noaa.gov/projects/nems-doc/documentation.html" target="_blank">
+                    href="https://noaa-emc.github.io/NEMS_doc_ufs-v2.0.0/documentation.html" target="_blank">
                     <u>NEMS Users Guide and Reference</u>
                 </a></span>
-                </li>
-                <li class="nav-item">
-                	<a class="nav-link"  aria-selected="false"
-                	data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://vlab.ncep.noaa.gov/web/environmental-modeling-center/nems1&amp;source=gmail&amp;ust=1528979474472000&amp;usg=AFQjCNHqMLDky0GmRhQruUdC68iNEEX-IQ" 
-                	href="https://vlab.ncep.noaa.gov/web/environmental-modeling-center/nems1" target="_blank">
-                	<u>NEMS Community on VLab</u>
-                	</a>
-                </li>
-                <li class="nav-item">
-                	<a class="nav-link"  aria-selected="false"
-                	data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://vlab.ncep.noaa.gov/web/environmental-modeling-center/nems-applications&amp;source=gmail&amp;ust=1528979474472000&amp;usg=AFQjCNG7pkJ2KZqS8gpnq4nWIK4TdSQGyQ" 
-                	href="https://vlab.ncep.noaa.gov/web/environmental-modeling-center/nems-applications" target="_blank">
-                	<u>NEMS Applications Listing</u>
-                	</a>
-                </li>
-                <li class="nav-item">
-                	<a class="nav-link" id="nems-doc-tab" data-toggle="tab" href="#nemsdoc" role="tab" aria-controls="nemsdoc" aria-selected="false">
-                	<u>NEMSIO Software Documentation</u>
-                	</a>
                 </li>
            </ul>
 
@@ -89,29 +70,16 @@ global $browser_title;
             			<h3 style="text-align: left;"><span style="font-size:18px;"><span style="font-family:arial,helvetica,sans-serif;"><u>Past Operational Implementations of NEMS at NCEP</u></span></span></h3>
             
             			<ul>
-            				<li style="text-align: left;"><i>NMM-B with nests for operational NAM</i></li>
-            				<li style="text-align: left;"><i>Global Spectral Model in Global Forecast System </i></li>
-            				<li style="text-align: left;"><em>Hurricanes in a Multi-scale Ocean coupled Non-hydrostatic model (HMON)</em></li>
-            				<li style="text-align: left;"><i>NEMS GFS Aerosol Component (NGAC)</i></li>
-            				<li style="text-align: left;"><i>NMM-B Members of the Short-Range Ensemble Forecast System (SREF)</i></li>
-            				<li style="text-align: left;"><i>NMM-B members of High-Resolution Ensemble Forecast System (HREF) / HiresW</i></li>
-            				<li style="text-align: left;"><i>FV3 version of Global Forecast System with NEMS framework (June 2019)</i></li>
-            				<li style="text-align: left;"><i>FV3 version of the Global Ensemble Forecast System (September 2020)</i></li>
+            		 	<li style="text-align: left;"><i>NMM-B with nests for operational NAM</i></li>
+            			<li style="text-align: left;"><i>Global Spectral Model in Global Forecast System </i></li>
+            			<li style="text-align: left;"><em>Hurricanes in a Multi-scale Ocean coupled Non-hydrostatic model (HMON)</em></li>
+            			<li style="text-align: left;"><i>NEMS GFS Aerosol Component (NGAC)</i></li>
+            			<li style="text-align: left;"><i>NMM-B Members of the Short-Range Ensemble Forecast System (SREF)</i></li>
+            			<li style="text-align: left;"><i>NMM-B members of High-Resolution Ensemble Forecast System (HREF) / HiresW</i></li>
+            			<li style="text-align: left;"><i>FV3 version of Global Forecast System with NEMS framework (June 2019)</i></li>
+            			<li style="text-align: left;"><i>FV3 version of the Global Ensemble Forecast System (September 2020)</i></li>
+                                <li style="text-align: left;"><i>Limited-area FV3 version in the High-Resolution Ensemble Forecast System (HREF, May 2021)</i></li>
             			</ul>
-            
-            			<h3 style="text-align: left;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:18px;"><u>Presentations</u></span></span></h3>
-            
-            			<center style="text-align: left;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><u><a href="http://www.emc.ncep.noaa.gov/NEMS/presentations/NEMS-AMS.ppt">The NOAA Environmental Modeling System at NCEP</a></u> : Mark Iredell and Tom Black - AMS Conference on NWP - January 27, 2011</span></span></center>
-            
-            			<center style="text-align: left;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><a href="http://www.emc.ncep.noaa.gov/users/Eric.Rogers/documents/FV3training-June2018-NEMS.pdf">NEMS Overview</a> : Mark Iredell, NCEP FV3 Training Workshop, June 13, 2018</span></span></center>
-            
-            			<center>
-            			<h3 style="text-align: left;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><u>Links of Interest</u></span></span></h3>
-            			</center>
-            
-            			<center style="text-align: left;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><u><a href="http://www.emc.ncep.noaa.gov/projects/nems-doc/documentation.html">NEMS Users Guide and Reference </a></u></span></span></center>
-            
-            			<center style="text-align: left;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><a href="https://vlab.ncep.noaa.gov/web/environmental-modeling-center/nems1"><u>NEMS Community on VLab </u></a>(Login may be required)</span></span></center>
             
             			</td>
             		</tr>

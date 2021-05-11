@@ -237,18 +237,18 @@ global $browser_title;
                 			<td>No</td>
                 		</tr>
                 		<tr>
-                			<td><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/ncep_hiresw/"><strong>NCEP HiResWindow Forecast Page - EMC Web pages </strong> </a></td>
+                			<td><a href="https://www.emc.ncep.noaa.gov/mmb/mpyle/hiresw/"><strong>NCEP HiResWindow Forecast Page - EMC Web pages </strong> </a></td>
                 			<td>
                 			<ul>
-                				<li>CONUS NMMB and ARW (00Z,12Z) vs ops NAM 3km CONUS nest</li>
-                				<li>Hawaii NMMB and ARW (00Z/12Z) vs ops NAM 3km Hawaii nest</li>
-                				<li>Guam NMMB and ARW (00Z/12Z)</li>
-                				<li>Puerto Rico NMMB and ARW (06Z/18Z) vs ops NAM 3km Puerto Rico nest</li>
-                				<li>Alaska NMMB and ARW (06z/18Z) vs ops NAM 3km Alaska nest</li>
+                				<li>CONUS FV3, ARW, and ARW2 (00Z,12Z)</li>
+                				<li>Hawaii FV3, ARW, and ARW2 (00Z/12Z)</li>
+                				<li>Guam FV3 and ARW (00Z/12Z)</li>
+                				<li>Puerto Rico FV3, ARW, and ARW2 (06Z/18Z)</li>
+                				<li>Alaska FV3, ARW, and ARW2 (06z/18Z)</li>
                 			</ul>
                 			</td>
                 			<td>48-h</td>
-                			<td>3 hours</td>
+                			<td>1 hour</td>
                 			<td>Yes</td>
                 			<td>No</td>
                 		</tr>
@@ -257,9 +257,9 @@ global $browser_title;
                 			<td>
                 			<ul>
                 				<li>Model Area = CONUS, HAWAII, ALASKA, GUAM, or PR (Puerto Rico)</li>
-                				<li>Model Type = HRW-NMM or HWR-ARW for CONUS, HAWAII, GUAM</li>
-                				<li>Model Type = HRW-NMM-AK or HWR-ARW-AK for ALASKA</li>
-                				<li>Model Type = HRW-NMM-PR or HWR-ARW-PR for Puerto Rico</li>
+                				<li>Model Type = HRW-FV3 or HWR-ARW for CONUS, HAWAII, GUAM</li>
+                				<li>Model Type = HRW-FV3-AK or HWR-ARW-AK for ALASKA</li>
+                				<li>Model Type = HRW-FV3-PR or HWR-ARW-PR for Puerto Rico</li>
                 			</ul>
                 			</td>
                 			<td>48-h</td>
@@ -269,12 +269,12 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<div><a href="http://www.emc.ncep.noaa.gov/mmb/mpyle/href_v2awips"><strong>HREF fields for CONUS, Alaska, Hawaii, and Puerto Rico </strong></a></div>
+                			<div><a href="http://www.emc.ncep.noaa.gov/mmb/mpyle/hrefv3"><strong>HREF fields for CONUS, Alaska, Hawaii, and Puerto Rico </strong></a></div>
                 			</td>
                 			<td>
-                			<div>HREFv2 Ensemble Probability Fields</div>
+                			<div>HREF Ensemble Probability Fields</div>
                 			</td>
-                			<td>36-h</td>
+                			<td>48-h</td>
                 			<td>1 hour</td>
                 			<td>Yes</td>
                 			<td>1 day</td>
@@ -407,7 +407,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                				<a href="http://www.emc.ncep.noaa.gov/mmb/bblake/fv3/"><strong>Standalone regional FV3 (FV3-SAR) experimental runs</strong></a>
+                			<a href="https://www.emc.ncep.noaa.gov/users/emc.campara/rrfs/"><strong>Limited-Area FV3 Model (FV3-LAM) parallel experimental runs</strong></a>
                 			</td>
                 			<td>
                 			<div>
@@ -420,43 +420,7 @@ global $browser_title;
                 			</td>
                 			<td>Yes</td>
                 			<td>
-                			<p>4 days</p>
-                			</td>
-                		</tr>
-                                <tr>
-                                        <td>
-                                                <a href="https://www.emc.ncep.noaa.gov/users/meg/hrefv3/hiresw_graphics/"><strong>Parallel HIRESW fields for CONUS, Alaska, Hawaii, and Puerto Rico</strong></a>
-                                        </td>
-                                        <td>
-                                        <div>
-                                        <p>Parallel HIRESW Fields</p>
-                                        </div>
-                                        </td>
-                                        <td>48-h</td>
-                                        <td>
-                                        <p>hourly</p>
-                                        </td>
-                                        <td>Yes</td>
-                                        <td>
-                                        <p>4 days</p>
-                                        </td>
-                                </tr>
-                		<tr>
-                			<td>
-                				<a href="https://www.emc.ncep.noaa.gov/users/meg/hrefv3/href_graphics/"><strong>Parallel HREF (HREF v3) fields for CONUS, Alaska, Hawaii, and Puerto Rico</strong></a>
-                			</td>
-                			<td>
-                			<div>
-                			<p>Parallel HREFv3 Ensemble Probability Fields</p>
-                			</div>
-                			</td>
-                			<td>48-h</td>
-                			<td>
-                			<p>hourly</p>
-                			</td>
-                			<td>Yes</td>
-                			<td>
-                			<p>1 days</p>
+                			<p>2-4 days</p>
                 			</td>
                 		</tr>
                 	</tbody>
@@ -572,28 +536,16 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<p><a href="https://www.emc.ncep.noaa.gov/users/Logan.Dawson/fv3cam_verif/"><strong>FV3-CAM parallel runs vs HRRR, NAM CONUS nest Verification Graphics/Scorecards </strong></a></p>
+                			<p><a href="https://www.emc.ncep.noaa.gov/users/verification/regional/cam/para/"><strong>FV3-LAM parallel runs vs HRRR, NAM CONUS nest Verification Graphics/Scorecards </strong></a></p>
                 			</td>
                 			<td>
-                			<p>Scorecards and time series of grid-to-obs and precipitation verification scores for the FV3-CAM runs vs the NAM CONUS nest and HRRR</p>
+                			<p>Scorecards and time series of grid-to-obs and precipitation verification scores for the FV3-LAM runs vs the NAM CONUS nest and HRRR</p>
                 			</td>
                 			<td>
-                			<p>NAM CONUS nest, HRRR, FV3-CAM parallels</p>
+                			<p>NAM CONUS nest, HRRR, FV3-LAM parallels</p>
                 			</td>
                 			<td>Last 6 weeks</td>
                 		</tr>
-                                <tr>
-                                        <td>
-                                        <p><a href="https://www.emc.ncep.noaa.gov/users/meg/hrefv3/verif/"><strong>Parallel HREFv3 / Parallel HIRESW Verification Page </strong></a></p>
-                                        </td>
-                                        <td>
-                                        <p>Scorecards and time series of verification scores for the Parallel HREFv3 / HIRESW run</p>
-                                        </td>
-                                        <td>
-                                        <p>Operational and Parallel HREF, HIRESW</p>
-                                        </td>
-                                        <td>Last 6 weeks</td>
-                                </tr>
                 	</tbody>
                 </table>
                 
@@ -626,6 +578,65 @@ global $browser_title;
                 			<th>Date (link goes to on-line documentation)</th>
                 			<th>Contents/major changes</th>
                 		</tr>
+
+                                <tr>
+                                        <th>
+                			<center>&nbsp;</center>
+                
+                			<center><strong>11 May 2021 </strong></center>
+                
+                			<center>&nbsp;</center>
+                
+                			<center><a href="https://www.emc.ncep.noaa.gov/users/meg/hrefv3/updates/NCEP_OD_Brief_2020-08-28_HREFv3.pptx"><strong>Technical Briefing </strong></a></center>
+                			&nbsp;
+                
+                			<center><a href="https://www.emc.ncep.noaa.gov/users/meg/hrefv3/updates/MEG_2020-07-30_HREFv3_MEG_Overview.pptx"><strong>Overview with verification results </strong></a></center>
+                
+                			<center>&nbsp;</center>
+
+                			</th>
+                			<th style="text-align: left;">Changes to the HIRESW/HREF modeling system:
+                			<ol type="1">
+                				<li> The Finite Volume Cubed Sphere (FV3) model replaces the
+                                                    Nonhydrostatic Multiscale Model on B-grid (NMMB) within the
+                                                    HIRESW system.</li>
+                				<li> The HiresW-FV3 increases the resolution of the HiresW-NMMB
+                                                    it replaces (from 3.2 km to 3.0 km horizontal grid spacing,
+                                                    from 50 levels to 60 levels in the vertical), and extends the
+                                                    forecast range from 48 h to 60 h. No changes in vertical resolution
+                                                    or forecast length are being made for the ARW HIRESW runs.</li>
+                                                <li> The initialization of the HiresW-FV3 differs from the
+                                                    HiresW-NMMB it replaces for all domains except Guam. All
+                                                    HiresW-FV3 domains are initialized from a 6 h old cycle of the
+                                                    Global Forecast System (GFS). Previously the HiresW-NMMB
+                                                    utilized North American Model (NAM) surface conditions for all
+                                                    non-Guam domains, and took atmospheric initial conditions from
+                                                    the Rapid Refresh (RAP) for the CONUS and Puerto Rico domains.</li> 
+                                                <li> The HiresW-FV3 also utilizes a very different set of
+                                                    physics than the HiresW-NMMB being replaced. In both models no
+                                                    parameterized convection is used, but the HiresW-FV3 otherwise
+                                                    is using GFSv15 physics (GFDL microphysics, GFS PBL/sfc layer), 
+                                                    while the HiresW-NMMB utilized NAM-style physics (modified Ferrier
+                                                    microphysics, MYJ PBL/sfc layer.</li>
+                                                <li> Changes to HREF model membership:
+                                                    <ol type=a> 
+                					<li> The HIRESW-FV3 replaces the HIRESW-NMMB for all domains within
+                                                            the HREF.
+                                                        <li> The High Resolution Rapid Refresh (HRRR) is added as a new
+                                                            member for the CONUS and Alaska domains of HREF. A 6 h old 
+                                                            time-lagged member of HRRR also is added for these domains. HREF
+                                                            membership size increases from 8 to 10 for CONUS, and from 6 to
+                                                            8 for Alaska. The membership size of the Hawaii and Puerto Rico
+                                                            domains remains unchanged at 6 members. 
+                                                    </ol>
+                                                <li> HIRESW/HREF output file changes are described in the 
+                                                     <a href="https://www.weather.gov/media/notification/scn21-38hiresw_v8_hrefaaa.pdf">NWS Service Change Notice</a>
+                			</ol>
+                			</th>
+                		</tr>
+                           
+                                <tr>
+
                                         <th>
                 			<center>&nbsp;</center>
                 

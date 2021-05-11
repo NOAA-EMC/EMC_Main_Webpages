@@ -132,6 +132,14 @@ global $browser_title;
 
 <p>&nbsp;</p>
 
+<p align="left" style="margin-bottom: 0in; line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">On March 22, 2021, GFS version 16 was implemented in NCEP Operations. With this upgrade, NCEP is merging the operational global deterministic WAVEWATCH III wave model
+Multi_1 into the GFS system. An updated version of the WAVEWATCH III model has been coupled to the GFS using a one-way
+coupling scheme in which the atmospheric model provides forcing to the wave model using the NOAA Environmental Modeling System
+(NEMS). Additional information can be found on the EMC Model Evaluation Group’s <a href="https://www.emc.ncep.noaa.gov/users/meg/gfsv16/">GFS v16 website</a>, which includes numerous links
+to presentations showing details on GFS v16 model/assimilation changes and performance evaluations.</font></span></p>
+
+<p>&nbsp;</p>
+
 <p><a id="TAB4"></a></p>
 
 <p><span style="font-family:arial,helvetica,sans-serif;"><font size="4" style="font-size: 14pt">5) UFS at NCEP : Advancement toward a Convection-Allowing Ensemble System</font></span></p>
@@ -140,7 +148,7 @@ global $browser_title;
 
 <p align="left" style="margin-bottom: 0in; line-height: 150%">&nbsp;</p>
 
-<p align="left" style="margin-bottom: 0in; line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">The initial implementation of the limited area FV3 in the NPS will be in the <a href="https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/href-hiresw.php">High-Resolution Forecast System/HiResW</a>, where the HiResW-NMMB member of HREF will be replaced by a limited area FV3 member, planned for the spring of 2021. This is a step towards the eventual implementation of the Rapid Refresh Forecast System (RRFS), a convection-allowing ensemble system having the following projected configuration:</font></span></p>
+<p align="left" style="margin-bottom: 0in; line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">The initial implementation of the limited area FV3 in the NPS was made on May 11, 2021 in the <a href="https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/href-hiresw.php">High-Resolution Forecast System/HiResW</a>, with the HiResW-NMMB member of HREF replaced by a limited area FV3 member. This is a step towards the eventual implementation of the Rapid Refresh Forecast System (RRFS), a convection-allowing ensemble system having the following projected configuration:</font></span></p>
 
 <p align="left" style="margin-bottom: 0in; line-height: 150%">&nbsp;</p>
 
