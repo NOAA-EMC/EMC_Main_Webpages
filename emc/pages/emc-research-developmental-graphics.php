@@ -95,7 +95,6 @@
                                 		<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;"><big><a href="https://polar.ncep.noaa.gov/global/fronts"><b>Ocean Fronts (Gulf Stream, Loop Current, Kuroshio)</b></a></big></span></span></li>
                                 		<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;"><big><a href="https://polar.ncep.noaa.gov/global/class-4/cable"><b>Florida Cable Transports</b></a></big></span></span></li>
                                 		<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;"><big><a href="https://polar.ncep.noaa.gov/global/class-1/"><b>Global RTOFS Class-1 Satellite Verification</b></a></big></span></span></li>
-                                		<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;"><big><b>Class-1 Satellite Validation</b> <strong>(coming soon)</strong><strong> </strong></big></span></span></li>
                                 	</ul>
                                 	</li>
                                 </ul>
