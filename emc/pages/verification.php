@@ -54,11 +54,13 @@
                                 	</li>
                                 	<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><a href="https://www.emc.ncep.noaa.gov/users/verification/global/gefs/ops/"><strong>Global Ensemble (GEFS) Main Verification Page </strong></a></span></span>
                                 	<ul>
-                                		<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><a class="links" href="http://www.emc.ncep.noaa.gov/gmb/yzhu/html/opr/naefs.html">GEFS verification statistics (updated seasonally)</a></strong></span></span></li>
                                 		<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><a class="links" href="https://www.emc.ncep.noaa.gov/users/meg/gefs_plumes/">GEFS plumes with option to compare to observed station data</a></strong><strong><a class="links" href="http://www.emc.ncep.noaa.gov/gmb/ssaha/"</a></strong></span></span></li>
                                 	</ul>
                                 	</li>
                                 	<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><a href="https://www.emc.ncep.noaa.gov/users/verification/global/naefs/ops/"><strong>North American Ensemble Forecast System (NAEFS) Verification Page</strong></a></span></span></li>
+                                	<ul>
+                                		<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><a class="links" href="http://www.emc.ncep.noaa.gov/gmb/yzhu/html/opr/naefs.html">GEFS/NAEFS seasonal verification statistics vs ECMWF and FNMOC ensembles (updated seasonally)</a></strong></span></span></li>
+                                	</ul>
                                 	<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><a href="https://www.emc.ncep.noaa.gov/users/verification/global/cfs/">Climate Forecast System (CFS) Verification Page </a></strong></span></span></li>
                                 </ul>
                                 </div>
