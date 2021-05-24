@@ -9,12 +9,6 @@ global $browser_title;
       <div class="sidebar-sticky">
         <ul class="nav flex-column">
           <li class="nav-item">
-            <a class="nav-link active" href="#">
-              <span data-feather="home"></span>
-              Dashboard <span class="sr-only">(current)</span>
-            </a>
-          </li>
-          <li class="nav-item">
             <a class="nav-link active" href="https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/gfs/documentation.php">
               Documentation
             </a>
@@ -24,14 +18,9 @@ global $browser_title;
               Implementations
             </a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link active" href="https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/gfs/references.php">
-              References
-            </a>
-          </li>
-		</ul>
+	</ul>
 		
-		<h6 class="sidebar-heading d-flex justify-content-between align-items-center px-3 mt-4 mb-1 text-muted">
+	<h6 class="sidebar-heading d-flex justify-content-between align-items-center px-3 mt-4 mb-1 text-muted">
           <span>Others</span>
           <a class="d-flex align-items-center text-muted" href="#">
             <span data-feather="plus-circle"></span>
@@ -59,7 +48,7 @@ global $browser_title;
 
     <main role="main" class="col-md-9 ml-sm-auto col-lg-10 px-4">
       <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
-        <h1 class="h2">Dashboard</h1>
+        <h1 class="h2"></h1>
         <div class="btn-toolbar mb-2 mb-md-0">
           <div class="btn-group mr-2">
             <!--<button type="button" class="btn btn-sm btn-outline-secondary">Share</button>-->
@@ -105,19 +94,13 @@ global $browser_title;
 				<li>
 				<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><a href="http://www.emc.ncep.noaa.gov/gmb/STATS_vsdb/">Global Multi-Model Performance Statistics and GFS 2-D Maps</a></span></span></p>
 				</li>
-				<li>
-				<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><a href="https://vlab.ncep.noaa.gov/web/gfs/home">GFS VLab Community</a></span></span></p>
-				</li>
 			</ul>
 
-			<p style="color: rgb(52, 73, 94); font-family: &quot;Open Sans&quot;, Helvetica, Arial, sans-serif; font-size: 14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><u>GFS Version 15: Initial Implementation of Unified Forecast System (UFS) with FV3 dynamic core NCEP Production Suite:</u></span></span></p>
+			<p style="color: rgb(52, 73, 94); font-family: &quot;Open Sans&quot;, Helvetica, Arial, sans-serif; font-size: 14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><u>June 12, 2019: Implementation of GFS Version 15; initial implementation of Unified Forecast System (UFS) with FV3 dynamic core in the NCEP Production Suite:</u></span></span></p>
 
 			<ul style="color: rgb(52, 73, 94); font-family: &quot;Open Sans&quot;, Helvetica, Arial, sans-serif; font-size: 14px;">
 				<li>
-				<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><a href="http://www.emc.ncep.noaa.gov/users/Eric.Rogers/documents/FV3GFS_OD_Briefs_10-01-18_4-1-2019.pdf">Details on changes in GFS V15 (implemented on June 12, 2019) </a></span></span></p>
-				</li>
-				<li>
-				<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><a href="https://vlab.ncep.noaa.gov/group/fv3gfs">FV3GFS VLab Community</a></span></span></p>
+				<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><a href="http://www.emc.ncep.noaa.gov/users/Eric.Rogers/documents/FV3GFS_OD_Briefs_10-01-18_4-1-2019.pdf">Details on changes in GFS V15</a></span></span></p>
 				</li>
 				<li>
 				<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><a href="https://github.com/ufs-community/ufs-weather-model/wiki">UFS Weather Model Codes - Github</a></span></span></p>
@@ -126,15 +109,17 @@ global $browser_title;
 				<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><a href="https://github.com/NOAA-EMC/global-workflow">GFS Workflow - Github</a></span></span></p>
 				</li>
 			</ul>
-			<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><a href="gfs/gfsv16.php">GFS v16 Dashboard (under construction) </a></span></span></p>
-			<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><a href="https://www.emc.ncep.noaa.gov/users/meg/gfsv16/">GFS v16 Official Evaluation Page</a></span></span></p>
+			<p style="color: rgb(52, 73, 94); font-family: &quot;Open Sans&quot;, Helvetica, Arial, sans-serif; font-size: 14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><u>March 22, 2021: Implementation of GFS Version 16 in the  NCEP Production Suite:</u></span></span></p>
+                        <ul>
+			    <li> <p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><a href="https://www.emc.ncep.noaa.gov/users/meg/gfsv16/">GFS v16 Official Evaluation Page</a></span></span></p>
+                        </ul>
 			</td>
 			<td style="vertical-align: top;">&nbsp;</td>
 			<td style="vertical-align: top;">
 			<div id="00Z" style="box-sizing:border-box"><span style="font-size:12px"><span style="color:#000000"><span style="font-family:Arial,Helvetica,sans-serif"></span></span></span>
 			<p style="color: rgb(52, 73, 94); font-family: &quot;Open Sans&quot;, Helvetica, Arial, sans-serif; font-size: 14px; text-align: center;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">The Global Forecast System (GFS) is a global numerical weather prediction system containing a global computer model and variational analysis run by the U.S. National Weather Service (NWS).</span></span></p>
 
-			<p style="color: rgb(52, 73, 94); font-family: &quot;Open Sans&quot;, Helvetica, Arial, sans-serif; font-size: 14px; text-align: center;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">The GFS is run four times a day, and produces forecasts for up to 16 days in advance. The forecast component uses the FV3 model with a resolution of ~13 km. In the vertical, the model is divided into 64 layers and temporally, it produces forecast output every hour for the first 120 hours, then every 3 hours for days 5-16. Details on the June 2019 implementation of the FV3 version of the GFS can be found in the "Implementations" link on the left side of this page.</span></span></p>
+			<p style="color: rgb(52, 73, 94); font-family: &quot;Open Sans&quot;, Helvetica, Arial, sans-serif; font-size: 14px; text-align: center;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">The GFS is run four times a day, and produces forecasts for up to 16 days in advance. The forecast component uses the FV3 model with a resolution of ~13 km. In the vertical, the model is divided into 127 vertical layers. It produces forecast output every hour for the first 120 hours, then every 3 hours for days 5-16. Details on the June 2019 implementation of the initial FV3 version of the GFS (GFSv15) and the March 2021 implementation of GFSv16 can be found in the "Implementations" and "Documentation" links on the left side of this page.</span></span></p>
  
 
 			<hr> <a href="http://mag.ncep.noaa.gov/data/gfs/00/namer/10m_wnd_precip/gfs_namer_024_10m_wnd_precip.gif" style="box-sizing: border-box; background-color: transparent; color: rgb(0, 0, 0); text-decoration: none; font-weight: bold; font-family: Arial, Helvetica, sans-serif; font-size: 12px;"><img src="http://mag.ncep.noaa.gov/data/gfs/00/namer/10m_wnd_precip/gfs_namer_024_10m_wnd_precip.gif" style="border:none; box-sizing:border-box; vertical-align:middle; width:100%"></a></div>

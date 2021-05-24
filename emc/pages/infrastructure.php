@@ -41,7 +41,7 @@
                                               </ul>
                 						</li>
                                         <li class="list-group-item"><a href="https://www.emc.ncep.noaa.gov/emc/pages/projects.php">Projects</a></li>
-                                        <li class="list-group-item"><a href="https://vlab.ncep.noaa.gov/web/environmental-modeling-center">EMC VLAB</a></li>
+                                        <li class="list-group-item"><a href="https://vlab.noaa.gov/web/environmental-modeling-center">EMC VLAB</a></li>
                                      </ul>
                                  </li>
 							</ul>
@@ -59,7 +59,7 @@
                                 
                                 <p><span style="font-size:14px;"><strong>FV3GFS </strong></span></p>
                                 
-                                <p><span style="margin-left:0px; margin-right:0px; text-align:start">In 2017 the NOAA GFDL Finite Volume Cubed Sphere (FV3) dynamical core was selected for the new NCEP atmospheric model at both global and regional scales. FV3 dynamical core implementation includes incorporating FV3 into NEMS, and developing advanced physics and data assimilation techniques to match or exceed the skill of operational Global Forecast System (GFS), and to transition NCEP's mesoscale modeling suite to use FV3. In addition, NWS is working with federal partners, universities, and the community to create a fully accessible FV3-based community model. FV3GFS has a <a href="https://vlab.ncep.noaa.gov/group/fv3gfs">Vlab Community page</a> </span></p>
+                                <p><span style="margin-left:0px; margin-right:0px; text-align:start">In 2017 the NOAA GFDL Finite Volume Cubed Sphere (FV3) dynamical core was selected for the new NCEP atmospheric model at both global and regional scales. FV3 dynamical core implementation includes incorporating FV3 into NEMS, and developing advanced physics and data assimilation techniques to match or exceed the skill of operational Global Forecast System (GFS), and to transition NCEP's mesoscale modeling suite to use FV3. In addition, NWS is working with federal partners, universities, and the community to create a fully accessible FV3-based community model. FV3GFS has a <a href="https://vlab.noaa.gov/group/fv3gfs">Vlab Community page</a> </span></p>
                                 
                                 <p>&nbsp;</p>
 								

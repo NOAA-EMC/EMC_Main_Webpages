@@ -49,7 +49,7 @@ global $browser_title;
 
 <p align="left" style="line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">October 6, 2020 : UFS Medium Range Weather Application v1.1 is now available. For details, please visit the <a href="http://www.weather.gov/exit?url=https://ufscommunity.org//news/medrangeweatherapp_v1p1/">UFS community web site</a> on this release.</font></span></p>
 
-<p align="left" style="line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">July 2020: Launch of UFS Research to Operations (UFS-R2O) Project. For details, please visit the <a href="https://vlab.ncep.noaa.gov/web/ufs-r2o">UFS-R2O web site</a>.</font></span></p>
+<p align="left" style="line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">July 2020: Launch of UFS Research to Operations (UFS-R2O) Project. For details, please visit the <a href="https://vlab.noaa.gov/web/ufs-r2o">UFS-R2O web site</a>.</font></span></p>
 
 <p align="left" style="line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">The first UFS Users Workshop was held virtually from 27-29 July 2020. For the meeting agenda and links to presentations, please visit the <a href="http://www.weather.gov/exit?url=https://dtcenter.org/events/2020/unified-forecast-system-ufs-users-workshop/agenda">workshop web site</a>.</font></span></p>
 
@@ -111,7 +111,7 @@ global $browser_title;
 
 <p align="left" style="margin-bottom: 0in; line-height: 150%">&nbsp;</p>
 
-<p align="left" style="margin-bottom: 0in; line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">More details on the implementation of the GFS V15 with the FV3 dynamic core can be found in the <a href="https://www.weather.gov/media/notification/scn19-40gfs_v15_1.pdf">NWS Service Change Notice</a>, on <a href="https://vlab.ncep.noaa.gov/web/fv3gfs">EMC's FV3GFS page</a> on the NWS Vlab site. Comprehensive information on the official evaluation of GFS v15 is available at the EMC <a href="https://www.emc.ncep.noaa.gov/users/meg/fv3gfs/">Model Evaluation Group’s web site</a>.</font></span></p>
+<p align="left" style="margin-bottom: 0in; line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">More details on the implementation of the GFS V15 with the FV3 dynamic core can be found in the <a href="https://www.weather.gov/media/notification/scn19-40gfs_v15_1.pdf">NWS Service Change Notice</a>, on <a href="https://vlab.noaa.gov/web/fv3gfs">EMC's FV3GFS page</a> on the NWS Vlab site. Comprehensive information on the official evaluation of GFS v15 is available at the EMC <a href="https://www.emc.ncep.noaa.gov/users/meg/fv3gfs/">Model Evaluation Group’s web site</a>.</font></span></p>
 
 <p align="left" style="margin-bottom: 0in; line-height: 150%">&nbsp;</p>
 

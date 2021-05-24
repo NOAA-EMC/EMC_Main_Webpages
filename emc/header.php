@@ -125,7 +125,7 @@
     								<li><a href="https://www.emc.ncep.noaa.gov/emc/pages/contact.php">Contact Us</a></li>
     								<li><a href="https://www.emc.ncep.noaa.gov/emc/pages/staff.php">Staff Directory</a></li>
 								<li><a href="https://www2.emc.ncep.noaa.gov/">EMC Internal Site</a></li> 
-								<li><a href="https://vlab.ncep.noaa.gov/group/emc">EMC Employee Page on Vlab (Requires login)</a></li> 
+								<li><a href="https://vlab.noaa.gov/group/emc">EMC Employee Page on Vlab (Requires login)</a></li> 
                                                                 </ul>
 							</li>
 						  
@@ -150,7 +150,7 @@
 								<a class="nav-link dropdown-toggle" data-toggle="dropdown" href="https://www.emc.ncep.noaa.gov/emc/pages/research.php">Research</a>
 								 <ul class="dropdown-menu">
 									<li><a href="https://www.emc.ncep.noaa.gov/emc/pages/projects.php">Projects</a></li>
-									<li><a href="https://vlab.ncep.noaa.gov/web/environmental-modeling-center">EMC VLAB</a></li>
+									<li><a href="https://vlab.noaa.gov/web/environmental-modeling-center">EMC VLAB</a></li>
 									
 								 </ul>
 							  </li>

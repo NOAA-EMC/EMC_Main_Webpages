@@ -59,7 +59,7 @@ global $browser_title;
             
             			<p style="text-align: left;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">The NOAA Environmental Modeling System (NEMS) is a unified community modeling system that supports multiple modeling applications. This diagram shows the main components in NEMS, including physical components such as atmosphere and ice models, mediators (couplers), and the sub-components of the atmosphere. The NEMS architecture is based on the Earth System Modeling Framework (ESMF).</span></span></p>
             
-            			<p style="text-align: left;"><span style="font-size:14px;"><img alt="" src="https://vlab.ncep.noaa.gov/documents/84077/1193927/image_1601_nems_schematic.png/8c98b931-3200-8480-62dd-af44d0ee07d9?t=1487190456232" style="height: 400px; width: 517px;"></span></p>
+            			<p style="text-align: left;"><span style="font-size:14px;"><img alt="" src="https://vlab.noaa.gov/documents/84077/1193927/image_1601_nems_schematic.png/8c98b931-3200-8480-62dd-af44d0ee07d9?t=1487190456232" style="height: 400px; width: 517px;"></span></p>
             
             			<p style="text-align: left;"><em>Image courtesy of the Developmental&nbsp;Testbed&nbsp;Center</em></p>
             

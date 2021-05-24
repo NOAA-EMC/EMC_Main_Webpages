@@ -23,7 +23,7 @@
                                              </li>
                                             </ul>
                                         </li>
-                                        <li class="list-group-item"><a href="https://vlab.ncep.noaa.gov/web/environmental-modeling-center">EMC VLAB</a></li>
+                                        <li class="list-group-item"><a href="https://vlab.noaa.gov/web/environmental-modeling-center">EMC VLAB</a></li>
                                      </ul>
                                  </li>
 							</ul>
