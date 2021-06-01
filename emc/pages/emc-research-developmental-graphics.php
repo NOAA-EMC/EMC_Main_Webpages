@@ -57,7 +57,6 @@
                                 	<li><span style="font-size:16px;"><big><strong>Mesoscale Modeling / Analysis Systems</strong></big></span>
                                 
                                 	<ul>
-                                		<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;"><big><strong><a href="https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/nam/references.php">NCEP Mesoscale Systems Master Web Page List (Model Graphics, Verification Sites, List of Regional/Mesoscale System Implementations since 1993)</a></strong></big></span></span></li>
                                 		<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;"><big><strong><a href="http://www.emc.ncep.noaa.gov/mmb/nammeteograms/">NAM Meteograms for 12-km parent domain</a></strong></big></span></span></li>
                                 		<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;"><big><strong><a href="http://www.emc.ncep.noaa.gov/mmb/rucmeteograms/">RAP Meteograms</a></strong></big></span></span></li>
                                 		<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;"><big><strong><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/opsnam/">NAM 12-km domain : CONUS, North America, Alaska, Hawaii, North/East Pacific, Tropical Atlantic</a></strong></big></span></span></li>
