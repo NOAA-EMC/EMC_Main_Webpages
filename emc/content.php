@@ -93,6 +93,7 @@
 								<h4>Recent Publications</h4>
 								<ul class="list-group">
                                                                   <font size="2">
+								  <li class="list-group-item"><b>Black et al., 2021:</b> <a href="https://doi.org/10.1029/2021MS002483">A Limited Area Modeling Capability for the Finite-Volume Cubed-Sphere (FV3) Dynamical Core and Comparison with a Global Two-Way Nest.</a> Published in <i>Journal of Advances in Modeling Earth Systems</i></li>
 								  <li class="list-group-item"><b>Carley et al., 2021:</b> <a href="http://dx.doi.org/10.1017/exp.2020.66">Variational assimilation of web camera-derived estimates of visibility for Alaska aviation.</a> Published in <i>Experimental Results</i></li>
 								  <li class="list-group-item"><b>Wang et al., 2021:</b> <a href="https://doi.org/10.1175/WAF-D-20-0134.1">A New Horizontal Mixing-Length Formulation for Numerical Simulations of Tropical Cyclones.</a> Published in <i>Weather and Forecasting</i></li>
 								  <li class="list-group-item"><b>Abdolali et al., 2021:</b> <a href="https://doi.org/10.1007/s10236-020-01426-9">Evaluating the accuracy and uncertainty of atmospheric and wave model hindcasts during severe events using model ensembles.</a> Published in <i>Ocean Dynamics</i></li>
@@ -100,7 +101,6 @@
 								  <li class="list-group-item"><b>Morris et al., 2020:</b> <a href="https://doi.org/10.1175/WAF-D-19-0201.1">A Quality Assessment of the Real-Time Mesoscale Analysis (RTMA) for Aviation.</a> Published in <i>Weather and Forecasting</i></li>
 								  <li class="list-group-item"><b>Zhang et al., 2020:</b> <a href="https://www.mdpi.com/2073-4433/11/8/801/pdf">The Impact of Stochastic Physics-Based Hybrid GSI/EnKF Data Assimilation on Hurricane Forecasts Using EMC Operational Hurricane Modeling System.</a> Published in <i>Atmosphere</i></li>
 								  <li class="list-group-item"><b>Abdolali et al., 2020:</b> <a href="https://doi.org/10.1016/j.coastaleng.2020.103656">Large-scale Hurricane Modeling Using Domain Decomposition Parallelization and Implicit Scheme Implemented in WAVEWATCH III Wave Model.</a> Published in <i>Coastal Engineering</i></li>
-								  <li class="list-group-item"><b>Dong et al., 2020:</b> <a href="https://doi.org/10.3390/atmos11060617">The Evaluation of Real-Time Hurricane Analysis and Forecast System (HAFS) Stand-Alone Regional (SAR) Model Performance for the 2019 Atlantic Hurricane Season.</a> Published in <i>Atmosphere</i></li>
                                                                   </font>
                                                                 <li class="list-group-item"><a href="https://www.emc.ncep.noaa.gov/emc/docs/EMC_Pubs_List.pdf" class="read-more-link">More Publications</a></li>
 								</ul>
