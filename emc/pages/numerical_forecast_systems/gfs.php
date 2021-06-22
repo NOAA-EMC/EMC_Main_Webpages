@@ -92,7 +92,7 @@ global $browser_title;
 				<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><a href="https://www.emc.ncep.noaa.gov/users/verification/global/">NCEP Global Model Verification Portal </a></span></span></p>
 				</li>
 				<li>
-				<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><a href="http://www.emc.ncep.noaa.gov/gmb/STATS_vsdb/">Global Multi-Model Performance Statistics and GFS 2-D Maps</a></span></span></p>
+				<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><a href="https://www.emc.ncep.noaa.gov/users/verification/headlines/">NCEP Global Modeling "Headline" Scores: Monthly/Yearly ACC, Useful Forecast Day, ACC Die-off vs GEFS and NAEFS</a></span></span></p>
 				</li>
 			</ul>
 

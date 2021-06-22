@@ -42,6 +42,7 @@
                                 
                                 <div class="text" id="text3">
                                 <ul>
+                                	<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><a href="https://www.emc.ncep.noaa.gov/users/verification/headlines/">Operational Global Forecast System (GFS) "Headline" Scores: Monthly/Yearly ACC, Useful Forecast Day, ACC Die-off vs GEFS and NAEFS</a></strong></span></span>
                                 	<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><a href="https://www.emc.ncep.noaa.gov/users/verification/global/gfs/ops/">Operational Global Forecast System (GFS) Main Verification Page</a></strong></span></span>
                                 
                                 	<ul>
@@ -62,6 +63,7 @@
                                 	</li>
                                 	<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><a href="https://www.emc.ncep.noaa.gov/users/verification/global/gefs/ops/"><strong>Global Ensemble (GEFS) Main Verification Page </strong></a></span></span>
                                 	<ul>
+                                	        <li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><a href="https://www.emc.ncep.noaa.gov/users/verification/headlines/acc_dieoff/"><strong>NH 500hPa Height Anomaly Correlation Die-off : GFS vs GEFS vs NAEFS </strong></a></span></span>
                                 		<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><a class="links" href="https://www.emc.ncep.noaa.gov/users/meg/gefs_plumes/">GEFS plumes with option to compare to observed station data</a></strong><strong><a class="links" href="http://www.emc.ncep.noaa.gov/gmb/ssaha/"</a></strong></span></span></li>
                                 	</ul>
                                 	</li>
@@ -112,7 +114,6 @@
                                 <p><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;"><strong>5) <a href="https://www.emc.ncep.noaa.gov/users/verification/ocean_wave/">Marine/Ocean Model Verification</a></strong></span></span></p>
                                 
                                 <ul>
-                                	<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><a href="https://polar.ncep.noaa.gov/global/class-4/index.shtml?-rtg-global-n048-small-"><strong>Global Real-Time Ocean Forecast System (RTOFS) SST Verification/Metrics</strong></a></span></span></li>
                                 	<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><a href="https://polar.ncep.noaa.gov/global/class-1//"><strong>Global RTOFS Class-1 Satellite Verification</strong></a></span></span></li>
                                 	<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><a href="https://polar.ncep.noaa.gov/global/ice/"><strong>Global RTOFS Sea Ice Validation</strong></a></span></span></li>
                                 	<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><a href="https://polar.ncep.noaa.gov/global/fronts/"><b>Global RTOFS Ocean Fronts (Gulf Stream, Loop Current, Kuroshio)</b></a></span></span></li>
