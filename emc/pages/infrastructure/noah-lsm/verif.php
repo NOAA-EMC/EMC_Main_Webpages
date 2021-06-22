@@ -19,49 +19,27 @@ global $browser_title;
         <div id="description">
 
 
-<H4>NCEP Near-surface and Surface NAM/NDAS Verification</H4>
+<H4>NCEP Near-surface and Surface NAM Verification</H4>
 <UL>
    <LI><A HREF="http://www.emc.ncep.noaa.gov/mmb/research/nearsfc/nearsfc.verf.html">
-       Monthly 2m and 10m NAM Verification Stats</A>
-   <LI><A HREF="http://www.emc.ncep.noaa.gov/mmb/gcp/board/board.html">
+       Monthly 2m and 10m NAM Verification Stats (January 2010-August 2018)</A>
        NAM Daily Verification at Selected Surface Stations</A>
 </UL>
-
-
 <UL>
    <LI> Precipitation observations/forecast verification
    <UL>
-      <LI><A HREF="http://wwwt.emc.ncep.noaa.gov/mmb/ylin/pcpanl/">
-          NCEP Hourly precipitation analyses (Stage II and Stage IV) </A>
-      <LI><A HREF="http://wwwt.emc.ncep.noaa.gov/mmb/ylin/pcpverif/daily/">
+      <LI><A HREF="https://www.emc.ncep.noaa.gov/mmb/SREF/pcpanl/">
+          NCEP Hourly precipitation analyses</A>
+      <LI><A HREF="https://www.emc.ncep.noaa.gov/users/verification/precip/verif/daily/">
            Daily Observed vs. Forecast 24h Precipitation Plots</A>
-
-      <LI><A HREF="http://wwwt.emc.ncep.noaa.gov/mmb/ylin/pcpverif/scores">
-           QPF Verfication Scores</A>
-      <LI><A HREF="http://wwwt.emc.ncep.noaa.gov/mmb/gcp/h2o/index.html">Monthly Precipitation/Water Budget Maps</A>
-      <LI><A HREF="http://wwwt.emc.ncep.noaa.gov/mmb/gcp/cpcrfc/cpc3090.html">CPC 30- and 90-day Precipitation Images</A>
+      <LI><A HREF="https://www.emc.ncep.noaa.gov/users/verification/precip/verif/old_scores/">
+           QPF Verfication Scores (2018-2020)</A>
    </UL>
 </UL>
 
 <UL>
-
-   <LI>GOES verification of NAM fields (skin temperature, insolation, total 
-       cloud amount)
-   <UL>
-      <LI><A HREF="http://orbit-net.nesdis.noaa.gov/goes/gcip">CONUS Maps</A>
-      <LI><A HREF=
-          "http://orbit-net.nesdis.noaa.gov/goes/gcip/html/scatter.html">
-           Scatter plots</A>
-   </UL>
+   <LI><A HREF="https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/nam/references.php#TAB4">Log of EMC Mesoscale Model upgrades from 1993-present</A>
 </UL>
-<UL>
-   <LI><A HREF="http://wwwt.emc.ncep.noaa.gov/mmb/gcp/cycle.log">
-
-      Log of missed NDAS cycles since 1 Apr 1995</A>
-   <LI><A HREF="http://www.emc.ncep.noaa.gov/mmb/research/eta.log.html">Log of NAM model code changes</A>
-   <LI><A HREF="http://www.emc.ncep.noaa.gov/mmb/mmbpll/eta.log.para.html">Log of NAM model test runs</A>
-</UL>
-
 
 <H4>Problems and fixes:</H4>
 <UL>
