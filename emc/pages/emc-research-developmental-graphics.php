@@ -66,7 +66,7 @@
                                 		<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;"><big><strong><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/nam_hawaiinest/">NAM 3-km Hawaii Nest </a></strong></big></span></span></li>
                                 		<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;"><big><strong><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/nam_priconest/">NAM 3-km Puerto Rico Nest</a></strong></big></span></span></li>
                                 		<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;"><big><strong><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/firewx/">NAM 1.5-km Fire Weather Nest</a></strong></big></span></span></li>
-                                		<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;"><big><strong><a href="https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/sref.php">Short-Range Ensemble Forecast (SREF)</a></strong></big></span></span></li>
+                                		<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;"><big><strong><a href="https://www.emc.ncep.noaa.gov/mmb/wd20bz/SREF_aviation/web_site/html_212/fltrestr.html">Short-Range Ensemble Forecast (SREF) Aviation Forecast page for CONUS, Alaska, Hawaii</a></strong></big></span></span></li>
                                 		<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;"><big><strong><a href="https://rapidrefresh.noaa.gov/">Rapid Refresh</a> (ESRL/GSD web page)</strong></big></span></span></li>
                                 		<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;"><big><strong><a href="https://rapidrefresh.noaa.gov/hrrr/">High Resolution Rapid Refresh</a> (ESRL/GSD web page)</strong></big></span></span></li>
                                 		<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;"><big><strong><a href="https://www.emc.ncep.noaa.gov/mmb/mpyle/hiresw/">HiResWindow Forecasts</a></strong></big></span></span></li>
@@ -111,7 +111,7 @@
                                 	<li><span style="font-size:16px;"><big><strong>Hurricane Modeling Systems</strong></big></span>
                                 
                                 	<ul>
-                                		<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;"><big><strong><a href="https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/hwrf.php">Hurricane WRF (HWRF)</a></strong></big></span></span></li>
+                                		<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;"><big><strong><a href="https://www.emc.ncep.noaa.gov/gc_wmb/vxt/HWRF/index.php">Hurricane WRF (HWRF)</a></strong></big></span></span></li>
                                 		<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;"><big><strong><a href="http://www.emc.ncep.noaa.gov/gc_wmb/vxt/HMON/index.php">Hurricanes in a Multi-scale Ocean coupled Non-hydrostatic model (HMON)</a></strong></big></span></span></li>
                                 	</ul>
                                 	</li>

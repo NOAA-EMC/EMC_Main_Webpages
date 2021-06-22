@@ -61,12 +61,7 @@ global $browser_title;
 			<td><font size="5"><a href="http://www.spc.noaa.gov/exper/sref/srefplumes/">SPC SREF Plumes</a></font></td>
 		</tr>
 		<tr>
-			<td><font size="5"><a href="http://www.emc.ncep.noaa.gov/mmb/wd20bz/SREF_aviation/web_site/html_212/fltrestr.html">Aviation(CONUS)</a></font></td>
-			<td><font size="5"><a href="http://www.emc.ncep.noaa.gov/mmb/wd20bz/SREF_aviation/web_site/html_216/fltrestr.html">Aviation(Alaska)</a></font></td>
-			<td><font size="5"><a href="http://www.emc.ncep.noaa.gov/mmb/wd20bz/SREF_aviation/web_site/html_243/fltrestr.html">Aviation(Hawaii)</a></font></td>
-		</tr>
-		<tr>
-			<td>&nbsp;</td>
+			<td><font size="5"><a href="http://www.emc.ncep.noaa.gov/mmb/wd20bz/SREF_aviation/web_site/html_212/fltrestr.html">Aviation(CONUS, Alaska, Hawaii)</a></font></td>
 			<td><font size="5"><a href="http://www.emc.ncep.noaa.gov/mmb/gplou/emchurr/nwprod/">Cyclone Track</a></font></td>
 			<td>&nbsp;</td>
 		</tr>
