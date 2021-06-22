@@ -45,10 +45,18 @@
                                 	<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><a href="https://www.emc.ncep.noaa.gov/users/verification/global/gfs/ops/">Operational Global Forecast System (GFS) Main Verification Page</a></strong></span></span>
                                 
                                 	<ul>
-                                		<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><a href="https://www.emc.ncep.noaa.gov/users/verification/global/gfs/ops/grid2grid/acc/">Grid-to-Grid Verification (Multi-model Anomaly Corrrelation, etc)</a></strong></span></span></li>
+                                		<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><a href="https://www.emc.ncep.noaa.gov/users/verification/global/gfs/ops/grid2grid_all_models/acc/">Grid-to-Grid Verification (Multi-model Anomaly Corrrelation, etc)</a></strong></span></span></li>
                                 		<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><a href="https://www.emc.ncep.noaa.gov/users/verification/global/gfs/ops/grid2obs/bias/">Grid-to-Observations Verification</a> (<a href="https://www.emc.ncep.noaa.gov/users/verification/global/gfs/ops/grid2obs/bias/">Bias</a>, <a href="https://www.emc.ncep.noaa.gov/users/verification/global/gfs/ops/grid2obs/rmse/">RMS Error</a>) </strong></span></span></li>
                                 		<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><a class="links" href="https://www.emc.ncep.noaa.gov/data_assimilation/data.html">Global data assimilation monitoring</a></strong></span></span></li>
-                                		<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><a class="links" href="https://www.emc.ncep.noaa.gov/users/verification/global/gfs/ops/grid2grid/acc/">Historical global model statistics (Click "Long-Term Statistics")</a></strong></span></span></li>
+                                		<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><a class="links" href="https://www.emc.ncep.noaa.gov/users/verification/global/gfs/ops/annual_long_term/">Historical long-term global model annual statistics</a></strong></span></span></li>
+                                		<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><a class="links" href="https://www.emc.ncep.noaa.gov/users/verification/global/gfs/ops/monthly_long_term/">Historical monthly long-term global model statistics (Description)</a>: 
+                                                  <ol>
+                                                    <li><a class="links" href="https://www.emc.ncep.noaa.gov/users/verification/global/gfs/ops/monthly_long_term/all_models/"> All Models</a></li> 
+                                                    <li><a class="links" href="https://www.emc.ncep.noaa.gov/users/verification/global/gfs/ops/monthly_long_term/gfs_ecmwf"> GFS vs ECMWF</a></li>  
+                                                    <li><a class="links" href="https://www.emc.ncep.noaa.gov/users/verification/global/gfs/ops/monthly_long_term/gfs_4cycles"> All 4 GFS cycles</a></li>  
+                                                    <li><a class="links" href="https://www.emc.ncep.noaa.gov/users/verification/global/gfs/ops/monthly_long_term/useful_fcst_days"> Useful Forecast Days</a></li>  
+                                                  </ol>
+                                                </strong></span></span></li>
                                 		<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><a href="https://www.emc.ncep.noaa.gov/gmb/icao/">WAFC Washington Performance Indicators</a></strong></span></span></li>
                                 	</ul>
                                 	</li>
