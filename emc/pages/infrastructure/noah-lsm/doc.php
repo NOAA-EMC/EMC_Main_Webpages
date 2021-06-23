@@ -19,14 +19,7 @@ global $browser_title;
         <div id="description">
 
 <P>
-NCEP CPPA/GAPP/GEWEX related information and fields are also available 
-via anonymous ftp at <I>ftp.ncep.noaa.gov</I> :
-<UL>
-
-  <LI><A HREF="ftp://ftp.ncep.noaa.gov/pub/gcp/eta">/pub/gcp/eta</A>
-  <LI><A HREF="ftp://ftp.ncep.noaa.gov/pub/gcp/edas">/pub/gcp/edas</A>
-  <LI><A HREF="ftp://ftp.ncep.noaa.gov/pub/gcp/sfcflds">/pub/gcp/sfcflds</A>
-</UL>
+CPPA/GAPP/GEWEX information are available at <a href="http://www.weather.gov/exit?url=https://www.eol.ucar.edu/field_projects/cppa">https://www.eol.ucar.edu/field_projects/cppa</a> 
 <?php include 'footer.php'?>
 
 

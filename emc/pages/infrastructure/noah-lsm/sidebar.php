@@ -31,8 +31,8 @@
             </a>
           </li>
           <li class="nav-item">
-          	<a class="nav-link" href="https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/nam/references.php">
-              Implementation Schedule
+          	<a class="nav-link" href="https://www.emc.ncep.noaa.gov/emc_new.php">
+              Implementation Schedule (Scroll down to "Recent/Upcoming Upgrades")
             </a>
           </li>
           <li class="nav-item">
@@ -41,18 +41,13 @@
             </a>
           </li>
           <li class="nav-item">
-          	<a class="nav-link" href="http://www.emc.ncep.noaa.gov/mmb/research/FAQ-eta.html">
-              FAQ
-            </a>
-          </li>
-          <li class="nav-item">
-          	<a class="nav-link" href="https://www.emc.ncep.noaa.gov/emc/pages/infrastructure/noah-lsm/code.php">
-              Code
+          	<a class="nav-link" href="http://www.emc.ncep.noaa.gov/mmb/research/FAQ-meso.html">
+              FAQ (Mostly NAM)
             </a>
           </li>
           <li class="nav-item">
           	<a class="nav-link" href="https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/nam/references.php#TAB4">
-              Change Log
+              EMC Mesoscale System Change Log
             </a>
           </li>
 		</ul>
