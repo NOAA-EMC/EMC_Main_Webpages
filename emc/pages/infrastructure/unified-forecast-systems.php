@@ -144,7 +144,7 @@ to presentations showing details on GFS v16 model/assimilation changes and perfo
 
 <p><span style="font-family:arial,helvetica,sans-serif;"><font size="4" style="font-size: 14pt">5) UFS at NCEP : Advancement toward a Convection-Allowing Ensemble System</font></span></p>
 
-<p align="left" style="margin-bottom: 0in; line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">As part of NCEP’s commitment to move all atmospheric prediction components in the NCEP Production Suite (NPS) to use the UFS weather model, EMC has created the capability to run the FV3 model in a limited area configuration (*Black et al. 2019). Preliminary tests comparing 3 km forecasts nested within a global simulation with a limited area 3 km FV3 dynamic core over the CONUS have shown that the limited area FV3 produced statistically indistinguishable forecasts out to 60-h, was twice a fast, and used 50-75% fewer computational resources than the version nested within a global model.</font></span></p>
+<p align="left" style="margin-bottom: 0in; line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">As part of NCEP’s commitment to move all atmospheric prediction components in the NCEP Production Suite (NPS) to use the UFS weather model, EMC has created the capability to run the FV3 model in a limited area configuration (*Black et al.,2021). Preliminary tests comparing 3 km forecasts nested within a global simulation with a limited area 3 km FV3 dynamic core over the CONUS have shown that the limited area FV3 produced statistically indistinguishable forecasts out to 60-h, was twice a fast, and used 50-75% fewer computational resources than the version nested within a global model.</font></span></p>
 
 <p align="left" style="margin-bottom: 0in; line-height: 150%">&nbsp;</p>
 
@@ -165,7 +165,7 @@ to presentations showing details on GFS v16 model/assimilation changes and perfo
 
 <p align="left" style="margin-bottom: 0in; line-height: 150%">&nbsp;</p>
 
-<p align="left" style="margin-bottom: 0in; line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">*Black, T., J. Abeles, B. Blake, D. Jovic, E. Rogers, Y. Lin, L.C.Dawson, and J.R.Carley, 2019: A Standalone Limited Area Capability for the Finite-Volume Cubed-Sphere Dynamic Core. Working Group on Numerical Experimentation Blue Book.</font></span></p>
+<p align="left" style="margin-bottom: 0in; line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">*Black, T. L., J. A. Abeles, B. T. Blake, D. Jovic, E. Rogers, X. Zhang, E. A. Aligo, L. C. Dawson, Y. Lin, E. Strobach, P. C. Shafran, and J. R. Carley, 2021: A Limited Area Modeling Capability for the Finite-Volume Cubed-Sphere (FV3) Dynamical Core and Comparison with a Global Two-Way Nest. <i>Journal of Advances in Modeling Earth Systems</i>, <b>13(6)</b>, <a href="https://doi.org/10.1029/2021MS002483">https://doi.org/10.1029/2021MS002483</a></font></span></p>
 
 <p>&nbsp;</p>
 
