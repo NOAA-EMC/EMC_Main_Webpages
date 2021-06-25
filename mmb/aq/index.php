@@ -289,7 +289,7 @@ The AQ model operational predictions are displayed by the National Weather Servi
 <br><br><br>
 	<div class="centeredd"><h2><center><br><span style="color:#112e51;">AQ FORECAST PRODUCTS</span><center></h2>
 	<font size="3">
-	<center><p><a href="http://www.weather.gov/exit?url=https://www.weatheroffice.gc.ca/aqfm/index_e.html" target="_blank">Canadian AQ Forecasts</a></p><center>
+	<center><p><a href="http://www.weather.gov/exit?url=https://weather.gc.ca/index_e.html" target="_blank">Canadian AQ Forecasts</a></p><center>
 	<center><p><a href="https://www.nrlmry.navy.mil/aerosol_web/loop_html/globaer_noramer_loop.html" target="_blank">Navy Aerosol Prediction System</a></p><center>
 	<center><p><a href="https://gmao.gsfc.nasa.gov/projects/glopac/" target="_blank">NASA GEOS-5 GLOPAC Forecasts</a></p><center>
 	<center><p><a href="https://ruc.noaa.gov/wrf/WG11_RT/" target="_blank">NOAA GSD RAP-Chem Forecasts</a></p><center>
