@@ -1,9 +1,11 @@
 <?php
 session_start();
 
+
+
  $creds = array(
     'user' => 'userModels00',
-    'passwd' => 'mapsModels1'
+    'passwd' => 'mapModels1'
 );
 
 
@@ -22,15 +24,17 @@ if(isset($_POST['password'])){
     $password = $_POST['password'];
 }
 
-if(isset($_POST['loginBtn'])){
+if(isset($_POST['submitBtn'])){
     if($username === $creds['user'] && $password === $creds['passwd']){ 
-            header('location: https://www.emc.ncep.noaa.gov/emc/pages/ncep_maps/p6/biasmaps/index.php');
+            header('location: https://www.emc.ncep.noaa.gov/emc/pages/ncep_maps/content.php');
     }else{
         header('location: https://www.emc.ncep.noaa.gov/emc/pages/ncep_maps/index.php');
     }
     
 
 } 
+?>
+
 
 
 

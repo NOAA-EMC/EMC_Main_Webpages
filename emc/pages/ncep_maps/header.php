@@ -19,9 +19,9 @@
 	<link rel="stylesheet" type="text/css"  href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
 	
 	<!-- Custom -->
-	<link rel="stylesheet" type="text/css" href="https://www.emc.ncep.noaa.gov/emc/css/main/mainMaps.css" media="all">   
+	<!-- <link rel="stylesheet" type="text/css" href="https://www.emc.ncep.noaa.gov/emc/css/main/mainMaps.css" media="all">    -->
     <link rel="stylesheet" type="text/css" href="https://www.emc.ncep.noaa.gov/emc/css/weather-icons-master/css/weather-icons.css" media="all">
-    
+    <link rel="stylesheet" href="style.css">
 	
     	<!-- Block will contain stylesheets from other pages -->
 	
@@ -42,7 +42,4 @@
     header('Access-Control-Allow-Headers','Content-Type, Authorization');?>
 
 </head>
-
 <body>
-
-
