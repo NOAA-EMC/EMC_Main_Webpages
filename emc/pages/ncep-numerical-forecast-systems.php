@@ -210,7 +210,7 @@
                                             <li class="list-group-item">
                                             <h5><a class="read-more-link" id="href-hiresw" href="https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/href-hiresw.php">High-Resolution Ensemble Forecast</a></h5>
                                             <span class="more">
-        					The High-Resolution Ensemble Forecast system employs NCEP's operational convection-allowing (~3km) systems to generate ensemble products, using current/time-lagged forecasts from the HiresWindow run (ARW/NMMB over CONUS, Alaska, Hawaii, Puerto Rico). For the CONUS, the NAM 3km nest is also used.  
+        					The High-Resolution Ensemble Forecast system employs NCEP's operational convection-allowing (~3km) systems to generate ensemble products, using current/time-lagged forecasts from the HiresWindow run (ARW/FV3LAM over CONUS, Alaska, Hawaii, Puerto Rico). For the CONUS, the HRRR and the NAM 3km nest is also used.  
                                          </ul>
                                       </div>
                                              									
@@ -220,7 +220,7 @@
                                             <li class="list-group-item">
                                             <h5><a class="read-more-link" id="global-rtofs" href="https://polar.ncep.noaa.gov/global/">Global Real-Time Ocean Forecast System</a></h5>
                                             <span class="more">
-        					The Real-Time Ocean Forecast System (Global RTOFS) is based on an eddy-resolving version of the HYCOM (HYbrid Coordinates Ocean Model) at 1/12° degree resolution, run once/day at 00z. Each run starts with 48-h of hindcasting and produces full-volume forecasts from the initial time out to 8 days.  
+        					The Real-Time Ocean Forecast System (Global RTOFS) is based on an eddy-resolving version of the HYCOM (HYbrid Coordinates Ocean Model) at 1/12ï¿½ degree resolution, run once/day at 00z. Each run starts with 48-h of hindcasting and produces full-volume forecasts from the initial time out to 8 days.  
                                             </li>
                                          </ul>
                                       </div>
@@ -284,7 +284,7 @@
 										
      									<ul class="list-group">
                                             <li class="list-group-item">
-                                            <h5><a class="read-more-link" href="https://www.emc.ncep.noaa.gov/mmb/aq/">NCEP Air Quality Model</a></h5>
+                                            <h5><a class="read-more-link" id="naqfc" href="https://www.emc.ncep.noaa.gov/mmb/aq/">NCEP Air Quality Model</a></h5>
                                             <span class="more">
         					The NOAA National Air Quality Forecast Capability (NAQFC) provides 2 day forecasts of ozone and fine particulate matter surface concentration from 06 and 12 UTC from the EPA Community Model for Air Quality (CMAQ). Predictions are made over the CONUS, Alaska, and Hawaii.  
                                             </li>

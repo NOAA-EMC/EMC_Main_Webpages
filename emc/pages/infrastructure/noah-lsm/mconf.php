@@ -33,15 +33,8 @@ global $browser_title;
   <LI><A HREF="http://www.emc.ncep.noaa.gov/mmb/gcp/sfcimg/soiltex/index.html">Soil texture</A>
   <LI>Images of Snow files:
     <UL>
-     <LI><A HREF="http://www.emc.ncep.noaa.gov/mmb/ylin/snowice/">
-                  NAM snow page</A>
-
-     <LI><A HREF="http://www.ssd.noaa.gov/PS/SNOW/index.html">
+     <LI><A HREF="https://www.emc.ncep.noaa.gov/jcsda/ggayno/snow/home.html">
                   The NESDIS/IMS snow/ice images</A>
-     <LI><A HREF="http://www.emc.ncep.noaa.gov/gmb/pan/snow/qcsnow.gif">
-                  On Hua-Lu Pan's home page (EMC/NCEP)</A>
-     <LI><A HREF="http://www.rap.ucar.edu/weather/surface/snowAFus.gif">
-                  On the NCAR/RAP Weather Data Page</A>
     </UL>
 
 </UL>
@@ -50,8 +43,7 @@ global $browser_title;
 <UL>
    <LI> Related soil moisture web sites
    <UL>
-      <LI> <A HREF="http://www.nws.noaa.gov/cgi-bin/nwsexit.pl?url=http://ldas.gsfc.nasa.gov/&blurb=NCEP+/NASA+NDAS">NCEP/NASA NDAS </A>
-      <LI> <A HREF="http://www.cpc.ncep.noaa.gov/soilmst">CPC Soil Moisture Monitoring and Prediction </A>
+      <LI> <A HREF="https://www.cpc.ncep.noaa.gov/products/Soilmst_Monitoring/">CPC Soil Moisture Monitoring and Prediction </A>
    </UL>      
 
 </UL>

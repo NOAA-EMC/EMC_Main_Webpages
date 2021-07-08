@@ -45,9 +45,9 @@ global $browser_title;
 <p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">The Real Time Mesoscale Analysis (RTMA) and the UnRestricted Mesoscale Analysis system (URMA) are 2DVar analysis systems that provide analyses of National Digital Forecast Database parameters for CONUS, Alaska, Hawaii, Puerto Rico, and Guam. The RTMA is run hourly for all domains to provide situational awareness. The URMA is also run hourly but with a six hour time delay to capture late arriving data at NCEP. While RTMA is considered for situational awareness the URMA is considered for verification/validation. The URMA also serves as a critical component in the National Blend of Models (NBM) program, as it is used for calibration and validation.&nbsp; As of December 2017, a new Rapid Update version of the RTMA (RTMA-RU) was implemented.&nbsp; This system provides a new analysis every 15 minutes and is for users in need of fast, low-latency analysis products (e.g. the aviation community).</span></span></p>
 
 <p><span style="font-family:arial,helvetica,sans-serif;">
-<span style="font-size:16px;">EMC has created a <a href="https://vlab.ncep.noaa.gov/group/715073">RTMA/URMA Discussion Group</a> on VLab (a Vlab account is required to access it).
+<span style="font-size:16px;">EMC has created a <a href="https://vlab.noaa.gov/group/715073">RTMA/URMA Discussion Group</a> on VLab (a Vlab account is required to access it).
 <br>
-External users can also access the <a href="https://vlab.ncep.noaa.gov/web/715073">RTMA/URMA Discussion Group</a> (no log-in required).
+External users can also access the <a href="https://vlab.noaa.gov/web/715073">RTMA/URMA Discussion Group</a> (no log-in required).
 </span></span>
 </p>
 <p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">Documentation for RTMA/URMA can be found at the <a href="https://sites.google.com/a/ucar.edu/model-encyclo-determ/deterministic/analyses/rtma-urma">official COMET site</a>.</span></span></p>

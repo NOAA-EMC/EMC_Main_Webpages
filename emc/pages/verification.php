@@ -42,24 +42,35 @@
                                 
                                 <div class="text" id="text3">
                                 <ul>
-                                	<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><a href="https://www.emc.ncep.noaa.gov/users/meg/gfsv16/">Official Parallel GFS v16 Evaluation Page </a></strong></span></span>
+                                	<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><a href="https://www.emc.ncep.noaa.gov/users/verification/headlines/">Operational Global Forecast System (GFS) "Headline" Scores: Monthly/Yearly ACC, Useful Forecast Day, ACC Die-off vs GEFS and NAEFS</a></strong></span></span>
                                 	<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><a href="https://www.emc.ncep.noaa.gov/users/verification/global/gfs/ops/">Operational Global Forecast System (GFS) Main Verification Page</a></strong></span></span>
                                 
                                 	<ul>
-                                		<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><a href="https://www.emc.ncep.noaa.gov/users/verification/global/gfs/ops/grid2grid/acc/">Grid-to-Grid Verification (Multi-model Anomaly Corrrelation, etc)</a></strong></span></span></li>
+                                		<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><a href="https://www.emc.ncep.noaa.gov/users/verification/global/gfs/ops/grid2grid_all_models/acc/">Grid-to-Grid Verification (Multi-model Anomaly Corrrelation, etc)</a></strong></span></span></li>
                                 		<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><a href="https://www.emc.ncep.noaa.gov/users/verification/global/gfs/ops/grid2obs/bias/">Grid-to-Observations Verification</a> (<a href="https://www.emc.ncep.noaa.gov/users/verification/global/gfs/ops/grid2obs/bias/">Bias</a>, <a href="https://www.emc.ncep.noaa.gov/users/verification/global/gfs/ops/grid2obs/rmse/">RMS Error</a>) </strong></span></span></li>
                                 		<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><a class="links" href="https://www.emc.ncep.noaa.gov/data_assimilation/data.html">Global data assimilation monitoring</a></strong></span></span></li>
-                                		<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><a class="links" href="http://www.emc.ncep.noaa.gov/gmb/STATS_vsdb/longterm/">Historical global model statistics</a></strong></span></span></li>
+                                		<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><a class="links" href="https://www.emc.ncep.noaa.gov/users/verification/global/gfs/ops/annual_long_term/">Historical long-term global model annual statistics</a></strong></span></span></li>
+                                		<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><a class="links" href="https://www.emc.ncep.noaa.gov/users/verification/global/gfs/ops/monthly_long_term/">Historical monthly long-term global model statistics (Description)</a>: 
+                                                  <ol>
+                                                    <li><a class="links" href="https://www.emc.ncep.noaa.gov/users/verification/global/gfs/ops/monthly_long_term/all_models/"> All Models</a></li> 
+                                                    <li><a class="links" href="https://www.emc.ncep.noaa.gov/users/verification/global/gfs/ops/monthly_long_term/gfs_ecmwf"> GFS vs ECMWF</a></li>  
+                                                    <li><a class="links" href="https://www.emc.ncep.noaa.gov/users/verification/global/gfs/ops/monthly_long_term/gfs_4cycles"> All 4 GFS cycles</a></li>  
+                                                    <li><a class="links" href="https://www.emc.ncep.noaa.gov/users/verification/global/gfs/ops/monthly_long_term/useful_fcst_days"> Useful Forecast Days</a></li>  
+                                                  </ol>
+                                                </strong></span></span></li>
                                 		<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><a href="https://www.emc.ncep.noaa.gov/gmb/icao/">WAFC Washington Performance Indicators</a></strong></span></span></li>
                                 	</ul>
                                 	</li>
                                 	<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><a href="https://www.emc.ncep.noaa.gov/users/verification/global/gefs/ops/"><strong>Global Ensemble (GEFS) Main Verification Page </strong></a></span></span>
                                 	<ul>
-                                		<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><a class="links" href="http://www.emc.ncep.noaa.gov/gmb/yzhu/html/opr/naefs.html">GEFS verification statistics (updated seasonally)</a></strong></span></span></li>
+                                	        <li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><a href="https://www.emc.ncep.noaa.gov/users/verification/headlines/acc_dieoff/"><strong>NH 500hPa Height Anomaly Correlation Die-off : GFS vs GEFS vs NAEFS </strong></a></span></span>
                                 		<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><a class="links" href="https://www.emc.ncep.noaa.gov/users/meg/gefs_plumes/">GEFS plumes with option to compare to observed station data</a></strong><strong><a class="links" href="http://www.emc.ncep.noaa.gov/gmb/ssaha/"</a></strong></span></span></li>
                                 	</ul>
                                 	</li>
                                 	<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><a href="https://www.emc.ncep.noaa.gov/users/verification/global/naefs/ops/"><strong>North American Ensemble Forecast System (NAEFS) Verification Page</strong></a></span></span></li>
+                                	<ul>
+                                		<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><a class="links" href="http://www.emc.ncep.noaa.gov/gmb/yzhu/html/opr/naefs.html">GEFS/NAEFS seasonal verification statistics vs ECMWF and FNMOC ensembles (updated seasonally)</a></strong></span></span></li>
+                                	</ul>
                                 	<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><a href="https://www.emc.ncep.noaa.gov/users/verification/global/cfs/">Climate Forecast System (CFS) Verification Page </a></strong></span></span></li>
                                 </ul>
                                 </div>
@@ -82,11 +93,11 @@
                                 <p><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;"><strong>3) Regional / Mesoscale Verification </strong></span></span></p>
                                 
                                 <ul>
-                                	<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><a href="https://www.emc.ncep.noaa.gov/users/meg/hrefv3/">Official Parallel HREFv3 Evaluation Page</a>&nbsp;</strong></span></span></li>
+                                	<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><a href="https://www.emc.ncep.noaa.gov/users/verification/regional/ensemble/ops/">SREF vs GEFS Verification</a>&nbsp;</strong></span></span></li>
                                 	<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><a href="https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/rtma/rtma_urma/">Operational Mesoscale Analysis Page (RTMA, URMA, RTMA-RU, URMA Time Series, URMA QPE)</a>&nbsp;</strong></span></span></li>
                                 </ul>
                                 
-                                <p><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><small><big>4) <a href="https://www.emc.ncep.noaa.gov/users/verification/precip/#">Precipitation Verification</a> / Analysis</big></small></strong></span></span></p>
+                                <p><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><small><big>4) <a href="https://www.emc.ncep.noaa.gov/users/verification/precip/#">Precipitation Verification</a> / Analysis, Cloud Verification </big></small></strong></span></span></p>
                                 </div>
                                 
                                 <p><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><span style="color: black;"></span><span style="color: black;"></span><span style="color: black;"></span><span style="color: black;"></span></strong></span></span></p>
@@ -96,18 +107,19 @@
                                 	<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><a class="links" href="https://www.emc.ncep.noaa.gov/users/verification/precip/verif/daily/">Daily 24-h precipitation forecasts from NCEP and international models compared to Stage IV analyses</a></strong></span></span></li>
                                 	<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><a href="https://www.emc.ncep.noaa.gov/mmb/SREF/pcpanl/"><strong>Hourly/6-hourly Precipitation Analysis at NCEP/EMC (RTMA/URMA QPE, Stage II)</strong></a></span></span></li>
                                 	<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><a href="http://www.emc.ncep.noaa.gov/gmb/yluo/nuopc_precip.html">Global Ensemble Precipitation Verification (updated seasonally)</a></strong></span></span></li>
+                                	<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><a class="links" href="https://www.emc.ncep.noaa.gov/users/verification/precip/clouds/ops/">Global and Regional Model/Ensemble Cloud Verification</a></strong></span></span></li>
                                 	<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><a class="links" href="http://www.wpc.ncep.noaa.gov/verification/mode/mode.php#page=page-1">Object-oriented (MODE) precipitation verification run by WPC for many regional and global models</a></strong></span></span></li>
                                 </ul>
                                 
-                                <p><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;"><strong>5) <a href="https://www.emc.ncep.noaa.gov/users/verification/ocean_wave/">Marine / Ocean Model Verification</a></strong></span></span></p>
+                                <p><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;"><strong>5) <a href="https://www.emc.ncep.noaa.gov/users/verification/ocean_wave/">Marine/Ocean Model Verification</a></strong></span></span></p>
                                 
                                 <ul>
-                                	<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><a href="https://polar.ncep.noaa.gov/global/class-4/index.shtml?-rtg-global-n048-small-"><strong>Global Real-Time Ocean Forecast System (RTOFS) SST Verification/Metrics</strong></a></span></span></li>
+                                	<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><a href="https://polar.ncep.noaa.gov/global/class-1//"><strong>Global RTOFS Class-1 Satellite Verification</strong></a></span></span></li>
                                 	<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><a href="https://polar.ncep.noaa.gov/global/ice/"><strong>Global RTOFS Sea Ice Validation</strong></a></span></span></li>
                                 	<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><a href="https://polar.ncep.noaa.gov/global/fronts/"><b>Global RTOFS Ocean Fronts (Gulf Stream, Loop Current, Kuroshio)</b></a></span></span></li>
                                 	<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><a href="https://polar.ncep.noaa.gov/global/class-4/cable/"><b>Global RTOFS Florida Cable Transports</b></a></span></span></li>
-                                	<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><a href="http://polar.ncep.noaa.gov/waves/validation/prod/">WAVEWATCH III® Production Validation Archive </a></strong></span></span></li>
-                                	<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><a href="http://polar.ncep.noaa.gov/waves/hindcasts/prod-multi_1.php">WAVEWATCH III® Production Hindcast, Multigrid</a></strong></span></span></li>
+                                	<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><a href="http://polar.ncep.noaa.gov/waves/validation/prod/">WAVEWATCH III Production Validation Archive (2013-2020, updated yearly)</a></strong></span></span></li>
+                                	<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><a href="http://polar.ncep.noaa.gov/waves/hindcasts/prod-multi_1.php">WAVEWATCH III Production Hindcast, Multigrid</a></strong></span></span></li>
                                 	<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><a href="http://polar.ncep.noaa.gov/nwps/">Nearshore Wave Prediction System</a></strong></span></span></li>
                                 </ul>
                                 

@@ -25,7 +25,7 @@ global $browser_title;
 
     <main role="main" class="col-md-9 ml-sm-auto col-lg-10 px-4">
       <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
-        <h1 class="h2">Dashboard</h1>
+        <h1 class="h2"></h1>
         <div class="btn-toolbar mb-2 mb-md-0">
           <div class="btn-group mr-2">
             <!--<button type="button" class="btn btn-sm btn-outline-secondary">Share</button>-->
@@ -33,7 +33,7 @@ global $browser_title;
           </div>
         </div>
       </div>
-     <h2 id="section-title">Short-range Ensemble Forecast</h2>
+     <h2 id="section-title"></h2>
      	<div id="description">
 				<p style="text-align: center;"><b style="color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;"><i><font size="6">NCEP SHORT-RANGE ENSEMBLE FORECAST (SREF)</font></i></b><span style="color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;"></span></p>
 
@@ -41,7 +41,7 @@ global $browser_title;
 
 <p style="color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">The <a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/SREFv7_implementationBriefing.pdf">October 2015 SREF implementation</a> was its last upgrade, as future regional ensemble development at NCEP will focus on building a high-resolution convective-allowing ensemble including the FV3 dynamic core.&nbsp; </span></span></p>
 
-<p style="color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">Table 1 : Physics, initial conditions, and lateral boundary conditions used in the 13 NEMS-NMMB SREF members; click <a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/SREF_options.pdf">here</a> for definition of acronyms.</span></span></p>
+<center style="color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">Table 1 : Physics, initial conditions, and lateral boundary conditions used in the 13 NEMS-NMMB SREF members; click <a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/SREF_options.pdf">here</a> for definition of acronyms.</span></span></p>
 
 <p style="color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;"><img alt="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/nmmbsref.gif" class="transparent" src="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/nmmbsref.gif" width="850" height="605"></p>
 
@@ -61,12 +61,7 @@ global $browser_title;
 			<td><font size="5"><a href="http://www.spc.noaa.gov/exper/sref/srefplumes/">SPC SREF Plumes</a></font></td>
 		</tr>
 		<tr>
-			<td><font size="5"><a href="http://www.emc.ncep.noaa.gov/mmb/wd20bz/SREF_aviation/web_site/html_212/fltrestr.html">Aviation(CONUS)</a></font></td>
-			<td><font size="5"><a href="http://www.emc.ncep.noaa.gov/mmb/wd20bz/SREF_aviation/web_site/html_216/fltrestr.html">Aviation(Alaska)</a></font></td>
-			<td><font size="5"><a href="http://www.emc.ncep.noaa.gov/mmb/wd20bz/SREF_aviation/web_site/html_243/fltrestr.html">Aviation(Hawaii)</a></font></td>
-		</tr>
-		<tr>
-			<td>&nbsp;</td>
+			<td><font size="5"><a href="http://www.emc.ncep.noaa.gov/mmb/wd20bz/SREF_aviation/web_site/html_212/fltrestr.html">Aviation(CONUS, Alaska, Hawaii)</a></font></td>
 			<td><font size="5"><a href="http://www.emc.ncep.noaa.gov/mmb/gplou/emchurr/nwprod/">Cyclone Track</a></font></td>
 			<td>&nbsp;</td>
 		</tr>
@@ -112,10 +107,10 @@ global $browser_title;
 			<td><font size="5"><a href="http://www.emc.ncep.noaa.gov/mmb/SREF_avia/FCST/NARRE/web_site/html/icing.html">North America Rapid Refresh Ensemble -- Time Lagged (NARRE-TL)</a></font></td>
 		</tr>
 		<tr>
-			<td><font size="5"><a href="http://www.emc.ncep.noaa.gov/mmb/mpyle/href_v2awips/">High-Resolution Ensemble Forecast (HREF)</a></font></td>
+			<td><font size="5"><a href="https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/href-hiresw.php">High-Resolution Ensemble Forecast (HREF)</a></font></td>
 		</tr>
 		<tr>
-			<td><font size="5"><a href="http://www.spc.noaa.gov/exper/sseo/">SPC HREF site</a></font></td>
+			<td><font size="5"><a href="https://www.spc.noaa.gov/exper/href/">SPC HREF site</a></font></td>
 		</tr>
 	</tbody>
 </table>

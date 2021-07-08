@@ -49,7 +49,7 @@ global $browser_title;
 
 <p align="left" style="line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">October 6, 2020 : UFS Medium Range Weather Application v1.1 is now available. For details, please visit the <a href="http://www.weather.gov/exit?url=https://ufscommunity.org//news/medrangeweatherapp_v1p1/">UFS community web site</a> on this release.</font></span></p>
 
-<p align="left" style="line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">July 2020: Launch of UFS Research to Operations (UFS-R2O) Project. For details, please visit the <a href="https://vlab.ncep.noaa.gov/web/ufs-r2o">UFS-R2O web site</a>.</font></span></p>
+<p align="left" style="line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">July 2020: Launch of UFS Research to Operations (UFS-R2O) Project. For details, please visit the <a href="https://vlab.noaa.gov/web/ufs-r2o">UFS-R2O web site</a>.</font></span></p>
 
 <p align="left" style="line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">The first UFS Users Workshop was held virtually from 27-29 July 2020. For the meeting agenda and links to presentations, please visit the <a href="http://www.weather.gov/exit?url=https://dtcenter.org/events/2020/unified-forecast-system-ufs-users-workshop/agenda">workshop web site</a>.</font></span></p>
 
@@ -111,7 +111,7 @@ global $browser_title;
 
 <p align="left" style="margin-bottom: 0in; line-height: 150%">&nbsp;</p>
 
-<p align="left" style="margin-bottom: 0in; line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">More details on the implementation of the GFS V15 with the FV3 dynamic core can be found in the <a href="https://www.weather.gov/media/notification/scn19-40gfs_v15_1.pdf">NWS Service Change Notice</a>, on <a href="https://vlab.ncep.noaa.gov/web/fv3gfs">EMC's FV3GFS page</a> on the NWS Vlab site. Comprehensive information on the official evaluation of GFS v15 is available at the EMC <a href="https://www.emc.ncep.noaa.gov/users/meg/fv3gfs/">Model Evaluation Group’s web site</a>.</font></span></p>
+<p align="left" style="margin-bottom: 0in; line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">More details on the implementation of the GFS V15 with the FV3 dynamic core can be found in the <a href="https://www.weather.gov/media/notification/scn19-40gfs_v15_1.pdf">NWS Service Change Notice</a>, on <a href="https://vlab.noaa.gov/web/fv3gfs">EMC's FV3GFS page</a> on the NWS Vlab site. Comprehensive information on the official evaluation of GFS v15 is available at the EMC <a href="https://www.emc.ncep.noaa.gov/users/meg/fv3gfs/">Model Evaluation Group’s web site</a>.</font></span></p>
 
 <p align="left" style="margin-bottom: 0in; line-height: 150%">&nbsp;</p>
 
@@ -144,11 +144,11 @@ to presentations showing details on GFS v16 model/assimilation changes and perfo
 
 <p><span style="font-family:arial,helvetica,sans-serif;"><font size="4" style="font-size: 14pt">5) UFS at NCEP : Advancement toward a Convection-Allowing Ensemble System</font></span></p>
 
-<p align="left" style="margin-bottom: 0in; line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">As part of NCEP’s commitment to move all atmospheric prediction components in the NCEP Production Suite (NPS) to use the UFS weather model, EMC has created the capability to run the FV3 model in a limited area configuration (*Black et al. 2019). Preliminary tests comparing 3 km forecasts nested within a global simulation with a limited area 3 km FV3 dynamic core over the CONUS have shown that the limited area FV3 produced statistically indistinguishable forecasts out to 60-h, was twice a fast, and used 50-75% fewer computational resources than the version nested within a global model.</font></span></p>
+<p align="left" style="margin-bottom: 0in; line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">As part of NCEP’s commitment to move all atmospheric prediction components in the NCEP Production Suite (NPS) to use the UFS weather model, EMC has created the capability to run the FV3 model in a limited area configuration (*Black et al.,2021). Preliminary tests comparing 3 km forecasts nested within a global simulation with a limited area 3 km FV3 dynamic core over the CONUS have shown that the limited area FV3 produced statistically indistinguishable forecasts out to 60-h, was twice a fast, and used 50-75% fewer computational resources than the version nested within a global model.</font></span></p>
 
 <p align="left" style="margin-bottom: 0in; line-height: 150%">&nbsp;</p>
 
-<p align="left" style="margin-bottom: 0in; line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">The initial implementation of the limited area FV3 in the NPS will be in the <a href="https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/href-hiresw.php">High-Resolution Forecast System/HiResW</a>, where the HiResW-NMMB member of HREF will be replaced by a limited area FV3 member, planned for the spring of 2021. This is a step towards the eventual implementation of the Rapid Refresh Forecast System (RRFS), a convection-allowing ensemble system having the following projected configuration:</font></span></p>
+<p align="left" style="margin-bottom: 0in; line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">The initial implementation of the limited area FV3 in the NPS was made on May 11, 2021 in the <a href="https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/href-hiresw.php">High-Resolution Forecast System/HiResW</a>, with the HiResW-NMMB member of HREF replaced by a limited area FV3 member. This is a step towards the eventual implementation of the Rapid Refresh Forecast System (RRFS), a convection-allowing ensemble system having the following projected configuration:</font></span></p>
 
 <p align="left" style="margin-bottom: 0in; line-height: 150%">&nbsp;</p>
 
@@ -165,7 +165,7 @@ to presentations showing details on GFS v16 model/assimilation changes and perfo
 
 <p align="left" style="margin-bottom: 0in; line-height: 150%">&nbsp;</p>
 
-<p align="left" style="margin-bottom: 0in; line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">*Black, T., J. Abeles, B. Blake, D. Jovic, E. Rogers, Y. Lin, L.C.Dawson, and J.R.Carley, 2019: A Standalone Limited Area Capability for the Finite-Volume Cubed-Sphere Dynamic Core. Working Group on Numerical Experimentation Blue Book.</font></span></p>
+<p align="left" style="margin-bottom: 0in; line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">*Black, T. L., J. A. Abeles, B. T. Blake, D. Jovic, E. Rogers, X. Zhang, E. A. Aligo, L. C. Dawson, Y. Lin, E. Strobach, P. C. Shafran, and J. R. Carley, 2021: A Limited Area Modeling Capability for the Finite-Volume Cubed-Sphere (FV3) Dynamical Core and Comparison with a Global Two-Way Nest. <i>Journal of Advances in Modeling Earth Systems</i>, <b>13(6)</b>, <a href="https://doi.org/10.1029/2021MS002483">https://doi.org/10.1029/2021MS002483</a></font></span></p>
 
 <p>&nbsp;</p>
 

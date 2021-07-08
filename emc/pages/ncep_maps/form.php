@@ -15,7 +15,6 @@ if(isset($_POST['map'])){
   
     $map = $_POST['map'];
 }
-
 if(empty($_POST['modelNew'])){
     $modelNew = null;
 }

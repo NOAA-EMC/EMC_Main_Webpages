@@ -41,12 +41,12 @@
 		<div class="container">
 			<div class="col-md-12">
 				<ul class="footer-nesdis-links">
+					<li><a href="https://www.weather.gov/about/" title="About Us" id="anch_79">About Us</a></li>
 					<li><a href="https://www.weather.gov/privacy" title="NOAA's Privacy Policy" id="anch_79">Privacy Policy</a></li>
 					<li><a href="http://www.noaa.gov/foia-freedom-of-information-act" title="Freedome of Information Act" id="anch_80">Freedom Of Information Act</a></li>
 					<li><a href="https://www.weather.gov/glossary" title="NWS Glossary" id="anch_80">NWS Glossary</a></li>
 					<li><a href="http://www.cio.noaa.gov/services_programs/info_quality.html" title="Information Quality" id="anch_81">Information Quality</a></li>
 					<li><a href="https://www.weather.gov/disclaimer" title="Disclaimer" id="anch_82">Disclaimer</a></li>
-					<li><a href="https://www.surveymonkey.com/r/6QTGJQF" title="Take Our Site Survey" id="anch_83">Take Our Survey</a></li>
 					<li><a href="http://www.commerce.gov/" title="United States Department of Commerce" id="anch_84">Department of Commerce</a></li>
 					<li><a href="http://www.noaa.gov" title="NOAA" id="anch_85">NOAA</a></li>
 					<li><a href="http://www.emc.noaa.gov/" title="EMC" id="anch_86">EMC</a></li>

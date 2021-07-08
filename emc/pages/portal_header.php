@@ -55,7 +55,7 @@
   <ul class="navbar-nav px-3">
     <li class="nav-item text-nowrap">
 	  <div class="boxes-box-content">
-		  <a class="nav-link noaa_logo" href="#"><img src="https://www.noaa.gov/sites/all/themes/custom/noaa/images/noaa_logo_circle_72x72.svg" style="width:42px;height:42px;"></a>
+		  <a class="nav-link noaa_logo" href="#"><img src="https://www.emc.ncep.noaa.gov/emc/images/favicon/noaa_favicon.ico" style="width:42px;height:42px;"></a>
 		  <a class="site-name" href="https://www.noaa.gov">National Oceanic and Atmospheric Administration</a>
 		  <a class="site-slogan" href="http://www.commerce.gov">U.S. Department of Commerce</a>
 	  </div>

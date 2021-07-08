@@ -29,12 +29,12 @@ global $browser_title;
         </h6>
         <ul class="nav flex-column mb-2">
           <li class="nav-item">
-            <a class="nav-link" href="http://www.nco.ncep.noaa.gov/pmb/products/nam">
+            <a class="nav-link" href="https://www.nco.ncep.noaa.gov/pmb/products/nam">
               NAM Operational Products
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="http://www.nco.ncep.noaa.gov/pmb/products/hiresw/">
+            <a class="nav-link" href="https://www.nco.ncep.noaa.gov/pmb/products/hiresw/">
               HIRESW Operational Products
             </a>
           </li>
@@ -49,12 +49,12 @@ global $browser_title;
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/NAM_2017.pdf">
+            <a class="nav-link" href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/NAM_2017.pdf">
               NAM System Configuration
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="http://www.dtcenter.org/wrf-nmm/users/">
+            <a class="nav-link" href="https://www.dtcenter.org/wrf-nmm/users/">
               NCAR WRF-NMM Users
             </a>
           </li>
@@ -79,7 +79,7 @@ global $browser_title;
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="http://www.weather.gov/disclaimer">
+            <a class="nav-link" href="https://www.weather.gov/disclaimer">
               NWS Disclaimer
             </a>
           </li>
@@ -120,7 +120,7 @@ global $browser_title;
                 
                 <p>&nbsp;</p>
                 
-			<h4>Please note : Most of the NCEP real-time model web pages listed below are generated on the NCEP development computer, and therefore will not be updated when this computer is down. Official web graphics for the NAM 12-km parent, GFS, GEFS, NAM Alaska/CONUS/Fire Weather nests, SREF, HiResW runs, RTMA, RAP, and HRRR are available at the NCEP <a href="http://mag.ncep.noaa.gov/"> Model Analysis and Guidance (MAG) site</a> and subject to 24/7 monitoring by NCEP Central Operations. If you have any questions please email Eric Rogers at <i>eric.rogers@noaa.gov</i>.</h4>
+			<h4>Please note : Most of the NCEP real-time model web pages listed below are generated on the NCEP development computer, and therefore will not be updated when this computer is down. Official web graphics for the NAM 12-km parent, GFS, GEFS, NAM Alaska/CONUS/Fire Weather nests, SREF, HiResW runs, RTMA, RAP, and HRRR are available at the NCEP <a href="https://mag.ncep.noaa.gov/"> Model Analysis and Guidance (MAG) site</a> and subject to 24/7 monitoring by NCEP Central Operations. If you have any questions please email Eric Rogers at <i>eric.rogers@noaa.gov</i>.</h4>
                 
                 <p><a id="TAB1"></a></p>
                 
@@ -143,7 +143,7 @@ global $browser_title;
                 			<th>Archive of past forecasts?</th>
                 		</tr>
                 		<tr>
-                			<td><a href="http://www.emc.ncep.noaa.gov/mmb/nammeteograms/"><strong>NAM FORECAST METEOGRAMS </strong> </a></td>
+                			<td><a href="https://www.emc.ncep.noaa.gov/mmb/nammeteograms/"><strong>NAM FORECAST METEOGRAMS </strong> </a></td>
                 			<td>NAM</td>
                 			<td>84-h ; displays last two NAM runs for 1300+ stations, use NAM model grid point nearest to station</td>
                 			<td>1 hour</td>
@@ -151,7 +151,7 @@ global $browser_title;
                 			<td>No</td>
                 		</tr>
                 		<tr>
-                			<td><a href="http://www.emc.ncep.noaa.gov/mmb/precip_type/"><strong>NAM FORECAST PRECIPITATION TYPE METEOGRAMS AND REGIONAL PLOTS </strong> </a></td>
+                			<td><a href="https://www.emc.ncep.noaa.gov/mmb/precip_type/"><strong>NAM FORECAST PRECIPITATION TYPE METEOGRAMS AND REGIONAL PLOTS </strong> </a></td>
                 			<td>NAM</td>
                 			<td>84-h (00Z/12Z runs only); data for 1300+ stations, use NAM model grid point nearest to station</td>
                 			<td>1 hour</td>
@@ -159,7 +159,7 @@ global $browser_title;
                 			<td>No</td>
                 		</tr>
                 		<tr>
-                			<td><a href="http://www.emc.ncep.noaa.gov/mmb/rucmeteograms/"><strong>RAP FORECAST METEOGRAMS </strong> </a></td>
+                			<td><a href="https://www.emc.ncep.noaa.gov/mmb/rucmeteograms/"><strong>RAP FORECAST METEOGRAMS </strong> </a></td>
                 			<td>RAP</td>
                 			<td>21-h; displays latest RAP 3-h cycle, data for 500+ stations, use model grid point nearest to station</td>
                 			<td>1 hour</td>
@@ -167,9 +167,9 @@ global $browser_title;
                 			<td>No</td>
                 		</tr>
                 		<tr>
-                			<td><a href="http://mag.ncep.noaa.gov/model-guidance-model-area.php"><strong>NCEP North American Mesoscale (NAM-12) Model : NCEP Model Analysis and Guidance (MAG) page </strong> </a>
+                			<td><a href="https://mag.ncep.noaa.gov/model-guidance-model-area.php"><strong>NCEP North American Mesoscale (NAM-12) Model : NCEP Model Analysis and Guidance (MAG) page </strong> </a>
                 			<p>&nbsp;</p>
-                			<a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/opsnam/"><strong>NCEP North American Mesoscale (NAM-12) Model : Enhanced CONUS/North America/Hawaii Graphics (EMC page) </strong> </a>
+                			<a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/opsnam/"><strong>NCEP North American Mesoscale (NAM-12) Model : Enhanced CONUS/North America/Hawaii Graphics (EMC page) </strong> </a>
                 
                 			<p>&nbsp;</p>
                 			</td>
@@ -182,10 +182,10 @@ global $browser_title;
                 		<tr>
                 			<td><strong>NAM 3 km Nests </strong>
                 			<ol type="1">
-                				<li><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/nam_alaskanest_hourly"><strong>3 km Alaska </strong> </a></li>
-                				<li><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/nam_conusnest_hourly60"><strong>3 km CONUS </strong> </a></li>
-                				<li><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/nam_hawaiinest_hourly"><strong>3 km Hawaii </strong> </a></li>
-                				<li><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/nam_priconest_hourly"><strong>3 km Puerto Rico </strong> </a></li>
+                				<li><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/nam_alaskanest_hourly"><strong>3 km Alaska </strong> </a></li>
+                				<li><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/nam_conusnest_hourly60"><strong>3 km CONUS </strong> </a></li>
+                				<li><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/nam_hawaiinest_hourly"><strong>3 km Hawaii </strong> </a></li>
+                				<li><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/nam_priconest_hourly"><strong>3 km Puerto Rico </strong> </a></li>
                 			</ol>
                 			</td>
                 			<td>Ops NAM 3 km nests</td>
@@ -197,7 +197,7 @@ global $browser_title;
                 		<tr>
                 			<td><strong>NAM Nest runs on NCEP Model Analysis and Guidance Page (Model Type = "NAM-HIRES") </strong>
                 			<ol type="1">
-                				<li><a href="http://mag.ncep.noaa.gov/model-guidance-model-area.php"><strong>3 km Alaska or CONUS nest </strong> </a></li>
+                				<li><a href="https://mag.ncep.noaa.gov/model-guidance-model-area.php"><strong>3 km Alaska or CONUS nest </strong> </a></li>
                 			</ol>
                 
                 			<p>&nbsp;</p>
@@ -214,9 +214,9 @@ global $browser_title;
                 			<td>1 day</td>
                 		</tr>
                 		<tr>
-                			<td><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/firewx"><strong>NAM Fire Weather Nest (EMC page) </strong> </a>
+                			<td><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/firewx"><strong>NAM Fire Weather Nest (EMC page) </strong> </a>
                 			<p>&nbsp;</p>
-                			<a href="http://mag.ncep.noaa.gov/model-guidance-model-area.php"><strong>NAM Fire Weather Nest : NCEP Model Analysis and Guidance (MAG) page </strong> </a>
+                			<a href="https://mag.ncep.noaa.gov/model-guidance-model-area.php"><strong>NAM Fire Weather Nest : NCEP Model Analysis and Guidance (MAG) page </strong> </a>
                 
                 			<p>&nbsp;</p>
                 
@@ -229,7 +229,7 @@ global $browser_title;
                 			<td>Last 4 cycles</td>
                 		</tr>
                 		<tr>
-                			<td><a href="http://www.emc.ncep.noaa.gov/mmb/namsvrfcst/"><strong>NCEP Operational NAM-12 : Convective Forecasting Page for 00Z/12Z cycles </strong> </a></td>
+                			<td><a href="https://www.emc.ncep.noaa.gov/mmb/namsvrfcst/"><strong>NCEP Operational NAM-12 : Convective Forecasting Page for 00Z/12Z cycles </strong> </a></td>
                 			<td>NAM</td>
                 			<td>84-h</td>
                 			<td>3 hours</td>
@@ -237,29 +237,29 @@ global $browser_title;
                 			<td>No</td>
                 		</tr>
                 		<tr>
-                			<td><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/ncep_hiresw/"><strong>NCEP HiResWindow Forecast Page - EMC Web pages </strong> </a></td>
+                			<td><a href="https://www.emc.ncep.noaa.gov/mmb/mpyle/hiresw/"><strong>NCEP HiResWindow Forecast Page - EMC Web pages </strong> </a></td>
                 			<td>
                 			<ul>
-                				<li>CONUS NMMB and ARW (00Z,12Z) vs ops NAM 3km CONUS nest</li>
-                				<li>Hawaii NMMB and ARW (00Z/12Z) vs ops NAM 3km Hawaii nest</li>
-                				<li>Guam NMMB and ARW (00Z/12Z)</li>
-                				<li>Puerto Rico NMMB and ARW (06Z/18Z) vs ops NAM 3km Puerto Rico nest</li>
-                				<li>Alaska NMMB and ARW (06z/18Z) vs ops NAM 3km Alaska nest</li>
+                				<li>CONUS FV3, ARW, and ARW2 (00Z,12Z)</li>
+                				<li>Hawaii FV3, ARW, and ARW2 (00Z/12Z)</li>
+                				<li>Guam FV3 and ARW (00Z/12Z)</li>
+                				<li>Puerto Rico FV3, ARW, and ARW2 (06Z/18Z)</li>
+                				<li>Alaska FV3, ARW, and ARW2 (06z/18Z)</li>
                 			</ul>
                 			</td>
                 			<td>48-h</td>
-                			<td>3 hours</td>
+                			<td>1 hour</td>
                 			<td>Yes</td>
                 			<td>No</td>
                 		</tr>
                 		<tr>
-                			<td><a href="http://mag.ncep.noaa.gov/model-guidance-model-area.php"><strong>NCEP HiResWindow Forecasts on NCEP Model Analysis and Guidance Page </strong> </a></td>
+                			<td><a href="https://mag.ncep.noaa.gov/model-guidance-model-area.php"><strong>NCEP HiResWindow Forecasts on NCEP Model Analysis and Guidance Page </strong> </a></td>
                 			<td>
                 			<ul>
                 				<li>Model Area = CONUS, HAWAII, ALASKA, GUAM, or PR (Puerto Rico)</li>
-                				<li>Model Type = HRW-NMM or HWR-ARW for CONUS, HAWAII, GUAM</li>
-                				<li>Model Type = HRW-NMM-AK or HWR-ARW-AK for ALASKA</li>
-                				<li>Model Type = HRW-NMM-PR or HWR-ARW-PR for Puerto Rico</li>
+                				<li>Model Type = HRW-FV3 or HWR-ARW for CONUS, HAWAII, GUAM</li>
+                				<li>Model Type = HRW-FV3-AK or HWR-ARW-AK for ALASKA</li>
+                				<li>Model Type = HRW-FV3-PR or HWR-ARW-PR for Puerto Rico</li>
                 			</ul>
                 			</td>
                 			<td>48-h</td>
@@ -269,23 +269,23 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<div><a href="http://www.emc.ncep.noaa.gov/mmb/mpyle/href_v2awips"><strong>HREF fields for CONUS, Alaska, Hawaii, and Puerto Rico </strong></a></div>
+                			<div><a href="https://www.emc.ncep.noaa.gov/mmb/mpyle/hrefv3"><strong>HREF fields for CONUS, Alaska, Hawaii, and Puerto Rico </strong></a></div>
                 			</td>
                 			<td>
-                			<div>HREFv2 Ensemble Probability Fields</div>
+                			<div>HREF Ensemble Probability Fields</div>
                 			</td>
-                			<td>36-h</td>
+                			<td>48-h</td>
                 			<td>1 hour</td>
                 			<td>Yes</td>
                 			<td>1 day</td>
                 		</tr>
                 		<tr>
-                			<td><a href="http://mag.ncep.noaa.gov/model-guidance-model-area.php"><strong>NCEP Short-range Ensemble Forecast (SREF) System : NCEP Model Analysis and Guidance page </strong> </a>
+                			<td><a href="https://mag.ncep.noaa.gov/model-guidance-model-area.php"><strong>NCEP Short-range Ensemble Forecast (SREF) System : NCEP Model Analysis and Guidance page </strong> </a>
                 			<p>&nbsp;</p>
                 
                 			<p>&nbsp;</p>
                 
-                			<p><a href="http://www.emc.ncep.noaa.gov/mmb/SREF/SREF.html"><strong>NCEP Short-range Ensemble Forecast (SREF) System (EMC page) </strong> </a></p>
+                			<p><a href="https://www.emc.ncep.noaa.gov/mmb/SREF/SREF.html"><strong>NCEP Short-range Ensemble Forecast (SREF) System (EMC page) </strong> </a></p>
                 			</td>
                 			<td>21 member SREF ensemble (WRF-NMM, WRF-ARW, NEMS-NMMB, 7 members each)</td>
                 			<td>87-h</td>
@@ -294,9 +294,9 @@ global $browser_title;
                 			<td>3 days</td>
                 		</tr>
                 		<tr>
-                			<td><a href="http://mag.ncep.noaa.gov/model-guidance-model-area.php"><strong>NCEP Rapid Refresh (RAP) - NCEP Model Analysis and Guidance Page </strong> </a>
+                			<td><a href="https://mag.ncep.noaa.gov/model-guidance-model-area.php"><strong>NCEP Rapid Refresh (RAP) - NCEP Model Analysis and Guidance Page </strong> </a>
                 			<p>&nbsp;</p>
-                			<a href="http://rapidrefresh.noaa.gov"><strong>NCEP Rapid Refresh (RAP) - GSD/ESRL Page </strong> </a>
+                			<a href="https://rapidrefresh.noaa.gov"><strong>NCEP Rapid Refresh (RAP) - GSD/ESRL Page </strong> </a>
                 
                 			<p>&nbsp;</p>
                 			</td>
@@ -311,9 +311,9 @@ global $browser_title;
                 			<td>about 1 day</td>
                 		</tr>
                 		<tr>
-                			<td><a href="http://mag.ncep.noaa.gov/model-guidance-model-area.php"><strong>NCEP 3 km High-Resolution Rapid Refresh (HRRR) - NCEP Model Analysis and Guidance Page </strong> </a>
+                			<td><a href="https://mag.ncep.noaa.gov/model-guidance-model-area.php"><strong>NCEP 3 km High-Resolution Rapid Refresh (HRRR) - NCEP Model Analysis and Guidance Page </strong> </a>
                 			<p>&nbsp;</p>
-                			<a href="http://rapidrefresh.noaa.gov/hrrr/"><strong>NCEP 3 km High-Resolution Rapid Refresh (HRRR) - GSD/ESRL Page </strong> </a></td>
+                			<a href="https://rapidrefresh.noaa.gov/hrrr/"><strong>NCEP 3 km High-Resolution Rapid Refresh (HRRR) - GSD/ESRL Page </strong> </a></td>
                 			<td>HRRR version of WRF-ARW</td>
                 			<td>
                 			<p>36-h (00z, 06z, 12z, 18z cycles)</p>
@@ -325,7 +325,7 @@ global $browser_title;
                 			<td>about 1 day</td>
                 		</tr>
                 		<tr>
-                			<td><a href="http://mag.ncep.noaa.gov/"><strong>NCEP Real-Time Mesoscale Analysis (RTMA) (NCEP page, click on "Observations and Analyses") </strong> </a></td>
+                			<td><a href="https://mag.ncep.noaa.gov/"><strong>NCEP Real-Time Mesoscale Analysis (RTMA) (NCEP page, click on "Observations and Analyses") </strong> </a></td>
                 			<td>Hourly Operational RTMA</td>
                 			<td>&nbsp;</td>
                 			<td>&nbsp;</td>
@@ -333,7 +333,7 @@ global $browser_title;
                 			<td>1 day</td>
                 		</tr>
                 		<tr>
-                			<td><a href="http://www.emc.ncep.noaa.gov/mmb/rtma/prod/RTMA/"><strong>NCEP Real-Time Mesoscale Analysis (RTMA) (EMC site) </strong> </a></td>
+                			<td><a href="https://www.emc.ncep.noaa.gov/mmb/rtma/prod/RTMA/"><strong>NCEP Real-Time Mesoscale Analysis (RTMA) (EMC site) </strong> </a></td>
                 			<td>Hourly Operational RTMA</td>
                 			<td>&nbsp;</td>
                 			<td>&nbsp;</td>
@@ -341,7 +341,7 @@ global $browser_title;
                 			<td>1 day</td>
                 		</tr>
                 		<tr>
-                			<td><a href="http://www.emc.ncep.noaa.gov/mmb/rtma/prod/URMA/"><strong>NCEP Unrestricted Real-Time Mesoscale Analysis (URMA) (EMC site) </strong> </a></td>
+                			<td><a href="https://www.emc.ncep.noaa.gov/mmb/rtma/prod/URMA/"><strong>NCEP Unrestricted Real-Time Mesoscale Analysis (URMA) (EMC site) </strong> </a></td>
                 			<td>Hourly Operational URMA</td>
                 			<td>&nbsp;</td>
                 			<td>&nbsp;</td>
@@ -373,7 +373,7 @@ global $browser_title;
                 			<td>6 day</td>
                 		</tr>
                 		<tr>
-                			<td><a href="http://www.emc.ncep.noaa.gov/mmb/aq/"><strong>NCEP CMAQ Ozone and Particulate Matter Forecast Page </strong> </a></td>
+                			<td><a href="https://www.emc.ncep.noaa.gov/mmb/aq/"><strong>NCEP CMAQ Ozone and Particulate Matter Forecast Page </strong> </a></td>
                 			<td>Operational and Developmental Air Quality Forecasts and Verification</td>
                 			<td>&nbsp;</td>
                 			<td>&nbsp;</td>
@@ -407,7 +407,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                				<a href="http://www.emc.ncep.noaa.gov/mmb/bblake/fv3/"><strong>Standalone regional FV3 (FV3-SAR) experimental runs</strong></a>
+                			<a href="https://www.emc.ncep.noaa.gov/users/emc.campara/rrfs/"><strong>Limited-Area FV3 Model (FV3-LAM) parallel experimental runs</strong></a>
                 			</td>
                 			<td>
                 			<div>
@@ -420,43 +420,7 @@ global $browser_title;
                 			</td>
                 			<td>Yes</td>
                 			<td>
-                			<p>4 days</p>
-                			</td>
-                		</tr>
-                                <tr>
-                                        <td>
-                                                <a href="https://www.emc.ncep.noaa.gov/users/meg/hrefv3/hiresw_graphics/"><strong>Parallel HIRESW fields for CONUS, Alaska, Hawaii, and Puerto Rico</strong></a>
-                                        </td>
-                                        <td>
-                                        <div>
-                                        <p>Parallel HIRESW Fields</p>
-                                        </div>
-                                        </td>
-                                        <td>48-h</td>
-                                        <td>
-                                        <p>hourly</p>
-                                        </td>
-                                        <td>Yes</td>
-                                        <td>
-                                        <p>4 days</p>
-                                        </td>
-                                </tr>
-                		<tr>
-                			<td>
-                				<a href="https://www.emc.ncep.noaa.gov/users/meg/hrefv3/href_graphics/"><strong>Parallel HREF (HREF v3) fields for CONUS, Alaska, Hawaii, and Puerto Rico</strong></a>
-                			</td>
-                			<td>
-                			<div>
-                			<p>Parallel HREFv3 Ensemble Probability Fields</p>
-                			</div>
-                			</td>
-                			<td>48-h</td>
-                			<td>
-                			<p>hourly</p>
-                			</td>
-                			<td>Yes</td>
-                			<td>
-                			<p>1 days</p>
+                			<p>2-4 days</p>
                 			</td>
                 		</tr>
                 	</tbody>
@@ -485,37 +449,37 @@ global $browser_title;
                 			<th>Retention Period</th>
                 		</tr>
                 		<tr>
-                			<td><a href="http://www.emc.ncep.noaa.gov/users/verification/precip/verif/daily/"><strong>Daily Precipitation Verification Plots </strong> </a></td>
+                			<td><a href="https://www.emc.ncep.noaa.gov/users/verification/precip/verif/daily/"><strong>Daily Precipitation Verification Plots </strong> </a></td>
                 			<td>This site is an archive of model forecast precipitation vs. 24-h (12Z-12Z) observed precipitation analysis</td>
                 			<td>NAM (12 km parent and nests), RAP, HRRR, GFS, International Models (CMC (regional and global), UK Met, ECMWF, JMA, DWD, Meteo France), HiResWindow runs, SREF mean, NAM/GFS parallels, DGEX, HPC QPF forecast</td>
                 			<td>December 2001 - present</td>
                 		</tr>
                 		<tr>
-                			<td><a href="http://www.emc.ncep.noaa.gov/users/verification/precip/verif/scores/"><strong>NCEP/EMC Precipitation Skill Scores for Operational Models</strong></a></td>
+                			<td><a href="https://www.emc.ncep.noaa.gov/users/verification/precip/verif/scores/"><strong>NCEP/EMC Precipitation Skill Scores for Operational Models</strong></a></td>
                 			<td>Monthly equitable threat and bias scores for 24-h forecast precipitation versus observed precipitation</td>
                 			<td>NAM, GFS, HiResWindow runs, various international regional and global models</td>
                 			<td>1995 - present</td>
                 		</tr>
                 		<tr>
-                			<td><a href="http://emc-ls-sand02.ncep.noaa.gov/EMC_VSDB_verif/index.cgi"><strong>INTERACTIVE NCEP MODEL VERIFICATION (GRID VS.OBS) WEB PAGE (NCEP EXPERIMENTAL PAGE, INTERNAL USE ONLY) </strong> </a></td>
+                			<td><a href="https://emc-ls-sand02.ncep.noaa.gov/EMC_VSDB_verif/index.cgi"><strong>INTERACTIVE NCEP MODEL VERIFICATION (GRID VS.OBS) WEB PAGE (NCEP EXPERIMENTAL PAGE, INTERNAL USE ONLY) </strong> </a></td>
                 			<td>Interactive web page tool for display of NCEP model verifications</td>
                 			<td>NAM, GFS, SREF, RAP, HRRR, HIRESW, NAM DNG grids, DGEX, Parallel Runs</td>
                 			<td>January 2006 - present</td>
                 		</tr>
                 		<tr>
-                			<td><a href="http://emc-ls-sand02.ncep.noaa.gov/EMC_VSDB_verif_g2g/index.cgi"><strong>INTERACTIVE NCEP MODEL VERIFICATION (GRID-TO-GRID) WEB PAGE (NCEP EXPERIMENTAL PAGE, INTERNAL USE ONLY) </strong> </a></td>
+                			<td><a href="https://emc-ls-sand02.ncep.noaa.gov/EMC_VSDB_verif_g2g/index.cgi"><strong>INTERACTIVE NCEP MODEL VERIFICATION (GRID-TO-GRID) WEB PAGE (NCEP EXPERIMENTAL PAGE, INTERNAL USE ONLY) </strong> </a></td>
                 			<td>Interactive web page tool for display of NCEP model verifications</td>
                 			<td>NAM, SREF, RAP, HRRR, HIRESW, NARRE-TL</td>
                 			<td>January 2014 - present</td>
                 		</tr>
                 		<tr>
-                			<td><a href="http://www.emc.ncep.noaa.gov/mmb/gplou/emchurr/nwprod"><strong>NCEP/EMC Operational Model Cyclone Tracking Page </strong> </a></td>
+                			<td><a href="https://www.emc.ncep.noaa.gov/mmb/gplou/emchurr/nwprod"><strong>NCEP/EMC Operational Model Cyclone Tracking Page </strong> </a></td>
                 			<td>This page shows the various model forecast tracks for tropical and extratropical cyclones</td>
                 			<td>NAM, GFS, GEFS, SREF, UKMET, NOGAPS, CMC</td>
                 			<td>Several months</td>
                 		</tr>
                 		<tr>
-                			<td><a href="http://www.emc.ncep.noaa.gov/mmb/research/nearsfc/nearsfc.verf.html"><strong>Near-Surface Forecast Verification Statistics for operational NCEP models</strong> </a></td>
+                			<td><a href="https://www.emc.ncep.noaa.gov/mmb/research/nearsfc/nearsfc.verf.html"><strong>Near-Surface Forecast Verification Statistics for operational NCEP models</strong> </a></td>
                 			<td>
                 			<ul>
                 				<li>Monthly (diurnal) composite of 00-hr to 84-hr forecast from the NAM and GFS models verified against observations averaged by region and composited on a monthly basis for 00z and 12z cycles.</li>
@@ -526,13 +490,13 @@ global $browser_title;
                 			<td>April 1998 - December 2018</td>
                 		</tr>
                 		<tr>
-                			<td><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/namsst/"><strong>NCEP NAM-12 SST analysis </strong> </a></td>
+                			<td><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/namsst/"><strong>NCEP NAM-12 SST analysis </strong> </a></td>
                 			<td>2-d graphics (regional plots) of the most current SST analysis used by NAM model</td>
                 			<td>NAM</td>
                 			<td>7 days</td>
                 		</tr>
                 		<tr>
-                			<td><a href="http://www.emc.ncep.noaa.gov/jcsda/ggayno/snow/home.html"><strong>NCEP NAM-12 Snow/Sea Ice analysis </strong> </a></td>
+                			<td><a href="https://www.emc.ncep.noaa.gov/jcsda/ggayno/snow/home.html"><strong>NCEP NAM-12 Snow/Sea Ice analysis </strong> </a></td>
                 			<td>Plots of the most current Snow/Sea Ice analysis from NESDIS, USAF, and the analysis used as initial conditions in the NAM model</td>
                 			<td>NAM</td>
                 			<td>7 days</td>
@@ -565,35 +529,23 @@ global $browser_title;
                 			<th>Retention Period</th>
                 		</tr>
                 		<tr>
-                			<td><a href="http://www.emc.ncep.noaa.gov/users/verification/precip/verif/daily/"><strong>Daily Precipitation Verification Plots </strong> </a></td>
+                			<td><a href="https://www.emc.ncep.noaa.gov/users/verification/precip/verif/daily/"><strong>Daily Precipitation Verification Plots </strong> </a></td>
                 			<td>This site is an archive of model forecast precipitation vs. 24-h (12Z-12Z) observed precipitation analysis</td>
                 			<td>NAM, GFS, GFSX, CMC, CMC Global, UK Met, ECMWF, JMA, DWD, Meteo France, HiResWindow runs, various NAM parallels, DGEX</td>
                 			<td>December 2001 - present</td>
                 		</tr>
                 		<tr>
                 			<td>
-                			<p><a href="https://www.emc.ncep.noaa.gov/users/Logan.Dawson/fv3cam_verif/"><strong>FV3-CAM parallel runs vs HRRR, NAM CONUS nest Verification Graphics/Scorecards </strong></a></p>
+                			<p><a href="https://www.emc.ncep.noaa.gov/users/verification/regional/cam/para/"><strong>FV3-LAM parallel runs vs HRRR, NAM CONUS nest Verification Graphics/Scorecards </strong></a></p>
                 			</td>
                 			<td>
-                			<p>Scorecards and time series of grid-to-obs and precipitation verification scores for the FV3-CAM runs vs the NAM CONUS nest and HRRR</p>
+                			<p>Scorecards and time series of grid-to-obs and precipitation verification scores for the FV3-LAM runs vs the NAM CONUS nest and HRRR</p>
                 			</td>
                 			<td>
-                			<p>NAM CONUS nest, HRRR, FV3-CAM parallels</p>
+                			<p>NAM CONUS nest, HRRR, FV3-LAM parallels</p>
                 			</td>
                 			<td>Last 6 weeks</td>
                 		</tr>
-                                <tr>
-                                        <td>
-                                        <p><a href="https://www.emc.ncep.noaa.gov/users/meg/hrefv3/verif/"><strong>Parallel HREFv3 / Parallel HIRESW Verification Page </strong></a></p>
-                                        </td>
-                                        <td>
-                                        <p>Scorecards and time series of verification scores for the Parallel HREFv3 / HIRESW run</p>
-                                        </td>
-                                        <td>
-                                        <p>Operational and Parallel HREF, HIRESW</p>
-                                        </td>
-                                        <td>Last 6 weeks</td>
-                                </tr>
                 	</tbody>
                 </table>
                 
@@ -612,10 +564,10 @@ global $browser_title;
                 <p>Additional NCEP Model Change logs:</p>
                 
                 <ol type="1">
-                	<li><a href="http://www.emc.ncep.noaa.gov/mmb/research/eta.log.html">Old Eta/EDAS production change log (Up to March 2004)</a></li>
+                	<li><a href="https://www.emc.ncep.noaa.gov/mmb/research/eta.log.html">Old Eta/EDAS production change log (Up to March 2004)</a></li>
                 	<li><a href="https://rapidrefresh.noaa.gov">RAP Web page at ESRL/GSD, with list of RUC/RAP implementations at NCEP</a></li>
                 	<li><a href="https://rapidrefresh.noaa.gov/hrrr/">HRRR Web page at ERSL/GSD, with list of HRRR implementations at NCEP</a></li>
-                	<li><a href="http://www.emc.ncep.noaa.gov/mmb/aq/AQChangelog.html">NCEP Air Quality Model Change Log</a></li>
+                	<li><a href="https://www.emc.ncep.noaa.gov/mmb/aq/AQChangelog.html">NCEP Air Quality Model Change Log</a></li>
                 </ol>
                 
                 <p><a name="1207MMBReview"></a><a name="0607WRFNMMChanges"></a><a name="0906NAMChanges"></a><a name="0806NAMChanges"></a></p>
@@ -626,6 +578,65 @@ global $browser_title;
                 			<th>Date (link goes to on-line documentation)</th>
                 			<th>Contents/major changes</th>
                 		</tr>
+
+                                <tr>
+                                        <th>
+                			<center>&nbsp;</center>
+                
+                			<center><strong>11 May 2021 </strong></center>
+                
+                			<center>&nbsp;</center>
+                
+                			<center><a href="https://www.emc.ncep.noaa.gov/users/meg/hrefv3/updates/NCEP_OD_Brief_2020-08-28_HREFv3.pptx"><strong>Technical Briefing </strong></a></center>
+                			&nbsp;
+                
+                			<center><a href="https://www.emc.ncep.noaa.gov/users/meg/hrefv3/updates/MEG_2020-07-30_HREFv3_MEG_Overview.pptx"><strong>Overview with verification results </strong></a></center>
+                
+                			<center>&nbsp;</center>
+
+                			</th>
+                			<th style="text-align: left;">Changes to the HIRESW/HREF modeling system:
+                			<ol type="1">
+                				<li> The Finite Volume Cubed Sphere (FV3) model replaces the
+                                                    Nonhydrostatic Multiscale Model on B-grid (NMMB) within the
+                                                    HIRESW system.</li>
+                				<li> The HiresW-FV3 increases the resolution of the HiresW-NMMB
+                                                    it replaces (from 3.2 km to 3.0 km horizontal grid spacing,
+                                                    from 50 levels to 60 levels in the vertical), and extends the
+                                                    forecast range from 48 h to 60 h. No changes in vertical resolution
+                                                    or forecast length are being made for the ARW HIRESW runs.</li>
+                                                <li> The initialization of the HiresW-FV3 differs from the
+                                                    HiresW-NMMB it replaces for all domains except Guam. All
+                                                    HiresW-FV3 domains are initialized from a 6 h old cycle of the
+                                                    Global Forecast System (GFS). Previously the HiresW-NMMB
+                                                    utilized North American Model (NAM) surface conditions for all
+                                                    non-Guam domains, and took atmospheric initial conditions from
+                                                    the Rapid Refresh (RAP) for the CONUS and Puerto Rico domains.</li> 
+                                                <li> The HiresW-FV3 also utilizes a very different set of
+                                                    physics than the HiresW-NMMB being replaced. In both models no
+                                                    parameterized convection is used, but the HiresW-FV3 otherwise
+                                                    is using GFSv15 physics (GFDL microphysics, GFS PBL/sfc layer), 
+                                                    while the HiresW-NMMB utilized NAM-style physics (modified Ferrier
+                                                    microphysics, MYJ PBL/sfc layer.</li>
+                                                <li> Changes to HREF model membership:
+                                                    <ol type=a> 
+                					<li> The HIRESW-FV3 replaces the HIRESW-NMMB for all domains within
+                                                            the HREF.
+                                                        <li> The High Resolution Rapid Refresh (HRRR) is added as a new
+                                                            member for the CONUS and Alaska domains of HREF. A 6 h old 
+                                                            time-lagged member of HRRR also is added for these domains. HREF
+                                                            membership size increases from 8 to 10 for CONUS, and from 6 to
+                                                            8 for Alaska. The membership size of the Hawaii and Puerto Rico
+                                                            domains remains unchanged at 6 members. 
+                                                    </ol>
+                                                <li> HIRESW/HREF output file changes are described in the 
+                                                     <a href="https://www.weather.gov/media/notification/scn21-38hiresw_v8_hrefaaa.pdf">NWS Service Change Notice</a>
+                			</ol>
+                			</th>
+                		</tr>
+                           
+                                <tr>
+
                                         <th>
                 			<center>&nbsp;</center>
                 
@@ -710,7 +721,7 @@ global $browser_title;
 
 
                 		<tr>
-                			<th><a href="http://www.emc.ncep.noaa.gov/users/impldocs/rtma_urma_v2.8_science_brief.pdf"><strong>28 July 2020 </strong></a></th>
+                			<th><center><a href="https://www.emc.ncep.noaa.gov/users/impldocs/rtma_urma_v2.8_science_brief.pdf"><strong>28 July 2020 </strong></a></center></th>
                 			<th style="text-align: left;">Changes to the NCEP Real-time Mesoscale Analysis (RTMA), Unrestricted Real-time Mesoscale Analysis (URMA), Real Time Mesoscale Analysis with Rapid Updates (RTMA-RU), and the RTMA/URMA Precipitation Analysis (PCPANL):
                                              <ol type=a>
                 			       <li>Introduction of similarity theory calculations in the forward operator for the     
@@ -742,7 +753,7 @@ global $browser_title;
                 			</th>
                 		</tr>
                 		<tr>
-                			<th><a href="https://www.emc.ncep.noaa.gov/users/Eric.Rogers/documents/AQMv5.1-CCB.pdf"><strong>18 December 2018 </strong></a></th>
+                			<th><center><a href="https://www.emc.ncep.noaa.gov/users/Eric.Rogers/documents/AQMv5.1-CCB.pdf"><strong>18 December 2018 </strong></a></center></th>
                 			<th>
                 			<p style="text-align: left;">Changes to the NCEP Community Air Quality Model:</p>
                 
@@ -765,7 +776,7 @@ global $browser_title;
                 			</th>
                 		</tr>
                 		<tr>
-                			<th><a href="http://www.emc.ncep.noaa.gov/users/Eric.Rogers/documents/OD_Science_Brief_RTMA_v2.7.pdf"><strong>4 December 2018 </strong></a></th>
+                			<th><center><a href="https://www.emc.ncep.noaa.gov/users/Eric.Rogers/documents/OD_Science_Brief_RTMA_v2.7.pdf"><strong>4 December 2018 </strong></a></center></th>
                 			<th style="text-align: left;">Changes to the NCEP Real-time Mesoscale Analysis (RTMA), Unrestricted Real-time Mesoscale Analysis (URMA), Real Time Mesoscale Analysis with Rapid Updates (RTMA-RU), and the RTMA/URMA Precipitation Analysis (PCPANL):
                 			<ol type="1">
                 				<li>The RTMA-RU system latency is improved such that product delivery occurs within 15 minutes of the cycle time.</li>
@@ -792,10 +803,10 @@ global $browser_title;
                 
                 			<center>&nbsp;</center>
                 
-                			<center><a href="http://www.emc.ncep.noaa.gov/users/Eric.Rogers/documents/RAPv4HRRRv3_CCB.pdf"><strong>Technical Briefing </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/users/Eric.Rogers/documents/RAPv4HRRRv3_CCB.pdf"><strong>Technical Briefing </strong></a></center>
                 			&nbsp;
                 
-                			<center><a href="http://www.emc.ncep.noaa.gov/users/Eric.Rogers/documents/EMC_RAPv4_HRRRv3_OD_Briefing.pdf"><strong>Overview with verification results and stakeholders evaluation </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/users/Eric.Rogers/documents/EMC_RAPv4_HRRRv3_OD_Briefing.pdf"><strong>Overview with verification results and stakeholders evaluation </strong></a></center>
                 
                 			<center>&nbsp;</center>
                 			</th>
@@ -849,7 +860,7 @@ global $browser_title;
                 			</th>
                 		</tr>
                 		<tr>
-                			<th><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/RTMA_URMA_V2.6_Implementation_Brief.pdf"><strong>13 December 2017 </strong></a></th>
+                			<th><center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/RTMA_URMA_V2.6_Implementation_Brief.pdf"><strong>13 December 2017 </strong></a></center></th>
                 			<th style="text-align: left;">Changes to the NCEP Real-time Mesoscale Analysis (RTMA), Unrestricted Real-time Mesoscale Analysis (URMA), Real Time Meoscale Analysis with Rapid Updates (RTMA-RU), and the RTMA/URMA Precipitation Analysis (PCPANL):
                 			<ol type="1">
                 				<li>For RTMA/URMA:
@@ -879,7 +890,7 @@ global $browser_title;
                 			</th>
                 		</tr>
                 		<tr>
-                			<th><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/hiresw_decision_brief_hireswv7_hrefv2.pdf"><strong>1 November 2017 </strong></a></th>
+                			<th><center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/hiresw_decision_brief_hireswv7_hrefv2.pdf"><strong>1 November 2017 </strong></a></center></th>
                 			<th>
                 			<p style="text-align: left;">Changes to the High-Resolution Ensemble Forecast (HREF) and High-Resolution Window (HiResW) systems:</p>
                 
@@ -935,7 +946,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/CMAQ_June2017.pptx"><strong>14 June 2017 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/CMAQ_June2017.pptx"><strong>14 June 2017 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -952,7 +963,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/RTMA_v2.5_Implementation_Briefing.pdf"><strong>2 May 2017 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/RTMA_v2.5_Implementation_Briefing.pdf"><strong>2 May 2017 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -981,19 +992,19 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/namv4docs/NAMv4_ScienceIT_brief_10Mar2017.final_expanded.pptx"><strong>21 March 2017 (Overview) </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/namv4docs/NAMv4_ScienceIT_brief_10Mar2017.final_expanded.pptx"><strong>21 March 2017 (Overview) </strong></a></center>
                 
                 			<p>&nbsp;</p>
                 
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/namv4docs/aligo_awc_8-24-2016.pptx"><strong>Details on Microphysics Changes </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/namv4docs/aligo_awc_8-24-2016.pptx"><strong>Details on Microphysics Changes </strong></a></center>
                 
                 			<p>&nbsp;</p>
                 
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/namv4docs/NMMB_Model_Changes_8-24-2016_v3.pptx"><strong>Details on Model Stability Changes </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/namv4docs/NMMB_Model_Changes_8-24-2016_v3.pptx"><strong>Details on Model Stability Changes </strong></a></center>
                 
                 			<p>&nbsp;</p>
                 
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/namv4docs/radar_lightningDA_namv4.ppt"><strong>Details on Radar/Lightning Data Assimilation </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/namv4docs/radar_lightningDA_namv4.ppt"><strong>Details on Radar/Lightning Data Assimilation </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -1045,7 +1056,7 @@ global $browser_title;
                 						<li>The Downscaled GFS by NAM Extension (DGEX) forecast run is discontinued</li>
                 						<li>The output grid for these nests will change:
                 						<ol type="i">
-                							<li>CONUS nest: change from the 5 km grid #227 to the 3 km HRRR output grid (click <a href="http://www.emc.ncep.noaa.gov/mmb/namgrids/conusoutgrid.jpg">here </a> for difference)</li>
+                							<li>CONUS nest: change from the 5 km grid #227 to the 3 km HRRR output grid (click <a href="https://www.emc.ncep.noaa.gov/mmb/namgrids/conusoutgrid.jpg">here </a> for difference)</li>
                 							<li>Alaska nest: change from the 6 km NDFD grid to the 3 km NDFD grid</li>
                 						</ol>
                 						</li>
@@ -1076,7 +1087,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/05-DiMego-NPSR.pptx.pptx"><strong>5 December 2016 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/05-DiMego-NPSR.pptx.pptx"><strong>5 December 2016 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -1086,7 +1097,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/RTMA_URMA_v2.4.4_Implementation_Briefing.pdf"><strong>23 August 2016 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/RTMA_URMA_v2.4.4_Implementation_Briefing.pdf"><strong>23 August 2016 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -1119,7 +1130,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/RAPX_HRRRX_NWS-13sep2016-pub.pdf"><strong>23 August 2016 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/RAPX_HRRRX_NWS-13sep2016-pub.pdf"><strong>23 August 2016 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -1159,7 +1170,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/CMAQ_Readiness_Jan2016.pptx"><strong>4 February 2016 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/CMAQ_Readiness_Jan2016.pptx"><strong>4 February 2016 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -1176,7 +1187,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/URMA_RTMA_Q2FY16_Implementation_Briefing.pdf"><strong>6 January 2016 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/URMA_RTMA_Q2FY16_Implementation_Briefing.pdf"><strong>6 January 2016 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -1210,7 +1221,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/NPSR_2015_MESO.pptx"><strong>7 December 2015 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/NPSR_2015_MESO.pptx"><strong>7 December 2015 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -1220,7 +1231,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/SREFv7_implementationBriefing.pdf"><strong>21 October 2015 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/SREFv7_implementationBriefing.pdf"><strong>21 October 2015 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -1247,7 +1258,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/HiresW_v6.1_directorbriefing_EMC.pptx"><strong>8 September 2015 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/HiresW_v6.1_directorbriefing_EMC.pptx"><strong>8 September 2015 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -1266,7 +1277,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/RTMA_URMA_Implementation_Briefing.pptx"><strong>14 April 2015 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/RTMA_URMA_Implementation_Briefing.pptx"><strong>14 April 2015 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -1289,7 +1300,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/CMAQ_Readiness_2015-jtm.pptx"><strong>29 January 2015 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/CMAQ_Readiness_2015-jtm.pptx"><strong>29 January 2015 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -1319,9 +1330,9 @@ global $browser_title;
                 			<ul>
                 				<li>Mesoscale Modeling Branch Presentations from 2014 NCEP Production Suite Review
                 				<ol type="1">
-                					<li><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/NPSR_2014_MESO/10-DiMego.Mesoscale.ppt"><strong>North American Mesoscale (NAM), HiResWindow and RTMA/URMA </strong> </a></li>
-                					<li><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/NPSR_2014_MESO/12-Du-SREF.pptx"><strong>Short-range Ensemble Forecast (SREF) System </strong> </a></li>
-                					<li><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/NPSR_2014_MESO/11-Benjamin_HRRR_COMBINED.pptx"><strong>Rapid Refresh (RAP) / High Resolution Rapid Refresh (HRRR) </strong> </a></li>
+                					<li><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/NPSR_2014_MESO/10-DiMego.Mesoscale.ppt"><strong>North American Mesoscale (NAM), HiResWindow and RTMA/URMA </strong> </a></li>
+                					<li><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/NPSR_2014_MESO/12-Du-SREF.pptx"><strong>Short-range Ensemble Forecast (SREF) System </strong> </a></li>
+                					<li><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/NPSR_2014_MESO/11-Benjamin_HRRR_COMBINED.pptx"><strong>Rapid Refresh (RAP) / High Resolution Rapid Refresh (HRRR) </strong> </a></li>
                 				</ol>
                 				</li>
                 			</ul>
@@ -1329,7 +1340,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/HRRR_EMC_NCEPDirector_Briefing.pptx"><strong>30 September 2014 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/HRRR_EMC_NCEPDirector_Briefing.pptx"><strong>30 September 2014 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -1339,7 +1350,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/NAMv3.1_NCEPDirectorbrief_08aug2014_forweb.pptx"><strong>12 August 2014 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/NAMv3.1_NCEPDirectorbrief_08aug2014_forweb.pptx"><strong>12 August 2014 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -1413,7 +1424,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/HiresW_v6.0.7_director_brief.pptx"><strong>11 June 2014 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/HiresW_v6.0.7_director_brief.pptx"><strong>11 June 2014 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -1445,7 +1456,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/SREFv6.1.3_decisionbriefing20140314.pdf"><strong>2 April 2014 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/SREFv6.1.3_decisionbriefing20140314.pdf"><strong>2 April 2014 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -1483,7 +1494,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/RAPV2_NCEP_Director.pdf"><strong>25 February 2014 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/RAPV2_NCEP_Director.pdf"><strong>25 February 2014 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -1516,7 +1527,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/RTMA_27Jan2014Briefing.pptx"><strong>28 January 2014 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/RTMA_27Jan2014Briefing.pptx"><strong>28 January 2014 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -1563,9 +1574,9 @@ global $browser_title;
                 			<ul>
                 				<li>Mesoscale Modeling Branch Presentations from 2013 NCEP Production Suite Review
                 				<ol type="1">
-                					<li><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/MMB_NAM+HIRESW_NPSR2013.ppt"><strong>North American Mesoscale (NAM) and HiResWindow Systems </strong> </a></li>
-                					<li><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/MMB_SREF_NPSR2013.ppt"><strong>Short-range Ensemble Forecast (SREF) System </strong> </a></li>
-                					<li><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/MMB_RAP+HRRR_NPSR2013.ppt"><strong>Rapid Refresh (RAP) / High Resolution Rapid Refresh (HRRR) </strong> </a></li>
+                					<li><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/MMB_NAM+HIRESW_NPSR2013.ppt"><strong>North American Mesoscale (NAM) and HiResWindow Systems </strong> </a></li>
+                					<li><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/MMB_SREF_NPSR2013.ppt"><strong>Short-range Ensemble Forecast (SREF) System </strong> </a></li>
+                					<li><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/MMB_RAP+HRRR_NPSR2013.ppt"><strong>Rapid Refresh (RAP) / High Resolution Rapid Refresh (HRRR) </strong> </a></li>
                 				</ol>
                 				</li>
                 			</ul>
@@ -1573,7 +1584,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/MMB.ProdSuiteRev.Dec2012.pptx"><strong>5 December 2012 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/MMB.ProdSuiteRev.Dec2012.pptx"><strong>5 December 2012 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -1583,7 +1594,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/SREF_2012ImplementationReview2Louis.pdf"><strong>21 August 2012 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/SREF_2012ImplementationReview2Louis.pdf"><strong>21 August 2012 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -1657,7 +1668,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/MMB.ProdSuiteRev.Dec2011.ppt"><strong>7 December 2011 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/MMB.ProdSuiteRev.Dec2011.ppt"><strong>7 December 2011 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -1667,7 +1678,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/NAM_NMMB_Implementation.ppt"><strong>18 October 2011 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/NAM_NMMB_Implementation.ppt"><strong>18 October 2011 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -1739,7 +1750,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/briefings/HiResW-upgrade.impl_decision_17Mar2011.ppt"><strong>29 March 2011 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/briefings/HiResW-upgrade.impl_decision_17Mar2011.ppt"><strong>29 March 2011 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -1747,16 +1758,12 @@ global $browser_title;
                 				<ol type="1">
                 					<li>The HIRESW model will be updated from Weather Research and Forecasting (WRF) version 2.2 code to WRF version 3.2 code for both the Advanced Research WRF (ARW) and the Nonhydrostatic Mesoscale Model (NMM) members of the system. Both the ARW and NMM models will use better conserving moisture advection..</li>
                 					<li>The Puerto Rico domain will be expanded by approximately 50% to provide full coverage to Hispaniola. A new domain will be added to run over Guam twice daily at 00 and 12 UTC. The model grid spacing will remain unchanged at 5.15 km for ARW and 4.0 km for NMM for all domains. With the addition of Guam, the revised run schedule will be:
-                					<p>00 UTC: East, Hawaii , Guam</p>
-                
-                					<p>06 UTC: West, Puerto Rico</p>
-                
-                					<p>12 UTC: East, Hawaii , Guam</p>
-                
-                					<p>18 UTC: Alaska, Puerto Rico</p>
-                
-                					<p>&nbsp;</p>
-                					</li>
+                                                           <ul>
+                					     <li>00 UTC: East, Hawaii, Guam</li>
+                					     <li>06 UTC: West, Puerto Rico</li>
+                					     <li>12 UTC: East, Hawaii, Guam</li>
+                					     <li>18 UTC: Alaska, Puerto Rico</li>
+                					  </ul>
                 					<li>BUFR-formatted point forecasts for select locations are now available</li>
                 					<li>New high-resolution, hybrid ensemble output will be created that combines uncertainty information from the Short Range Ensemble Forecast (SREF) with deterministic forecasts from the HIRES. Output products from this HIRES ensemble will include mean, spread, and probabilistic guidance.</li>
                 				</ol>
@@ -1766,7 +1773,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/annualreviews/2010Review/presentations/DiMego-MMB-ProductionReview.ppt"><strong>8 December 2010 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/annualreviews/2010Review/presentations/DiMego-MMB-ProductionReview.ppt"><strong>8 December 2010 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -1776,7 +1783,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/briefing_RTMA_guam_conus2.5km_hawaii_20Sept2010.pdf"><strong>28-29 September 2010 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/briefing_RTMA_guam_conus2.5km_hawaii_20Sept2010.pdf"><strong>28-29 September 2010 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -1816,7 +1823,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.weather.gov/os/notification/tin10-07aaa_ruc_changes.txt"><strong>2 March 2010 </strong></a></center>
+                			<center><a href="https://www.weather.gov/media/notification/tins/tin10-07aaa_ruc_changes.pdf"><strong>2 March 2010 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -1838,7 +1845,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/annualreviews/2009Review/presentations/DiMego_MMB_C.ppt"><strong>8 December 2009 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/annualreviews/2009Review/presentations/DiMego_MMB_C.ppt"><strong>8 December 2009 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -1848,7 +1855,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.nws.noaa.gov/os/notification/tin09-33nam_dgex.txt"><strong>3 November 2009 </strong></a></center>
+                			<center><strong>3 November 2009 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -1870,7 +1877,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/SREFupgrade4NWP2009.pdf"><strong>27 October 2009 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/SREFupgrade4NWP2009.pdf"><strong>27 October 2009 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -1920,7 +1927,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.weather.gov/os/notification/tin09-04ngm_termination-reminder.txt"><strong>3 March 2009 </strong></a></center>
+                			<center><a href="https://www.nws.noaa.gov/mdl/synop/tin/txt/tin08-90ngm_termination.txt"><strong>3 March 2009 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -1946,7 +1953,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/briefings/NAM_December2008-1.pdf"><strong>16 December 2008 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/briefings/NAM_December2008-1.pdf"><strong>16 December 2008 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -1983,7 +1990,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/DiMego_ProdSuiteRev.Dec08.ppt"><strong>9 December 2008 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/DiMego_ProdSuiteRev.Dec08.ppt"><strong>9 December 2008 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -2046,8 +2053,8 @@ global $browser_title;
                 			<ul>
                 				<li>Changes to the NCEP Air Quality Model:
                 				<ol type="1">
-                					<li><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/docs/EmissionUpdates_2008.doc">Point, area and mobile emissions</a> will be upgraded based upon recent EPA National Emissions Inventory (NEI, 2005) and then projected for the current year. EGU sources will use 2006 CEM data projected for 2008.</li>
-                					<li><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/docs/EmissionUpdates_2008.doc">For mobile sources</a>, the EPA Office of Transportation and Air Quality (OTAQ) estimates will be used in addition to 2005 NEI v1 emission data sets. Use of OTAQ on-road emission estimates is</li>
+                					<li><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/docs/EmissionUpdates_2008.doc">Point, area and mobile emissions</a> will be upgraded based upon recent EPA National Emissions Inventory (NEI, 2005) and then projected for the current year. EGU sources will use 2006 CEM data projected for 2008.</li>
+                					<li><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/docs/EmissionUpdates_2008.doc">For mobile sources</a>, the EPA Office of Transportation and Air Quality (OTAQ) estimates will be used in addition to 2005 NEI v1 emission data sets. Use of OTAQ on-road emission estimates is</li>
                 					<li>Use of OTAQ on-road emission estimates is a departure from the temperature dependent regression approach used in previous years.</li>
                 				</ol>
                 				</li>
@@ -2076,13 +2083,13 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/mesoimpl/namchanges_winter2008/nam_upgrades.2008.html"><strong>31 March 2008 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/mesoimpl/namchanges_winter2008/nam_upgrades.2008.html"><strong>31 March 2008 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
                 				<li>Changes to the WRF-NMM forecast model running in the North American Mesoscale (NAM) Analysis and Forecast System and the DGEX:
                 				<ol type="1">
-                					<li>The computational domain of the NAM was increased by ~18%, click <a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/paralog/overlay_eta12_expanded.jpg">here</a> to see a comparison with the old NAM computational domain.</li>
+                					<li>The computational domain of the NAM was increased by ~18%, click <a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/paralog/overlay_eta12_expanded.jpg">here</a> to see a comparison with the old NAM computational domain.</li>
                 					<li>WRF-NMM Model changes:
                 					<ol type="a">
                 						<li>Run with WRF-NMM V2.2 code (August 2007 Repository version) with IJK array indexing</li>
@@ -2117,7 +2124,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/briefings/SREF-FALL2007.pdf"><strong>12 December 2007 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/briefings/SREF-FALL2007.pdf"><strong>12 December 2007 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -2134,7 +2141,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/research/NCEP-EMCModelReview2007/EMC-MMB-ProdSuiteRev.Dec07.pdf"><strong>11 December 2007 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/research/NCEP-EMCModelReview2007/EMC-MMB-ProdSuiteRev.Dec07.pdf"><strong>11 December 2007 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -2144,7 +2151,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.cmascenter.org/conference/2007/ppt/mcqueen_session6_2007.ppt"><strong>17 September 2007 </strong></a></center>
+                			<center><a href="https://www.cmascenter.org/conference/2007/ppt/mcqueen_session6_2007.ppt"><strong>17 September 2007 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -2164,7 +2171,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/mesoimpl/hiresw2007/HiResWindow_2007.html"><strong>11 September 2007 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/mesoimpl/hiresw2007/HiResWindow_2007.html"><strong>11 September 2007 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -2182,7 +2189,7 @@ global $browser_title;
                 						<li>Increase resolution from 5.8 km to 5.1 km</li>
                 					</ol>
                 					</li>
-                					<li>Expand large domains (Click <a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/nestpage_4km/overlay_hiresw4km.jpg">here</a> to see new HIRESW domains)
+                					<li>Expand large domains (Click <a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/nestpage_4km/overlay_hiresw4km.jpg">here</a> to see new HIRESW domains)
                 					<ol type="a">
                 						<li>Western and Eastern U.S. domains roughly doubled in size</li>
                 						<li>3 CONUS nests reduced to 2 overlapping domains (West-Central &amp; East-Central)</li>
@@ -2213,7 +2220,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/RTMA-CONUS_26Jun07_Upgrade.pdf"><strong>26 June 2007 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/RTMA-CONUS_26Jun07_Upgrade.pdf"><strong>26 June 2007 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -2244,7 +2251,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/mesoimpl/namchanges_dec2006/nam_upgrades.nov2006.html"><strong>19 December 2006 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/mesoimpl/namchanges_dec2006/nam_upgrades.nov2006.html"><strong>19 December 2006 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -2281,7 +2288,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/EMC-MMB-ProdSuiteRev.Dec06.pdf"><strong>12 December 2006 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/EMC-MMB-ProdSuiteRev.Dec06.pdf"><strong>12 December 2006 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -2328,7 +2335,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/briefings/RTMA.Implementation_Brief.June2006.ppt"><strong>6 August 2006 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/briefings/RTMA.Implementation_Brief.June2006.ppt"><strong>6 August 2006 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -2361,9 +2368,9 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/impdoc/NAM/WRFinNAM/Update_WRF-NMM_replacing_Eta_in_NAM2.pdf"><strong>20 June 2006 (NCEP/EMC documentation, PDF format) </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/impdoc/NAM/WRFinNAM/Update_WRF-NMM_replacing_Eta_in_NAM2.pdf"><strong>20 June 2006 (NCEP/EMC documentation, PDF format) </strong></a></center>
                 
-                			<center><a href="http://www.meted.ucar.edu/nwp/NAMWRF/"><strong>20 June 2006 (COMET documentation) </strong></a></center>
+                			<center><a href="https://www.meted.ucar.edu/nwp/NAMWRF/"><strong>20 June 2006 (COMET documentation) </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -2407,7 +2414,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/ProdSuiteRev.Dec05.pdf"><strong>6 December 2005 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/ProdSuiteRev.Dec05.pdf"><strong>6 December 2005 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -2417,7 +2424,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/mesoimpl/SREF-Nov2005b/SREF-Nov2005b.html"><strong>6 December 2005 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/mesoimpl/SREF-Nov2005b/SREF-Nov2005b.html"><strong>6 December 2005 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -2437,7 +2444,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/aq/AQChangelogE.html"><strong>31 August 2005 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/aq/AQChangelogE.html"><strong>31 August 2005 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -2474,7 +2481,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/mesoimpl/June2005.HRWUpgrade/June2005.HRWupgrade.html"><strong>28 June 2005 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/mesoimpl/June2005.HRWUpgrade/June2005.HRWupgrade.html"><strong>28 June 2005 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -2499,7 +2506,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/aq/prsnt/CMAQ-EMCbranch051905.ppt"><strong>3 May 2005 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/aq/prsnt/CMAQ-EMCbranch051905.ppt"><strong>3 May 2005 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -2517,7 +2524,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/Spring2005.NAMUpgrade.ppt"><strong>3 May 2005 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/Spring2005.NAMUpgrade.ppt"><strong>3 May 2005 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -2569,7 +2576,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/ProdSuiteRev.Dec04.pdf"><strong>7 December 2004 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/ProdSuiteRev.Dec04.pdf"><strong>7 December 2004 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -2614,7 +2621,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/mesoimpl/wrftest/WRF-HRW-Readiness-Rev-13Sep04.htm"><strong>21 September 2004 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/mesoimpl/wrftest/WRF-HRW-Readiness-Rev-13Sep04.htm"><strong>21 September 2004 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -2736,7 +2743,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/aq/prsnt/aqemcbranch040520.ppt"><strong>15 September 2004 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/aq/prsnt/aqemcbranch040520.ppt"><strong>15 September 2004 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -2746,7 +2753,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/SREF-Docs/SREFJul04-NCO.pdf"><strong>17 August 2004 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/SREF-Docs/SREFJul04-NCO.pdf"><strong>17 August 2004 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -2774,7 +2781,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/DGEX2004impl_combined.pdf"><strong>1 June 2004 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/DGEX2004impl_combined.pdf"><strong>1 June 2004 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -2784,7 +2791,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/mesoimpl/EtaWinter2004.briefing/EtaWinter2004.briefing.html"><strong>16 March 2004 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/mesoimpl/EtaWinter2004.briefing/EtaWinter2004.briefing.html"><strong>16 March 2004 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -2797,7 +2804,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/ProdSuiteRev.Dec2003.pdf"><strong>9 December 2003 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/ProdSuiteRev.Dec2003.pdf"><strong>9 December 2003 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -2807,7 +2814,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/Notice8Sep2003.htm"><strong>10 September 2003 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/Notice8Sep2003.htm"><strong>10 September 2003 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -2817,7 +2824,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mesoimpl/SREF-Docs/Sept03bundle.ppt"><strong>2 September 2003 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/SREF-Docs/Sept03bundle.ppt"><strong>2 September 2003 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -2827,9 +2834,9 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/tpb.spring03/tpb.htm"><strong>8 July 2003 (TPB) </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/tpb.spring03/tpb.htm"><strong>8 July 2003 (TPB) </strong></a></center>
                 
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/Spring03Bundle.pdf"><strong>8 July 2003 (Powerpoint briefing) </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/Spring03Bundle.pdf"><strong>8 July 2003 (Powerpoint briefing) </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -2867,7 +2874,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/mesoimpl/CAFTI.feb2002/CAFTI.feb2002.html"><strong>22 February 2002 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/mesoimpl/CAFTI.feb2002/CAFTI.feb2002.html"><strong>22 February 2002 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -2878,9 +2885,9 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/mesoimpl/eta12tpb/"><strong>27 November 2001 (TPB) </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/mesoimpl/eta12tpb/"><strong>27 November 2001 (TPB) </strong></a></center>
                 
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/mesoimpl/Eta12Implemention/Eta12Implemention.html"><strong>27 November 2001 (Powerpoint briefing) </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/mesoimpl/Eta12Implemention/Eta12Implemention.html"><strong>27 November 2001 (Powerpoint briefing) </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -2892,9 +2899,9 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/mesoimpl/spring2001/tpb/"><strong>24 July 2001 (TPB) </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/mesoimpl/spring2001/tpb/"><strong>24 July 2001 (TPB) </strong></a></center>
                 
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/mesoimpl/May2401.CAFTI/May2401.CAFTI.html"><strong>24 July 2001 (Powerpoint briefing) </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/mesoimpl/May2401.CAFTI/May2401.CAFTI.html"><strong>24 July 2001 (Powerpoint briefing) </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -2916,7 +2923,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/caftinfo3_files/v3_document.htm"><strong>22 March 2001 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/caftinfo3_files/v3_document.htm"><strong>22 March 2001 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -2927,9 +2934,9 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/mesoimpl/eta22tpb/"><strong>26 September 2000 (TPB) </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/mesoimpl/eta22tpb/"><strong>26 September 2000 (TPB) </strong></a></center>
                 
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/mesoimpl/eta_6sept2000/eta_6sept2000.html"><strong>26 September 2000 (Powerpoint briefing) </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/mesoimpl/eta_6sept2000/eta_6sept2000.html"><strong>26 September 2000 (Powerpoint briefing) </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -3015,7 +3022,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/Rogers_1996WAF_Eta48.pdf"><strong>2 October 1995 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/Rogers_1996WAF_Eta48.pdf"><strong>2 October 1995 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -3032,7 +3039,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/Black_1994WAF_MesoEta.pdf"><strong>7 February 1995 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/Black_1994WAF_MesoEta.pdf"><strong>7 February 1995 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -3057,7 +3064,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/Rogers_1995WAF_EarlyEta_anl.pdf"><strong>September 1994 </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/Rogers_1995WAF_EarlyEta_anl.pdf"><strong>September 1994 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -3095,15 +3102,15 @@ global $browser_title;
                 
                 <p>&nbsp;</p>
                 
-                <h3><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/namhpss.htm">Contents of NAM archive on HPSS </a></h3>
+                <h3><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/namhpss.htm">Contents of NAM archive on HPSS </a></h3>
                 
                 <p>&nbsp;</p>
                 
-                <h3><a href="http://www.emc.ncep.noaa.gov/mmb/research/eta.log.html">Link to log of all operational NAM (formerly Eta) model changes from June 1995 - March 2004 </a></h3>
+                <h3><a href="https://www.emc.ncep.noaa.gov/mmb/research/eta.log.html">Link to log of all operational NAM (formerly Eta) model changes from June 1995 - March 2004 </a></h3>
                 
                 <p>&nbsp;</p>
                 
-                <h3><a href="http://www.emc.ncep.noaa.gov/mmb/namgrids/">Link to reference page and domain size graphics for NCEP mesoscale model (NAM, RAP, HRRR, HiResW) output grids</a></h3>
+                <h3><a href="https://www.emc.ncep.noaa.gov/mmb/namgrids/">Link to reference page and domain size graphics for NCEP mesoscale model (NAM, RAP, HRRR, HiResW) output grids</a></h3>
                 
                 <p>&nbsp;</p>
                 
@@ -3111,19 +3118,19 @@ global $browser_title;
                 
                 <h3>&nbsp;</h3>
                 
-                <h3><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/paralog/index_nam.html">Link to Legacy NAM parallel log</a></h3>
+                <h3><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/paralog/index_nam.html">Link to Legacy NAM parallel log</a></h3>
                 
                 <p>&nbsp;</p>
                 
-                <h3><a href="http://www.emc.ncep.noaa.gov/">Link to NCEP Environmental Modeling Center Home Page </a></h3>
+                <h3><a href="https://www.emc.ncep.noaa.gov/">Link to NCEP Environmental Modeling Center Home Page </a></h3>
                 
                 <p>&nbsp;</p>
                 
-                <h3><a href="http://www.emc.ncep.noaa.gov/mmb/">Link to Legacy Mesoscale Modeling Branch Home Page </a></h3>
+                <h3><a href="https://www.emc.ncep.noaa.gov/mmb/">Link to Legacy Mesoscale Modeling Branch Home Page </a></h3>
                 
                 <p>&nbsp;</p>
                 
-                <p align="center"><a href="http://www.weather.gov/disclaimer.html">Disclaimer</a></p>
+                <p align="center"><a href="https://www.weather.gov/disclaimer.html">Disclaimer</a></p>
                 
                 <p>&nbsp;</p>
                 

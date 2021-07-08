@@ -100,14 +100,11 @@ NOAA/NWS/NCEP/EMC<br>
 College Park, MD 20740</address>
 
 <p><strong><span style="font-size:14px;"><span class="black">Find a EMC employee</span></span></strong><br>
-<a href="http://emcwebdev.ncep.noaa.gov/bundles/app/docs/EMC-phone.pdf">EMC Staff directory</a></p>
+<a href="https://www.emc.ncep.noaa.gov/emc/pages/staff.php">EMC Staff directory</a></p>
 
 <p><strong><span style="font-size:14px;"><span class="black">Find a NOAA employee</span></span></strong><br>
 <a href="https://nsd.rdc.noaa.gov/nsd">NOAA Staff directory (online)</a><br>
 <a href="https://oceanservice.noaa.gov/goodbye.html?url=https%3A%2F%2Fitunes.apple.com%2Fus%2Fapp%2Fnoaa-directory%2Fid1205621233">NOAA Staff directory (iOS application)</a></p>
-
-<p><strong><span style="font-size:14px;"><span class="black">Sitemap</span></span></strong><br>
-<a href="/index.php/emc/sitemap">A list of our site links.</a></p>
 
 <p><strong><span style="font-size:14px;"><span class="black">Privacy policy</span></span></strong><br>
 <a href="https://www.weather.gov/privacy">Your privacy is important to us.</a></p>
@@ -118,7 +115,7 @@ College Park, MD 20740</address>
 <div class="col-sm-4">
 <h3><a id="contacts" name="contacts"></a>Website Technical Support</h3>
 
-<p>For technical questions about this or other Enviromental Modeling websites, contact us by filling out the form displayed above.</p>
+<p>For technical questions about this or other Enviromental Modeling Center websites, contact us by filling out the form displayed above.</p>
 </div>
 
 <div class="col-sm-4">

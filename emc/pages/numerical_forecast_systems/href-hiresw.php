@@ -35,18 +35,20 @@ global $browser_title;
       </div>
      <h2 id="section-title">High-Resolution Ensemble Forecast</h2>
      	<div id="description">
-				<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">The NCEP High-Resolution Window Forecast System (HIRESW) consists of daily runs of the NCEP Non-Hydrostatic Multiscale Model on B-grid (NEMS-NMMB) and two NCAR Advanced Research WRF (WRF-ARW) runs at ~3 km resolution. Currently, five domains are being run, two large domains (CONUS, Alaska) and three small domains (Hawaii, Puerto Rico, and Guam). The second ARW run (ARW2) is not run over Guam. The source of each run's initial (IC) and boundary conditions (BC) follows:</span></span></p>
+				<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">The NCEP High-Resolution Window Forecast System (HIRESW) consists of daily runs of the regional version of the Finite Volume Cubed Sphere (FV3) model and two NCAR Advanced Research WRF (WRF-ARW) runs at ~3 km resolution. Currently, five domains are being run, two large domains (CONUS, Alaska) and three small domains (Hawaii, Puerto Rico, and Guam). The second ARW run (ARW2) is not run over Guam. The source of each run's initial (IC) and boundary conditions (BC) follows:</span></span></p>
 
 <ol type="1">
-	<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">Alaska NMMB/ARW1 : IC/BC from 6-h old GFS</span></span></li>
+	<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">Alaska FV3/ARW1 : IC/BC from 6-h old GFS</span></span></li>
 	<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">Alaska ARW2 : IC from current NAM, BC from 6-h old NAM</span></span></li>
-	<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">CONUS NMMB/ARW1 : IC from current RAP, BC from 6-h old GFS</span></span></li>
+	<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">CONUS FV3 : IC/BC from 6-h GFS</span></span></li>
+	<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">CONUS ARW1 : IC from current RAP, BC from 6-h old GFS</span></span></li>
 	<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">CONUS ARW2 ; IC from current NAM, BC from 6-h old NAM</span></span></li>
-	<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">Hawaii NMMB/ARW1: IC/BC from 6-h old GFS</span></span></li>
+	<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">Hawaii FV3/ARW1: IC/BC from 6-h old GFS</span></span></li>
 	<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">Hawaii ARW2 : IC from current NAM, BC from 6-h old NAM</span></span></li>
-	<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">Puerto Rico NMMB/ARW1: IC from current RAP, BC from 6-h old GFS</span></span></li>
+	<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">Puerto Rico FV3: IC/BC from 6-h old GFS</span></span></li>
+	<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">Puerto Rico ARW1: IC from current RAP, BC from 6-h old GFS</span></span></li>
 	<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">Puerto Rico ARW2: IC from current NAM, BC from 6-h old NAM</span></span></li>
-	<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">Guam NMMB/ARW1 : IC/BC from 6-h old GFS</span></span></li>
+	<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">Guam FV3/ARW1 : IC/BC from 6-h old GFS</span></span></li>
 </ol>
 
 <p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">These are the forecast initial times at which the respective HIRESW domains are run:</span></span></p>
@@ -57,11 +59,9 @@ global $browser_title;
 
 <p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">For EMC-generated HIRESW graphics for the latest run go to the EMC <a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/ncep_hiresw/">HIRESW web site</a>.&nbsp; </span></span></p>
 
-<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">The NCEP High-resolution Ensemble Forecast system (HREF) aggregates existing deterministic convection-allowing forecasts to create ensemble products. HREF uses current and time-lagged forecasts from the HiresWindow run (ARW/NMMB over CONUS, Alaska, Hawaii, Puerto Rico). For the CONUS domain, the NAM 3 km nest is also used. HREF is considered as a precursor to a true high-resolution ensemble forecast system to be developed using the FV3 model.</span></span></p>
+<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">The NCEP High-resolution Ensemble Forecast system (HREF) aggregates existing deterministic convection-allowing forecasts to create ensemble products. HREF uses current and time-lagged forecasts from the HiresWindow run (ARW/FV3 over CONUS, Alaska, Hawaii, Puerto Rico). For the CONUS domain, the 3km HRRR and 3 km NAM nest is also used. For the Alaska domain, the 3 km HRRR is also used as a member. HREF is considered as a precursor to a true high-resolution ensemble forecast system to be developed using the FV3 model.</span></span></p>
 
-<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">The latest graphics generated by EMC for the CONUS, Alaska, Hawaii, and Puerto Rico are accessible at the <a href="http://www.emc.ncep.noaa.gov/mmb/mpyle/href_v2awips/">HREF home page</a>.</span></span></p>
-
-<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">The next upgrade of the HREF-HIRESW system is scheduled for December 2020. In this upgrade the NMMB model members will be replaced by the standalone regional version of the UFS Weather Model (a.k.a. FV3 SAR). Details on this upgrade can be found at the EMC Model Evaluations Group's <a href="https://www.emc.ncep.noaa.gov/users/meg/hrefv3/">HREFv3 evaluation page</a>.</span></span></p>
+<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">The latest graphics generated by EMC for the CONUS, Alaska, Hawaii, and Puerto Rico are accessible at the <a href="http://www.emc.ncep.noaa.gov/mmb/mpyle/hrefv3/">HREF home page</a>.</span></span></p>
 
 <p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">For more info on the HREF and the HiresW, please contact <a href="mailto:matthew.pyle@noaa.gov">Matthew Pyle</a></span></span></p>
 

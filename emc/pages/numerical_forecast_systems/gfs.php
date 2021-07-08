@@ -92,7 +92,11 @@ global $browser_title;
 				<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><a href="https://www.emc.ncep.noaa.gov/users/verification/global/">NCEP Global Model Verification Portal </a></span></span></p>
 				</li>
 				<li>
+<<<<<<< HEAD
 				<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><a href="http://www.emc.ncep.noaa.gov/gmb/STATS_vsdb/">Global Multi-Model Performance Statistics and GFS 2-D Maps</a></span></span></p>
+=======
+				<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><a href="https://www.emc.ncep.noaa.gov/users/verification/headlines/">NCEP Global Modeling "Headline" Scores: Monthly/Yearly ACC, Useful Forecast Day, ACC Die-off vs GEFS and NAEFS</a></span></span></p>
+>>>>>>> ff2bf8e8d11820766f786c778040d97d2c057f84
 				</li>
 			</ul>
 
@@ -101,9 +105,12 @@ global $browser_title;
 			<ul style="color: rgb(52, 73, 94); font-family: &quot;Open Sans&quot;, Helvetica, Arial, sans-serif; font-size: 14px;">
 				<li>
 				<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><a href="http://www.emc.ncep.noaa.gov/users/Eric.Rogers/documents/FV3GFS_OD_Briefs_10-01-18_4-1-2019.pdf">Details on changes in GFS V15</a></span></span></p>
+<<<<<<< HEAD
 				</li>
 				<li>
 				<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><a href="https://vlab.ncep.noaa.gov/group/fv3gfs">FV3GFS VLab Community</a></span></span></p>
+=======
+>>>>>>> ff2bf8e8d11820766f786c778040d97d2c057f84
 				</li>
 				<li>
 				<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><a href="https://github.com/ufs-community/ufs-weather-model/wiki">UFS Weather Model Codes - Github</a></span></span></p>
