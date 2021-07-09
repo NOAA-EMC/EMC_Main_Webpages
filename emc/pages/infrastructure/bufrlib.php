@@ -19,17 +19,13 @@ global $browser_title;
               Observational Data Processing at NCEP
             </a>
           </li>
-		  </ul>
-		  
-		  <!-- The file that contains the Resource links to VLAB & Help -->
-		<?php include '../portal_resources_sidelnks.php';?>
-		 
+         </ul>
       </div>
     </nav>
 
     <main role="main" class="col-md-9 ml-sm-auto col-lg-10 px-4">
       <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
-        <h1 class="h2">Dashboard</h1>
+        <h1 class="h2"></h1>
         <div class="btn-toolbar mb-2 mb-md-0">
           <div class="btn-group mr-2">
             <!--<button type="button" class="btn btn-sm btn-outline-secondary">Share</button>-->
@@ -37,7 +33,7 @@ global $browser_title;
           </div>
         </div>
       </div>
-     <h1 align="center" id="section-title">BUFRLIB Software User Guide</h1>
+     <h1 align="center" id="section-title">BUFRLIB</h1>
      	<div id="description">
          
   <!--<iframe width="1100" height="700" src="bufrlib/docs/bufrlib_body.html"></iframe>-->
