@@ -36,14 +36,14 @@ global $browser_title;
      	<div id="description">
 				<h1 id="wb-cont" style="text-align: center;">North American Ensemble Forecast System (NAEFS)</h1>
                 <img style="display:block;margin-left:auto;margin-right:auto;" src="https://www.emc.ncep.noaa.gov/emc/images/NAEFSlogo.gif">
-                <p><span style="font-size:14px;">The North American Ensemble Forecast System (NAEFS) is a joint project involving the 
+                <p><span style="font-size:16px;">The North American Ensemble Forecast System (NAEFS) is a joint project involving the 
                 Meteorological Service of Canada (MSC), the United States National Weather Service (NWS) and the National Meteorological 
                 Service of Mexico (<abbr title="National Meteorological Service of Mexico">NMSM</abbr>). 
                 NAEFS was officially launched in November 2004 in presence of representatives of the three countries.
                 </span>
                 </p>
                 
-                <p><span style="font-size:14px;">NAEFS combines the state-of-the-art ensemble forecasts run by the MSC's Global Environmental Multiscale Model 
+                <p><span style="font-size:16px;">NAEFS combines the state-of-the-art ensemble forecasts run by the MSC's Global Environmental Multiscale Model 
                 and the NCEP Global Spectral Model. When combined, the grand ensemble provides weather forecast guidance for the 0-384 hours that is of higher 
                 quality than the currently available operational guidance based on either set of ensembles alone. It allows the generation of a set of forecast 
                 products that are seamless across the national boundaries between Canada, the United States and Mexico. The research/development and operational 
@@ -52,34 +52,34 @@ global $browser_title;
                 </span>
                 </p>
                 
-                <p><span style="font-size:14px;">NAEFS forecast graphics and information can be found at:</span></p>
+                <p><span style="font-size:16px;">NAEFS forecast graphics and information can be found at:</span></p>
                 
-                <p><span style="font-size:14px;">- 
+                <p><span style="font-size:16px;">- 
                     <a href="http://mag.ncep.noaa.gov/model-guidance-model-area.php?group=Model%20Guidance&amp;model=naefs&amp;area=namer&amp;ps=area#">
                     	Official NAEFS graphics at the NCEP Model Analysis and Guidance Page
                     </a></span>
                 </p>
                 
-                <p><span style="font-size:14px;">- 
+                <p><span style="font-size:16px;">- 
                     <a href="https://www.emc.ncep.noaa.gov/users/verification/global/naefs/ops/">
                     	NAEFS Verification
                     </a></span>
                 </p>
                 
                 <p>- <a href="http://www.cpc.ncep.noaa.gov/products/predictions/short_range/NAEFS/Outlook_D264.00.php">
-                		<span style="font-size:14px;">NCEP Climate Prediction Center NAEFS 8-14 day outlooks</span>
+                		<span style="font-size:16px;">NCEP Climate Prediction Center NAEFS 8-14 day outlooks</span>
                 	</a>
                 </p>
                 
-                <p>- <span style="font-size:14px;">
+                <p>- <span style="font-size:16px;">
                 	<a href="http://www.cpc.ncep.noaa.gov/products/predictions/short_range/NAEFS/naefs_prcp.php">NCEP Climate Prediction Center NAEFS 6-10 day precipitation 
                 	forecast</a></span>
                 </p>
                 
-                <p>-<a href="http://www.nco.ncep.noaa.gov/pmb/products/naefs/"><span style="font-size:14px;"> List of NAEFS Products produced by NCEP</span></a></p>
+                <p>-<a href="http://www.nco.ncep.noaa.gov/pmb/products/naefs/"><span style="font-size:16px;"> List of NAEFS Products produced by NCEP</span></a></p>
                 
-                <p>- <a href="http://www.weather.gov/nwsexit.php?url=https://weather.gc.ca/ensemble/naefs/index_e.html">
-                <span style="font-size:14px;">Meteorological Service of Canada (MSC) NAEFS web site</span></a></p>
+                <p>-<a href="http://www.weather.gov/exit?url=https://weather.gc.ca/ensemble/naefs/index_e.html">
+                <span style="font-size:16px;">Meteorological Service of Canada (MSC) NAEFS web site</span></a></p>
 
 
 
@@ -91,7 +91,7 @@ global $browser_title;
                 		</tr>
                 	</thead>
                 	<caption>
-                	<p><strong><a href="http://www.nws.noaa.gov/os/notification/tin16-03gefs-naefs_aaa.htm"><span style="font-size:16px;">NAEFS configuration as of April 2016</span></a></strong></p>
+                	<p><strong><a href="https://www.weather.gov/media/notification/tins/tin16-03gefs-naefs_aaa.pdf"><span style="font-size:16px;">NAEFS configuration as of April 2016</span></a></strong></p>
                 	</caption>
                 	<tbody>
                 		<tr>
@@ -118,7 +118,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<th scope="row">Ensemble Members</th>
-                			<td>40 (20 NWS + 20 MSC) for each cycle</td>
+                			<td>50 (30 NWS + 20 MSC) for each cycle</td>
                 		</tr>
                 		<tr>
                 			<th scope="row">Post-Processed Probabilistic
