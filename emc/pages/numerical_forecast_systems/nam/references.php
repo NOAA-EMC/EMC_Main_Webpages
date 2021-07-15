@@ -490,12 +490,6 @@ global $browser_title;
                 			<td>April 1998 - December 2018</td>
                 		</tr>
                 		<tr>
-                			<td><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/namsst/"><strong>NCEP NAM-12 SST analysis </strong> </a></td>
-                			<td>2-d graphics (regional plots) of the most current SST analysis used by NAM model</td>
-                			<td>NAM</td>
-                			<td>7 days</td>
-                		</tr>
-                		<tr>
                 			<td><a href="https://www.emc.ncep.noaa.gov/jcsda/ggayno/snow/home.html"><strong>NCEP NAM-12 Snow/Sea Ice analysis </strong> </a></td>
                 			<td>Plots of the most current Snow/Sea Ice analysis from NESDIS, USAF, and the analysis used as initial conditions in the NAM model</td>
                 			<td>NAM</td>
