@@ -294,7 +294,8 @@ The AQ model operational predictions are displayed by the National Weather Servi
 	<center><p><a href="https://gmao.gsfc.nasa.gov/projects/glopac/" target="_blank">NASA GEOS-5 GLOPAC Forecasts</a></p><center>
 	<center><p><a href="https://ruc.noaa.gov/wrf/WG11_RT/" target="_blank">NOAA GSD RAP-Chem Forecasts</a></p><center>
 	<center><p><a href="http://www.weather.gov/exit?url=https://raqms-ops.ssec.wisc.edu/" target="_blank">NESDIS RAQMS Forecasts</a></p><center>
-	<center><p><a href="http://www.weather.gov/exit?url=https://raqms-ops.ssec.wisc.edu/" target="_blank">HRRR/RAP Smoke</a></p><center>
+	<center><p><a href="https://rapidrefresh.noaa.gov/hrrr/HRRRsmoke/" target="_blank">HRRR Smoke</a></p><center>
+	<center><p><a href="https://rapidrefresh.noaa.gov/RAPsmoke/" target="_blank">RAP Smoke</a></p><center>
         <center><p><a href="https://fluid.nccs.nasa.gov/missions/custom_mission%2BFIREX-AQ/" target="_blank">NASA Air Quality Forecasts</a></p><center>
 <br><br>
 </div>
@@ -353,8 +354,8 @@ The AQ model operational predictions are displayed by the National Weather Servi
 		<div class="col-lg-12">
 			<div class="">
 				<div class="usa-footer-logo col-md-6">
-					<a href="https://www.usa.gov/"><img alt="Logo image" class="usa-footer-logo-img" src="https://www.emc.ncep.noaa.gov/images/USAGOV.png" title="USA Logo"></a>
-					<a href="http://www.noaa.gov/"><img alt="Logo image" class="usa-footer-logo-img" src="https://www.emc.ncep.noaa.gov/images/noaa_logo.png" title="NOAA EMC Logo"></a>
+					<a href="https://www.usa.gov/"><img alt="Logo image" class="usa-footer-logo-img" src="https://www.emc.ncep.noaa.gov/images/logo/USAGOV.png" title="USA Logo"></a>
+					<a href="http://www.noaa.gov/"><img alt="Logo image" class="usa-footer-logo-img" src="https://www.emc.ncep.noaa.gov/images/logo/noaa_logo.png" title="NOAA EMC Logo"></a>
 					<h3 class="usa-footer-logo-heading">National Centers for<br>Environmental Prediction<br>Environmental Modeling Center</h3>
 
 				</div>
