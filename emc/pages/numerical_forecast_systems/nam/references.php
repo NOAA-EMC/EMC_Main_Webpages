@@ -461,33 +461,10 @@ global $browser_title;
                 			<td>1995 - present</td>
                 		</tr>
                 		<tr>
-                			<td><a href="https://emc-ls-sand02.ncep.noaa.gov/EMC_VSDB_verif/index.cgi"><strong>INTERACTIVE NCEP MODEL VERIFICATION (GRID VS.OBS) WEB PAGE (NCEP EXPERIMENTAL PAGE, INTERNAL USE ONLY) </strong> </a></td>
-                			<td>Interactive web page tool for display of NCEP model verifications</td>
-                			<td>NAM, GFS, SREF, RAP, HRRR, HIRESW, NAM DNG grids, DGEX, Parallel Runs</td>
-                			<td>January 2006 - present</td>
-                		</tr>
-                		<tr>
-                			<td><a href="https://emc-ls-sand02.ncep.noaa.gov/EMC_VSDB_verif_g2g/index.cgi"><strong>INTERACTIVE NCEP MODEL VERIFICATION (GRID-TO-GRID) WEB PAGE (NCEP EXPERIMENTAL PAGE, INTERNAL USE ONLY) </strong> </a></td>
-                			<td>Interactive web page tool for display of NCEP model verifications</td>
-                			<td>NAM, SREF, RAP, HRRR, HIRESW, NARRE-TL</td>
-                			<td>January 2014 - present</td>
-                		</tr>
-                		<tr>
                 			<td><a href="https://www.emc.ncep.noaa.gov/mmb/gplou/emchurr/nwprod"><strong>NCEP/EMC Operational Model Cyclone Tracking Page </strong> </a></td>
                 			<td>This page shows the various model forecast tracks for tropical and extratropical cyclones</td>
                 			<td>NAM, GFS, GEFS, SREF, UKMET, NOGAPS, CMC</td>
                 			<td>Several months</td>
-                		</tr>
-                		<tr>
-                			<td><a href="https://www.emc.ncep.noaa.gov/mmb/research/nearsfc/nearsfc.verf.html"><strong>Near-Surface Forecast Verification Statistics for operational NCEP models</strong> </a></td>
-                			<td>
-                			<ul>
-                				<li>Monthly (diurnal) composite of 00-hr to 84-hr forecast from the NAM and GFS models verified against observations averaged by region and composited on a monthly basis for 00z and 12z cycles.</li>
-                				<li>Annual time series of the bias in the 84-hr forecast (end point) from the NAM model verified against observations averaged by region for the given year</li>
-                			</ul>
-                			</td>
-                			<td>NAM, GFS</td>
-                			<td>April 1998 - December 2018</td>
                 		</tr>
                 		<tr>
                 			<td><a href="https://www.emc.ncep.noaa.gov/jcsda/ggayno/snow/home.html"><strong>NCEP NAM-12 Snow/Sea Ice analysis </strong> </a></td>
@@ -3120,9 +3097,6 @@ global $browser_title;
                 
                 <p>&nbsp;</p>
                 
-                <h3><a href="https://www.emc.ncep.noaa.gov/mmb/">Link to Legacy Mesoscale Modeling Branch Home Page </a></h3>
-                
-                <p>&nbsp;</p>
                 
                 <p align="center"><a href="https://www.weather.gov/disclaimer.html">Disclaimer</a></p>
                 
