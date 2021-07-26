@@ -550,6 +550,48 @@ global $browser_title;
                 			<th>Contents/major changes</th>
                 		</tr>
 
+
+                                <tr>
+                                        <th>
+                			<center>&nbsp;</center>
+                
+                			<center><strong><a href="https://www.emc.ncep.noaa.gov/users/meg/cmaqv6/updates/NCEP_OD_Brief_2021-04-09_AQMv6.pptx">20 July 2021</a> </strong></center>
+                
+                			<center>&nbsp;</center>
+
+                			</th>
+                			<th style="text-align: left;">Operational Air Quality Model (AQMv6) Upgrade:
+                			<ol type="1">
+                				<li> <a href="https://www.weather.gov/media/notification/pdf2/SCN21-60_aqm_v6.0_aaa.pdf">NWS Service Change Notice</a> on this upgrade.</li>
+                				<li> For the CONUS domain, the CMAQ Kalman Filter Analog (KFAN) bias 
+                                                    correction system for fine Particulate Matter (PM2.5) and Ozone 
+                                                    will be improved to use a consistent training data set, additional 
+                                                    monitor sites, and a unified KFAN bias correction system.</li>
+                                                <li> Over the CONUS, Alaska, and Hawaii domains, the CMAQ code will 
+                                                    be unified with the Environmental Protection Agency (EPA) Version 5.3.1 
+                                                    using an updated 2016 National Emissions Inventory (NEI 2016).</li>
+                                                <li> All domains will be driven by the NWS Global Forecast System (GFS) 
+                                                    v16 meteorology with air quality forecasts extended from 48 to 72 
+                                                    hours for the 06 and 12 UTC run cycles.</li>
+                                                <li> The Air Resources Laboratory (ARL) Fengsha dust model will be updated 
+                                                    with improved threshold velocities by soil type.</li>
+                                                <li> The Updated Biomass Emissions Land Database (BELD) will be updated 
+                                                    to v5 for biogenic emissions processing.</li>
+                                                <li> Greenness vegetation fraction (GVF) will be updated daily with a 
+                                                    7-day average GVF provided by the National Environmental Satellite, 
+                                                    Data, and Information Service (NESDIS) satellite products.</li>
+                                                <li> Leaf Area Index (LAI) will be updated from a constant value in 
+                                                    space and time to a climatological field.</li>
+                                                <li> The NESDIS Global Biomass Burning Emissions Product eXtended 
+                                                    (GBBEPx) product will be used to initialize fire particulate and 
+                                                    gas-phase emissions and its associated Fire Radiative Power, which 
+                                                    is used to drive fire smoke plume rise. Both GVF and LAI are used 
+                                                    for biogenic and deposition processes and should result in better 
+                                                    land-related processes.</li>
+                			</ol>
+                			</th>
+                		</tr>
+                           
                                 <tr>
                                         <th>
                 			<center>&nbsp;</center>
