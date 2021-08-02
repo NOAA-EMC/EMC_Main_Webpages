@@ -2876,7 +2876,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="ftp://ftp.library.noaa.gov/docs.lib/htdocs/rescue/wb_technical_procedures_bulletin/TPBs%20401-496/TPB_490.pdf"><strong>15 April 2002 </strong></a></center>
+                			<center><a href="https://s3.us-east-1.amazonaws.com/library.oarcloud.noaa.gov/noaa_documents.lib/NOAA_historic_documents/WB/TPB/2000-2003/TPB_490.pdf"><strong>15 April 2002 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -2961,7 +2961,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="ftp://ftp.library.noaa.gov/docs.lib/htdocs/rescue/wb_technical_procedures_bulletin/TPBs%20401-496/TPB_465.pdf"><strong>29 March 2000 </strong></a></center>
+                			<center><a href="https://s3.us-east-1.amazonaws.com/library.oarcloud.noaa.gov/noaa_documents.lib/NOAA_historic_documents/WB/TPB/2000-2003/TPB_465.pdf"><strong>29 March 2000 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -2978,7 +2978,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="ftp://ftp.library.noaa.gov/docs.lib/htdocs/rescue/wb_technical_procedures_bulletin/TPBs%20401-496/TPB_464.pdf"><strong>15 March 2000 </strong></a></center>
+                			<center><a href="https://s3.us-east-1.amazonaws.com/library.oarcloud.noaa.gov/noaa_documents.lib/NOAA_historic_documents/WB/TPB/2000-2003/TPB_464.pdf"><strong>15 March 2000 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -2988,7 +2988,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><strong>3 June 1998 </strong></center>
+                			<center><strong><a href="https://s3.us-east-1.amazonaws.com/library.oarcloud.noaa.gov/noaa_documents.lib/NOAA_historic_documents/WB/TPB/1990-1999/TPB_454.pdf">3 June 1998</a></strong></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -3004,7 +3004,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="ftp://ftp.library.noaa.gov/docs.lib/htdocs/rescue/wb_technical_procedures_bulletin/TPBs%20401-496/TPB_454.pdf"><strong>13 May 1999 </strong></a></center>
+                			<center><a href="https://s3.us-east-1.amazonaws.com/library.oarcloud.noaa.gov/noaa_documents.lib/NOAA_historic_documents/WB/TPB/1990-1999/TPB_454.pdf"><strong>13 May 1999 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -3014,7 +3014,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="ftp://ftp.library.noaa.gov/docs.lib/htdocs/rescue/wb_technical_procedures_bulletin/TPBs%20401-496/TPB_448.pdf"><strong>April 1998 </strong></a></center>
+                			<center><a href="https://s3.us-east-1.amazonaws.com/library.oarcloud.noaa.gov/noaa_documents.lib/NOAA_historic_documents/WB/TPB/1990-1999/TPB_448.pdf"><strong>April 1998 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -3024,7 +3024,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="ftp://ftp.library.noaa.gov/docs.lib/htdocs/rescue/wb_technical_procedures_bulletin/TPBs%20401-496/TPB_447.pdf"><strong>9 February 1998 </strong></a></center>
+                			<center><a href="https://s3.us-east-1.amazonaws.com/library.oarcloud.noaa.gov/noaa_documents.lib/NOAA_historic_documents/WB/TPB/1990-1999/TPB_447.pdf"><strong>9 February 1998 </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -3067,7 +3067,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><a href="ftp://ftp.library.noaa.gov/docs.lib/htdocs/rescue/wb_technical_procedures_bulletin/TPBs%20401-496/TPB_429.pdf"><strong>27 September 1994 (TPB on Verification and Evaluation of RUC-1) </strong></a></center>
+                			<center><a href="https://s3.us-east-1.amazonaws.com/library.oarcloud.noaa.gov/noaa_documents.lib/NOAA_historic_documents/WB/TPB/1990-1999/TPB_429.pdf"><strong>27 September 1994 (TPB on Verification and Evaluation of RUC-1) </strong></a></center>
                 			</td>
                 			<td>
                 			<ul>
@@ -3092,7 +3092,7 @@ global $browser_title;
                 		</tr>
                 		<tr>
                 			<td>
-                			<center><strong>8 June 1993 </strong></center>
+                			<center><strong><a href="https://s3.us-east-1.amazonaws.com/library.oarcloud.noaa.gov/noaa_documents.lib/NOAA_historic_documents/WB/TPB/1990-1999/TPB_412.pdf">8 June 1993</a></strong></center>
                 			</td>
                 			<td>
                 			<ul>
