@@ -50,7 +50,6 @@
 					<li><a href="http://www.commerce.gov/" title="United States Department of Commerce" id="anch_84">Department of Commerce</a></li>
 					<li><a href="http://www.noaa.gov" title="NOAA" id="anch_85">NOAA</a></li>
 					<li><a href="http://www.emc.noaa.gov/" title="EMC" id="anch_86">EMC</a></li>
-					<li><a href="{{path('show_sitemap_index')}}" title="EMC" id="anch_86">Sitemap</a></li>
 				</ul>
 			</div>
 		</div>
