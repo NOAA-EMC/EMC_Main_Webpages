@@ -193,7 +193,7 @@ $browser_title = 'NCEP Monsoon Desk';
 						<strong><a href="https://www.emc.ncep.noaa.gov/data_assimilation/data.html">Gridpoint Statistical Interpolation (GSI)</a></strong></span></span></span><br>
 						&nbsp;</td>
 						<td><span style="font-size:12px"><span style="color:#000000"><span style="font-family:Arial,Helvetica,sans-serif"><br>
-						<a href="https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/gfs.php"><strong>Global Spectral Model</strong></a></span></span></span><br>
+						<a href="https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/gfs.php"><strong>Global Forecast System (FV3 model)</strong></a></span></span></span><br>
 						&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;</td>
 					</tr>
 				</tbody>

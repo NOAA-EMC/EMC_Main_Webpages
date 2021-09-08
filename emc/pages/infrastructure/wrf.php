@@ -54,7 +54,7 @@ global $browser_title;
 
 <p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">NCEP Production Systems which currently use the Advanced Research WRF model (WRF-ARW) are the Rapid Refresh (RAP), the High-Resolution Rapid Refresh (HRRR), the Short-Range Ensemble Forecast System (SREF), and the High-Resolution Ensemble Forecast System (HREF), which uses the two Advanced Research WRF (WRF-ARW) HiresW forecast runs. The operational Hurricane WRF (HWRF) runs with the WRF-NMM (<span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">Non-Hydrostatic Mesoscale Model) dynamic code. </span></span>The NCEP North American Mesoscale System (NAM) ran with the WRF-NMM from 2006-2011. </span></span></p>
 
-<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">For further information, please go to the <a href="https://www.weather.gov/nwsexit.php?url=https://www.mmm.ucar.edu/weather-research-and-forecasting-model">WRF main web page</a>. </span></span></p>
+<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">For further information, please go to the <a href="https://www.weather.gov/exit?url=https://www.mmm.ucar.edu/weather-research-and-forecasting-model">WRF main web page</a>. </span></span></p>
 </div>
 </div>
 </div>
