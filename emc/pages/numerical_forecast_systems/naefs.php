@@ -91,13 +91,16 @@ global $browser_title;
                 		</tr>
                 	</thead>
                 	<caption>
+                	<p><strong><a href="https://www.weather.gov/media/notification/pdfs/scn18-50naefs_gefsaaa.pdf"><span style="font-size:16px;">NAEFS changes in July 2018</span></a></strong></p>
+                	</caption>
+                	<caption>
                 	<p><strong><a href="https://www.weather.gov/media/notification/tins/tin16-03gefs-naefs_aaa.pdf"><span style="font-size:16px;">NAEFS configuration as of April 2016</span></a></strong></p>
                 	</caption>
                 	<tbody>
                 		<tr>
                 			<th scope="row">Models</th>
                 			<td>NWS Global Forecasting System (<a href="gfs.php" title="Global Forecast System">GFS</a>) and
-                			<p>MSC Global Environmental Multiscale Model (<a href="http://www.weather.gov/nwsexit.php?url=http://collaboration.cmc.ec.gc.ca/science/rpn/gef_html_public/index.html" title="Global Environmental Multiscale Model">GEM</a>)</p>
+                			<p>MSC Global Environmental Multiscale Model (<a href="http://www.weather.gov/exit?url=http://collaboration.cmc.ec.gc.ca/science/rpn/gef_html_public/index.html" title="Global Environmental Multiscale Model">GEM</a>)</p>
                 			</td>
                 		</tr>
                 		<tr>

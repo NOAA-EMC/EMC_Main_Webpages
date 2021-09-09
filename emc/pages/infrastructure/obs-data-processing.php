@@ -41,7 +41,7 @@ global $browser_title;
      <h2 id="section-title">Observational Data Processing at NCEP</h2>
      <center>
         <h3><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:18px;"><strong>NOAA/NWS/NCEP/EMC<br>
-        (Last Revised 2/12/2018)</strong></span></span><span style="font-style: italic;"></span></h3>
+        (Last Revised 7/8/2020)</strong></span></span><span style="font-style: italic;"></span></h3>
      </center>
      
      <div id="description">
