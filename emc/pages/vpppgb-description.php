@@ -68,7 +68,7 @@
 
 <ul>
         <li style="margin-left: 0.83in;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">Investigate and determine systematic errors and biases for both real-time and new modeling systems</span></span></li>
-        <li style="margin-left: 0.83in;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">Assist the <a href="ufscommunity.org">Unified Forecast System</a> community in evaluating and diagnosing skill for new and emerging model components, such as new dynamic cores and physics packages</span></span></li>
+        <li style="margin-left: 0.83in;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">Assist the <a href="https://ufscommunity.org">Unified Forecast System</a> community in evaluating and diagnosing skill for new and emerging model components, such as new dynamic cores and physics packages</span></span></li>
         <li style="margin-left: 0.83in;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">Develop and evaluate diagnostic software for EMC models</span></span></li>
 </ul>
 </div>
