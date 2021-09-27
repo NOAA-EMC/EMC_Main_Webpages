@@ -105,7 +105,7 @@
 {"name":"Mahajan, Rahul","email":"rahul.mahajan@noaa.gov","extension":"668","role":"US Govt.","branch":"Engineering and Implementation Branch"},
 {"name":"Manikin, Geoff","email":"geoffrey.manikin@noaa.gov","extension":"3695","role":"US Govt.","branch":"Verification, Post-Processing and Product Generation"},
 {"name":"Mao, Yali","email":"yali.mao@noaa.gov","extension":"3719","role":"Contractor","branch":"EMC Affiliate Contractor"},
-{"name":"Martin, Cory","email":"cory.r.martin@noaa.gov","extension":"1524","role":"Contractor","branch":"Redline Contractor"},
+{"name":"Martin, Cory","email":"cory.r.martin@noaa.gov","extension":"1524","role":"US Govt.","branch":"MDAB-Data Assimlation"},
 {"name":"Masarik, Matt","email":"matthew.masarik@noaa.gov","extension":"email","role":"Contractor","branch":"SRG Contractor"},
 {"name":"McLaren, Ronald","email":"ronald.mclaren@noaa.gov","extension":"email","role":"Contractor","branch":"IMSG Contractor"},
 {"name":"McQueen, Jeff","email":"jeff.mcqueen@noaa.gov","extension":"3736","role":"US Govt.","branch":"MDAB-Model Physics"},
