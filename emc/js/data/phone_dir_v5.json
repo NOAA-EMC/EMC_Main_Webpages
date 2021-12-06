@@ -51,7 +51,7 @@
 {"name":"Grumbine, Robert","email":"robert.grumbine@noaa.gov","extension":"3747","role":"US Govt.","branch":"MDAB-Coupled Modeling"},
 {"name":"Guan, Hong","email":"hong.guan@noaa.gov","extension":"3708","role":"Contractor","branch":"SRG Contractor"},
 {"name":"Guo, Zhicheng","email":"zhicheng.guo@noaa.gov","extension":"email","role":"Contractor","branch":"SRG Contractor"},
-{"name":"Han, Jongil","email":"jongil.han@noaa.gov","extension":"3788","role":"Contractor","branch":"SRG Contractor"},
+{"name":"Han, Jongil","email":"jongil.han@noaa.gov","extension":"3788","role":"US Govt.","branch":"MDAB-Model Physics"},
 {"name":"Hao, Yan","email":"yan.hao@noaa.gov","extension":"3950","role":"Contractor","branch":"IMSG Contractor"},
 {"name":"Hart, Mary","email":"mary.hart@noaa.gov","extension":"3821","role":"Contractor","branch":"IMSG Contractor"},
 {"name":"Hartnett, Edward","email":"edward.hartnett@noaa.gov","extension":"email","role":"Contractor","branch":"EMC Affliate Contractor"},
