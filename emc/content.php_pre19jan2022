@@ -117,8 +117,10 @@
 									<li class="list-group-item right-angle-after"><a href="https://www.weather.gov/news/210403-ufs">Public release of the Unified Forecast System Short-Range Weather Application v1.0</a></li>
 									<li class="list-group-item right-angle-after"><a href="http://www.weather.gov/exit?url=https://ufscommunity.org/wp-content/uploads/2020/12/Bulletin_UFS_Community_Fall_2020_Full.pdf">Fall 2020 UFS Community Bulletin: Celebrating Bill Lapenta's Legacy</a></li>
 									<li class="list-group-item right-angle-after"><a href="http://www.weather.gov/exit?url=https://www.jcsda.org/jedi-fv3-release">The Joint Center for Satellite Data Assimilation announces the first public release of JEDI-FV3</a></li>
+									<li class="list-group-item right-angle-after"><a href="https://sites.google.com/a/noaa.gov/nws-insider/news-from-the-field-and-hq/2020-news-from-the-field/noaaupgradesglobalensembleforecastsystem">NWS Insider article on GEFS v12 Implementation</a></li>
 									<li class="list-group-item right-angle-after"><a href="http://www.weather.gov/exit?url=https://www.youtube.com/watch?v=G7Q800Pi7QM&feature=youtu.be">Now Playing: NOAA Weather Partners video on EMC</a></li>
 									<li class="list-group-item right-angle-after"><a href="http://www.weather.gov/exit?url=https://ufscommunity.org/news/medrangeweatherapp_v1p1">Public release of the Unified Forecast System Medium Range Weather Application v1.1</a></li>
+									<li class="list-group-item right-angle-after"><a href="https://www.weather.gov/media/sti/nggps/UFS%20SIP%20FY19-21_20181129.pdf">Unified Forecast System FY19-21 Strategic Implementation Plan</a></li>
 								</ul>
 									
 							</div>
@@ -127,7 +129,17 @@
 								<img src="emc/images/news_caption/wavewatch3_resize.jpg"/>
 								<h4>Recent/Upcoming Upgrades</h4>
 								<ul class="list-group">
- 								   <li class="list-group-item right-angle-after">There is a moritorium on upgrades to the NCEP Production Suite during its conversion to run on the WCOSS2 Cray Shasta system. Production Suite upgrades are expected to resume in 2023. See the EMC Model Evaluation Group's <a href="https://www.emc.ncep.noaa.gov/users/meg/home/future.html"> Implementations table</a> for the list of upgrades from 2019-2021.</li>
+ 									 <li class="list-group-item right-angle-after"><a href="https://www.emc.ncep.noaa.gov/users/impldocs/HMON_CCB_20.pptx.pdf">HMONv3 implemented on 11 June 2020</a></li>
+ 								         <li class="list-group-item right-angle-after"><a href="https://www.emc.ncep.noaa.gov/users/meg/rtma_urma_v2p8/">RTMA/URMA/RTMA-RU v2.8 implemented on 28 July 2020</a></li>
+ 									 <li class="list-group-item right-angle-after"><a href="https://www.emc.ncep.noaa.gov/users/impldocs/HWRF_CCB_20_041020.pdf">HWRFv13 implemented on 4 August 2020</a></li>
+ 									 <li class="list-group-item right-angle-after"><a href="https://www.emc.ncep.noaa.gov/users/meg/gefsv12/">GEFSv12 implemented on 23 September 2020</a></li>
+ 									 <li class="list-group-item right-angle-after"><a href="https://www.emc.ncep.noaa.gov/users/meg/rapv5_hrrrv4/">RAPv5/HRRRv4 implemented on 2 December 2020</a></li>
+ 									 <li class="list-group-item right-angle-after"><a href="https://www.weather.gov/media/notification/scn20-105rtofs2.pdf">RTOFS implemented on 10 December 2020</a></li>
+ 								         <li class="list-group-item right-angle-after"><a href="https://www.emc.ncep.noaa.gov/users/EIB/Implementations/NWPSv1-3_EE_meeting_073119.pptx">Nearshore Wave Prediction System v1.3 implemented on 3 February 2021</a></li>
+ 									 <li class="list-group-item right-angle-after"><a href="https://www.emc.ncep.noaa.gov/users/meg/gfsv16/">GFSv16 implemented on 22 March 2021</a></li>
+ 									 <li class="list-group-item right-angle-after"><a href="https://www.emc.ncep.noaa.gov/users/meg/hrefv3/">HREFv3 implemented on 11 May 2021</a></li>
+ 									 <li class="list-group-item right-angle-after"><a href="https://www.emc.ncep.noaa.gov/users/meg/cmaqv6/">AQMv6 implemented on 20 July 2021</a></li>
+ 									 <li class="list-group-item right-angle-after"><a href="https://www.emc.ncep.noaa.gov/users/meg/home/future.html" class="read-more-link">Additional Information </a></li>
 								</ul>
 							</div>
 						</div>
