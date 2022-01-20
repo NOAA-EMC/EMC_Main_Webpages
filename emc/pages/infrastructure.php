@@ -124,7 +124,7 @@
 					<div class="col-lg-6">
      					<ul class="list-group">
                                             <li class="list-group-item">
-                                            <h5><a id="impldocs" class="read-more-link" href="https://www.emc.ncep.noaa.gov/users/impldocs/EE2-Consolidated-Document.V2.pdf">Implementation Standards/Environmental Equivalence</a></h5>
+                                            <h5><a id="impldocs" class="read-more-link" href="https://www.emc.ncep.noaa.gov/emc/pages/infrastructure/impl_standards.php">Implementation Standards/Environmental Equivalence</a></h5>
                                             <span class="more">
  Implementation Standards outline policies and technical standards that must be met in order to implement numerical systems in NCEP's Production Suite. The coding standards, examples of operational-quality scripts and code, and best practices presented have been established to enable operational stability, efficient troubleshooting and improved environmental equivalence.
                                             </li>
