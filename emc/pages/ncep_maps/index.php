@@ -1,4 +1,7 @@
+<?php include 'header.php' ?>
+
 <link rel="stylesheet" href="./login.css">
+<h1 id="model-protoype-headline">Coupled Model Prototypes</h1>
 
 <form action="./login.php" id="loginForm" method="post">
   <div class="form-group">

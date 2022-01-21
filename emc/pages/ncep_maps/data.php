@@ -2,14 +2,20 @@
 <?php
 header('Content-Type: application/json');
 
-$directory = new RecursiveIteratorIterator(new RecursiveDirectoryIterator('./images/P6'));
-$files = array(); 
+$mainDir = './images';
+$files = array();
 
-foreach ($directory as $file) {
-    if ($file->isDir()){ 
-        continue;
+$subDirectories = scandir($mainDir);
+unset($subDirectories[0]);
+unset($subDirectories[1]);
+
+foreach($subDirectories as $subDirectory){
+    foreach(glob($mainDir.'/'.$subDirectory.'/*') as $file){
+        $files[] = $file;
     }
-    $files[] = $file->getPathname(); 
 }
 
 echo json_encode($files);
+
+
+

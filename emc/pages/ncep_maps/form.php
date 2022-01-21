@@ -16,6 +16,15 @@ if(isset($_POST['map'])){
     $map = $_POST['map'];
 }
 
+if(empty($_POST['model'])){
+    $model = null;
+}
+
+if(isset($_POST['model'])){
+  
+    $model = $_POST['model'];
+}
+
 if(empty($_POST['modelNew'])){
     $modelNew = null;
 }
