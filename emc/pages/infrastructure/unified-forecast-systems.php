@@ -161,7 +161,7 @@ to presentations showing details on GFS v16 model/assimilation changes and perfo
 <li> 36-60 h forecast every 6 hours
 </ul>
 
-<p align="left" style="margin-bottom: 0in; line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">The RRFS is intended to facilitate the replacement of current long-standing regional systems in the NPS: NAM/NAM nests, RAP/HRRR, and HiResW/HREF in the 2023 timeframe.</font></span></p>
+<p align="left" style="margin-bottom: 0in; line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">The RRFS is intended to facilitate the replacement of current long-standing regional systems in the NPS: NAM/NAM nests, RAP/HRRR, and HiResW/HREF in the ~2024 timeframe.</font></span></p>
 
 <p align="left" style="margin-bottom: 0in; line-height: 150%">&nbsp;</p>
 
