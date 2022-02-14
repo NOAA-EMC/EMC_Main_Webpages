@@ -160,7 +160,7 @@
 {"name":"Vandenberghe, George","email":"george.vandenberghe@noaa.gov","extension":"3769","role":"Contractor","branch":"IMSG Contractor"},
 {"name":"VanderWesthuysen, Andre","email":"andre.vanderwesthuysen@noaa.gov","extension":"3755","role":"Contractor","branch":"IMSG Contractor"},
 {"name":"Vasic, Ratko","email":"ratko.vasic@noaa.gov","extension":"3814","role":"Contractor","branch":"IMSG Contractor"},
-{"name":"Vernieres, Guillaume","email":"guillaume.vernieres@noaa.gov","extension":"612","role":"Contractor","branch":"EMC Affiliate Contractor"},
+{"name":"Vernieres, Guillaume","email":"guillaume.vernieres@noaa.gov","extension":"612","role":"US Govt.","branch":"MDAB-Data Assimilation"},
 {"name":"Viner, Kevin","email":"kevin.viner@noaa.gov","extension":"email","role":"US Govt.","branch":"MDAB-Physics"},
 {"name":"Vuong, Boi","email":"boi.vuong@noaa.gov","extension":"3911","role":"US Govt.","branch":"Verification, Post-Processing and Product Generation"},
 {"name":"Wang, Binyu","email":"binyu.wang@noaa.gov","extension":"3711","role":"Contractor","branch":"IMSG Contractor"},
