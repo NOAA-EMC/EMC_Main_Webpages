@@ -34,6 +34,7 @@ global $browser_title;
         </div>
       </div>
      <h2 id="section-title">High-Resolution Ensemble Forecast</h2>
+    
      	<div id="description">
 				<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">The NCEP High-Resolution Window Forecast System (HIRESW) consists of daily runs of the regional version of the Finite Volume Cubed Sphere (FV3) model and two NCAR Advanced Research WRF (WRF-ARW) runs at ~3 km resolution. Currently, five domains are being run, two large domains (CONUS, Alaska) and three small domains (Hawaii, Puerto Rico, and Guam). The second ARW run (ARW2) is not run over Guam. The source of each run's initial (IC) and boundary conditions (BC) follows:</span></span></p>
 
@@ -65,9 +66,9 @@ global $browser_title;
 
 <p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">For more info on the HREF and the HiresW, please contact <a href="mailto:matthew.pyle@noaa.gov">Matthew Pyle</a></span></span></p>
 
-<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><a href="https://www.weather.gov/disclaimer"><strong>Disclaimer</strong></a></span></span></p>
+<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><a href="https://www.weather.gov/disclaimer"><strong>Official NWS Disclaimer</strong></a></span></span></p>
 
-<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">Please note : The EMC-generated web pages listed above are created on the NCEP development computer, and therefore will not be updated when this computer is down or unavailable. For official NCEP forecast/analysis graphics with 24/7 support, please use the operational <a href="http://mag.ncep.noaa.gov">NCEP Model Analysis and Guidance (MAG)</a> web site</span></span></p>
+  <img src="../../pages/disclaimer/disclaimer_small.png " />
 
 <p>&nbsp;</p>
 			  </div>
@@ -75,6 +76,7 @@ global $browser_title;
 	  <br/>
       
     </main>
+
   </div>
 </div>
 

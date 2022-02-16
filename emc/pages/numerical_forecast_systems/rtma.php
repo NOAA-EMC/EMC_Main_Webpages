@@ -39,6 +39,8 @@ global $browser_title;
         </div>
       </div>
      <h2 id="section-title">RTMA/URMA/RTMA-RU</h2>
+     <img src="../../pages/disclaimer/disclaimer_small.png" style="width:80%;display:block; margin:auto; " />
+     <div style="margin-bottom:20px;"></div>
      	<div id="description">
 				<h3 id="section-FrontPage-System+Overview"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:22px;"><strong>System Overview <span style="font-size:16px;"></span></strong></span></span></h3>
 

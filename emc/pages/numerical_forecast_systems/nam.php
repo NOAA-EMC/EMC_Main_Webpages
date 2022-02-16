@@ -100,6 +100,9 @@ SREF, CMAQ) Operational Change Log since 1993
 
 <div id="meta" style="-webkit-text-stroke-width:0px; background-color:#ffffff; box-sizing:border-box; color:#34495e; font-family:&quot;Open Sans&quot;,Helvetica,Arial,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:normal; letter-spacing:normal; orphans:2; padding:15px; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px"><span style="font-size:12px"><span style="color:#000000"><span style="font-family:Arial,Helvetica,sans-serif"><img alt="NORTH AMERICAN MESOSCALE" src="http://www.emc.ncep.noaa.gov/graphics/NAMlogo_smaller.png" style="border:0px; box-sizing:border-box; vertical-align:middle" title="NORTH AMERICAN MESOSCALE"></span></span></span>
 
+  <img src="../../pages/disclaimer/disclaimer_small.png"/>
+
+
 <p style="margin-left:0px; margin-right:0px; text-align:justify"><span style="font-size:16px;"><span style="color:#000000"><span style="font-family:Arial,Helvetica,sans-serif">The North American Mesoscale (NAM) is one of the forecast systems NCEP's Environmental Modeling Center has developed to provide mesoscale guidance to public and private sector meteorologists. It is run four times daily at 0000, 0600, 1200, and 1800 UTC and consists of the following components:</span></span></span></p>
 
 <p style="margin-left:0px; margin-right:0px; text-align:justify"><span style="font-size:16px;"><span style="color:#000000"><span style="font-family:Arial,Helvetica,sans-serif">- The NOAA Environmental Modeling System (NEMS) version of the Non-Hydrostatic Multi-scale Model in B-grid (NMMB). The NAM run makes forecasts for the following domains in one execution of the production run:</span></span></span></p>

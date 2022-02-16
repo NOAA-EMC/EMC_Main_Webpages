@@ -30,8 +30,7 @@
 							<div class="seminar-content-page">
 								<p><span style="font-size:18px;"><b>Official guidance for many NCEP operational systems can be found at the <a href="http://mag.ncep.noaa.gov/"><b>Model Analysis and Guidance (MAG)</b></a> web page. The MAG page is supported 24 hours a day and 7 days a week.</b></span></p>
 
-                                <p><span style="font-size:18px;"><b>EMC maintains numerous <b>research and development (R&amp;D)</b> web sites of operational model guidance. These assist EMC scientists in system validation, verification/comparisons against experimental tests, and robust diagnostic evaluation of NCEP's numerical guidance. These R&amp;D guidance pages are not subject to 24/7 support, and thus may be unavailable during system outages. Note : All pages listed below are EMC-generated unless otherwise noted.</b></span></p>
-                                
+                                <img src="./disclaimer/disclaimer_small.png" />
                                 <ul>
                                 	<li><big><span style="font-size:16px;"></span></big><span style="font-size:16px;"><big><strong>Global/Climate Modeling Systems</strong></big></span><big><span style="font-size:16px;"><strong>:</strong></span></big>
                                 

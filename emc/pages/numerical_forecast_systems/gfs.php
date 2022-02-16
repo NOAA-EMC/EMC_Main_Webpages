@@ -66,10 +66,10 @@ global $browser_title;
 		<tr>
 			<td style="vertical-align: top;">
 			<p style="text-align: center;"><span style="font-size:12px"><span style="color:#000000"><span style="font-family:Arial,Helvetica,sans-serif"><img src="http://www.emc.ncep.noaa.gov/GFS/gifs/gfs4c.png" style="border:0px; box-sizing:border-box; vertical-align:middle" title="Global Forecast System"></span></span></span></p>
+			<img src="../../pages/disclaimer/disclaimer_small.png" style="width:100%;" />
 
 			<hr>
 			<p><u style="color: rgb(85, 85, 85); font-family: Montserrat, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; background-color: transparent;"><span style="font-size:16px;">Contacts</span>:</u><span style="font-size:12px"><span style="color:#000000"><span style="font-family:Arial,Helvetica,sans-serif"></span></span></span></p>
-
 			<ul>
 				<li>
 				<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">Modeling and Data Assimilation Branch Chief -&nbsp;<a href="mailto:vijay.tallapragada@noaa.gov?subject=Contact%20from%20GFS%20EMCRZDM%20page" style="color: rgb(0, 153, 216); text-decoration-line: none;">Vijay Tallapragada</a></span></span></p>

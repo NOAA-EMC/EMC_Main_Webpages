@@ -35,6 +35,8 @@ global $browser_title;
       </div>
      	<div id="description">
 				<h2>EMC’s Near Surface Sea Surface Temperature (NSST)</h2>
+        <img src="../../pages/disclaimer/disclaimer_small.png" />
+        <div style="margin-bottom:20px;"></div>
 
 <p>Traditionally, the sea surface temperature (SST) used in NCEP’s operational medium and short-range weather models was produced independently, provided as input to the atmospheric model, and did not change during the model integration. For example, for many years the NAM, GFS and RAP/HRRR models used the high-resolution real-time sea surface temperature (RTG_SST_HR), a daily sea surface temperature product produced on a twelfth-degree latitude/longitude grid by a two-dimensional variational interpolation analysis of the most recent 24-hours of buoy and ship data, satellite-retrieved SST data, and SST's derived from satellite-observed sea-ice coverage.</p>
 <p>With the advent and maturity of advanced atmospheric data assimilation systems in EMC and with the NCEP Global Forecast System (GFS) now extended to 16 days, it became critical to incorporate SST diurnal variability in the GFS, and to move towards direct analysis of the SST in the NCEP Global Data Assimilation System (GDAS) using both in situ observations such as surface marine platforms and the direct assimilation of satellite radiances. The culmination of this effort was the implementation of the Near-surface Sea Surface Temperature (NSST) in the NCEP GFS in June 2017.  Figure 1 gives specific information on the NSST in the GFS.</p>

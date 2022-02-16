@@ -98,6 +98,7 @@ include '../portal_header.php';?>
         </div>
       </div>
      <h2 id="section-title">Global Aerosols 5-day Forecasts</h2>
+     <img src="../../pages/disclaimer/disclaimer_small.png"  />
      	<div id="description">
     
           <?php include "gefs-aero/GlobalAerosols5dayForecasts.html"; ?> 

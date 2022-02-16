@@ -119,6 +119,9 @@ global $browser_title;
                 </ul>
                 
                 <p>&nbsp;</p>
+
+				<img src="../../../pages/disclaimer/disclaimer_small.png" style="width:80%;display:block; margin:auto; " />
+     			<div style="margin-bottom:20px;"></div>
                 
 			<h4>Please note : Most of the NCEP real-time model web pages listed below are generated on the NCEP development computer, and therefore will not be updated when this computer is down. Official web graphics for the NAM 12-km parent, GFS, GEFS, NAM Alaska/CONUS/Fire Weather nests, SREF, HiResW runs, RTMA, RAP, and HRRR are available at the NCEP <a href="https://mag.ncep.noaa.gov/"> Model Analysis and Guidance (MAG) site</a> and subject to 24/7 monitoring by NCEP Central Operations. If you have any questions please email Eric Rogers at <i>eric.rogers@noaa.gov</i>.</h4>
                 
@@ -1486,7 +1489,7 @@ global $browser_title;
                 					</li>
                 					<li>Correct GFS physics in 2 NMMB members to produce compatible cloud &amp; ceiling guidance with the rest of SREF members</li>
                 					<li>Fix post-processor to remove use of snow in diagnosing cloud base height</li>
-                					<li>Correct a mapping bug (eastward shift) in NMM member’s pressure-grib output files</li>
+                					<li>Correct a mapping bug (eastward shift) in NMM memberï¿½s pressure-grib output files</li>
                 					<li>Use the model lowest-level values for the 2m T, Td q, RH and 10m u and v fields for the 7 NMMB members at initial time f00; these fields do not have correct values in the current operational SREF.</li>
                 					<li>Switch the hypsometric option in the ARW model back to the version in the original wrf3.3 version from option 2 (height is derived from log pressure) to option 1 (derived from pressure); this will make the model more reliable.</li>
                 					<li>New output products:

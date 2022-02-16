@@ -35,13 +35,19 @@ global $browser_title;
       </div>
      	<div id="description">
 				<h1 id="wb-cont" style="text-align: center;">North American Ensemble Forecast System (NAEFS)</h1>
+        <div style="margin-bottom:20px;"></div>
+
                 <img style="display:block;margin-left:auto;margin-right:auto;" src="https://www.emc.ncep.noaa.gov/emc/images/NAEFSlogo.gif">
+                <div style="margin-bottom:20px;"></div>
+
+                <img src="../../pages/disclaimer/disclaimer_small.png" style="width:80%;display:block; margin:auto; " />
                 <p><span style="font-size:16px;">The North American Ensemble Forecast System (NAEFS) is a joint project involving the 
                 Meteorological Service of Canada (MSC), the United States National Weather Service (NWS) and the National Meteorological 
                 Service of Mexico (<abbr title="National Meteorological Service of Mexico">NMSM</abbr>). 
                 NAEFS was officially launched in November 2004 in presence of representatives of the three countries.
                 </span>
                 </p>
+                
                 
                 <p><span style="font-size:16px;">NAEFS combines the state-of-the-art ensemble forecasts run by the MSC's Global Environmental Multiscale Model 
                 and the NCEP Global Spectral Model. When combined, the grand ensemble provides weather forecast guidance for the 0-384 hours that is of higher 
