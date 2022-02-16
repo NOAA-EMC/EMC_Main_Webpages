@@ -99,7 +99,6 @@
                                 	<ul>
                                 		<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;"><big><strong><a href="http://www.emc.ncep.noaa.gov/mmb/aq/">NCEP Air Quality Model </a></strong></big></span></span></li>
                                 		<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;"><big><strong><a href="https://www.emc.ncep.noaa.gov/gc_wmb/parthab/NCO-GEFSAerosol/html/fv3_aod_png.html#picture">Operational GEFS-Aerosol forecast guidance graphics</a></strong></big></span></span></li>
-                                		<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;"><big><strong><a href="http://www.emc.ncep.noaa.gov/mmb/hchuang/web/html/hysplit_bluesky.html">HYSPLIT Smoke Forecasts</a></strong></big></span></span></li>
                                 	</ul>
                                 	</li>
                                 </ul>
