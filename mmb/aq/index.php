@@ -164,7 +164,13 @@ which is used to drive fire smoke plume rise. Both GVF and LAI are used for biog
 in better land-related processes.
 </p>
 <br>
+<p>
 The AQ model operational predictions are displayed by the National Weather Service's <a style="color:blue" href="https://airquality.weather.gov/">National Digital Forecast Database (NDFD)</a>, showing 1-hr/8-hr averages and daily maxima of 1-hr/8-hr averages of ozone. In addition, operational ozone predictions and testing of PM2.5 predictions are displayed at the links provided below.
+</p>
+<br>
+<p>
+<img src="https://www.emc.ncep.noaa.gov/emc/pages/disclaimer/disclaimer_small.png" style="width:60%;display:block; margin:auto; " />
+</p>
 <br>
 <br><h3><a style="color:blue" href="https://www.weather.gov/sti/stimodeling_airquality" >National Air Quality Forecast Capability (NAQFC) : Official NWS site </a></h3>
 <br><h3><a style="color:blue" href="https://digital.mdl.nws.noaa.gov/airquality/#">NWS Air Quality Guidance</a></h3>
