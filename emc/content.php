@@ -93,7 +93,7 @@
 								<h4>Recent Publications</h4>
 								<ul class="list-group">
                                                                   <font size="2">
-								  <li class="list-group-item"><b>Purser, Rancic, and Pondeca, 2022:</b> <a href="https://doi.org/10.1175/MWR-D-20-0405.1">he Multigrid Beta Function Approach for Modeling of Background Error Covariance in the Real-Time Mesoscale Analysis (RTMA).</a> Published in <i>Monthly Weather Review</i></li>
+								  <li class="list-group-item"><b>Purser, Rancic, and Pondeca, 2022:</b> <a href="https://doi.org/10.1175/MWR-D-20-0405.1">The Multigrid Beta Function Approach for Modeling of Background Error Covariance in the Real-Time Mesoscale Analysis (RTMA).</a> Published in <i>Monthly Weather Review</i></li>
 								  <li class="list-group-item"><b>Belochitski and Krasnopolsky, 2021:</b> <a href="https://gmd.copernicus.org/articles/14/7425/2021/gmd-14-7425-2021.pdf">Robustness of neural network emulations of radiative transfer parameterizations in a state-of-the-art general circulation model.</a> Published in <i>Geoscientific Model Development</i></li>
 								  <li class="list-group-item"><b>Black et al., 2021:</b> <a href="https://doi.org/10.1029/2021MS002483">A Limited Area Modeling Capability for the Finite-Volume Cubed-Sphere (FV3) Dynamical Core and Comparison with a Global Two-Way Nest.</a> Published in <i>Journal of Advances in Modeling Earth Systems</i></li>
 								  <li class="list-group-item"><b>Carley et al., 2021:</b> <a href="http://dx.doi.org/10.1017/exp.2020.66">Variational assimilation of web camera-derived estimates of visibility for Alaska aviation.</a> Published in <i>Experimental Results</i></li>
