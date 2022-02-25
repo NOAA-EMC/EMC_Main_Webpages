@@ -93,6 +93,7 @@
 								<h4>Recent Publications</h4>
 								<ul class="list-group">
                                                                   <font size="2">
+								  <li class="list-group-item"><b>Purser, Rancic, and Pondeca, 2022:</b> <a href="https://doi.org/10.1175/MWR-D-20-0405.1">he Multigrid Beta Function Approach for Modeling of Background Error Covariance in the Real-Time Mesoscale Analysis (RTMA).</a> Published in <i>Monthly Weather Review</i></li>
 								  <li class="list-group-item"><b>Belochitski and Krasnopolsky, 2021:</b> <a href="https://gmd.copernicus.org/articles/14/7425/2021/gmd-14-7425-2021.pdf">Robustness of neural network emulations of radiative transfer parameterizations in a state-of-the-art general circulation model.</a> Published in <i>Geoscientific Model Development</i></li>
 								  <li class="list-group-item"><b>Black et al., 2021:</b> <a href="https://doi.org/10.1029/2021MS002483">A Limited Area Modeling Capability for the Finite-Volume Cubed-Sphere (FV3) Dynamical Core and Comparison with a Global Two-Way Nest.</a> Published in <i>Journal of Advances in Modeling Earth Systems</i></li>
 								  <li class="list-group-item"><b>Carley et al., 2021:</b> <a href="http://dx.doi.org/10.1017/exp.2020.66">Variational assimilation of web camera-derived estimates of visibility for Alaska aviation.</a> Published in <i>Experimental Results</i></li>
@@ -100,7 +101,6 @@
 								  <li class="list-group-item"><b>Abdolali et al., 2021:</b> <a href="https://doi.org/10.1007/s10236-020-01426-9">Evaluating the accuracy and uncertainty of atmospheric and wave model hindcasts during severe events using model ensembles.</a> Published in <i>Ocean Dynamics</i></li>
 								  <li class="list-group-item"><b>Ma et al., 2020:</b> <a href="https://doi.org/10.3390/atmos11090888">Investigating the Impact of High-Resolution Land–Sea Masks on Hurricane Forecasts in HWRF.</a> Published in <i>Atmosphere</i></li>
 								  <li class="list-group-item"><b>Morris et al., 2020:</b> <a href="https://doi.org/10.1175/WAF-D-19-0201.1">A Quality Assessment of the Real-Time Mesoscale Analysis (RTMA) for Aviation.</a> Published in <i>Weather and Forecasting</i></li>
-								  <li class="list-group-item"><b>Zhang et al., 2020:</b> <a href="https://www.mdpi.com/2073-4433/11/8/801/pdf">The Impact of Stochastic Physics-Based Hybrid GSI/EnKF Data Assimilation on Hurricane Forecasts Using EMC Operational Hurricane Modeling System.</a> Published in <i>Atmosphere</i></li>
                                                                   </font>
                                                                 <li class="list-group-item"><a href="https://www.emc.ncep.noaa.gov/emc/docs/EMC_Pubs_List.pdf" class="read-more-link">More Publications</a></li>
 								</ul>
@@ -111,6 +111,7 @@
 								<img src="emc/images/news_caption/hurricane_eye_resize.gif"/>
 								<h4>Latest News/Events</h4>
 								<ul class="list-group">
+									<li class="list-group-item right-angle-after"><a href="https://www.emc.ncep.noaa.gov/emc/pages/model_history/modeltables/modelTable.php">JNWPU/NMC/NCEP Model History: 1955-Present </a>.</li>
 									<li class="list-group-item right-angle-after"><a href="https://www.youtube.com/watch?v=rA_Bzc5hk8g">NOAA : Meeting the Moment</a></li>
 									<li class="list-group-item right-angle-after"><a href="https://www.weather.gov/careers/physical-science-fanglin-yang">MDAB-Physics Lead Dr. Fanglin Yang profiled in the "Faces of the National Weather Service" web site</a></li>
 									<li class="list-group-item right-angle-after"><a href="https://www.noaa.gov/media-release/noaa-upgrades-flagship-us-global-weather-model">NOAA News Release on Global Forecast System Version 16 Implementation</a></li>
