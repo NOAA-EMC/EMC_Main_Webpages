@@ -21,7 +21,7 @@
                                         <li class="list-group-item"><a href="https://www.emc.ncep.noaa.gov/emc/pages/collaborators.php">Collaborators</a></li>
                                         <li class="list-group-item"><a href="https://www.emc.ncep.noaa.gov/emc/docs/EMC_Awards.pdf">Awards</a></li>
                                         <li class="list-group-item"><a href="https://www.emc.ncep.noaa.gov/emc/pages/careers.php">Careers</a></li>
-                                        <li class="list-group-item"><a href="https://www.emc.ncep.noaa.gov/emc/pages/contactus.php">Contact Us</a></li>
+                                        <li class="list-group-item"><a href="https://www.emc.ncep.noaa.gov/emc/pages/contact.php">Contact Us</a></li>
                                         <li class="list-group-item"><a href="https://www.emc.ncep.noaa.gov/emc/pages/staff.php">Staff Directory</a></li>
                                      </ul>
                                  </li>
