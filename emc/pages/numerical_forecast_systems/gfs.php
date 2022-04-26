@@ -121,10 +121,14 @@ global $browser_title;
 
 			<p style="color: rgb(52, 73, 94); font-family: &quot;Open Sans&quot;, Helvetica, Arial, sans-serif; font-size: 14px; text-align: center;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">The GFS is run four times a day, and produces forecasts for up to 16 days in advance. The forecast component uses the FV3 model with a resolution of ~13 km. In the vertical, the model is divided into 127 vertical layers. It produces forecast output every hour for the first 120 hours, then every 3 hours for days 5-16. Details on the June 2019 implementation of the initial FV3 version of the GFS (GFSv15) and the March 2021 implementation of GFSv16 can be found in the "Implementations" and "Documentation" links on the left side of this page.</span></span></p>
  
+			<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">Below is a plot of total cloud cover from a 72 hour run from the coupled, global UFS model at C3072 (~ 3km) resolution with a 127 layer atmosphere with FV3 dynamical core,
+0.25 degree resolution MOM6 ocean model and 0.25 degree resolution CICE6 ice model.  The physics in the atmosphere included GFDL microphysics,
+NoahMP land model, RAS convection, scale aware boundary layer scheme, unified gravity wave drag, and RRTMG radiation.
+This model used mixed-mode FMS, with atmospheric dynamics running with 32 bit precision and everything else with 64 bit precision.
+The run was made on WCOSS Dell 3.5, 24 hours at a time, using restart capability. The run used 233 nodes with one write group using 45 nodes, taking
+about 40000 seconds per 24 hour forecast.</span></span></p>
 
-			<hr> <a href="http://mag.ncep.noaa.gov/data/gfs/00/namer/10m_wnd_precip/gfs_namer_024_10m_wnd_precip.gif" style="box-sizing: border-box; background-color: transparent; color: rgb(0, 0, 0); text-decoration: none; font-weight: bold; font-family: Arial, Helvetica, sans-serif; font-size: 12px;"><img src="http://mag.ncep.noaa.gov/data/gfs/00/namer/10m_wnd_precip/gfs_namer_024_10m_wnd_precip.gif" style="border:none; box-sizing:border-box; vertical-align:middle; width:100%"></a></div>
-
-			<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">Click to view full size</span></span></p>
+                        <center><hr> <a href="https://www.emc.ncep.noaa.gov/emc/images/C3072L127_tcldr_cpldrasnoahmpgfdlmp.gif" style="box-sizing: background-color: transparent; color: rgb(0, 0, 0); text-decoration: none; font-weight: bold; font-family: Arial, Helvetica, sans-serif; font-size: 12px;"><img src="https://www.emc.ncep.noaa.gov/emc/images/C3072L127_tcldr_cpldrasnoahmpgfdlmp.gif" style="border:none; vertical-align:middle; width:75%"></a></div></center>
 
 			<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><a href="https://www.weather.gov/disclaimer">Disclaimer</a></span></span></p>
 			</td>
