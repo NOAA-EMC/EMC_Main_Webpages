@@ -92,7 +92,7 @@
 {"name":"Liu, Emily","email":"emily.liu@noaa.gov","extension":"3639","role":"US Govt.","branch":"MDAB-Data Assimilation"},
 {"name":"Liu, Haixia","email":"haixia.liu@noaa.gov","extension":"3632","role":"Contractor","branch":"IMSG Contractor"},
 {"name":"Liu, Qingfu","email":"qingfu.liu@noaa.gov","extension":"3666","role":"US Govt.","branch":"MDAB-Model Physics"},
-{"name":"Liu, Shun","email":"shun.liu@noaa.gov","extension":"3651","role":"Contractor","branch":"IMSG Contractor"},
+{"name":"Liu, Shun","email":"shun.liu@noaa.gov","extension":"3651","role":"US Govt.","branch":"MDAB-Data Assimilation"},
 {"name":"Liu, Xiao","email":"xiao.liu@noaa.gov","extension":"email","role":"Contractor","branch":"IMSG Contractor"},
 {"name":"Long, Ryan","email":"ryan.long@noaa.gov","extension":"email","role":"Contractor","branch":"RedLine Contractor"},
 {"name":"Lovins, Melinda","email":"melinda.lovins@noaa.gov","extension":"3955","role":"Contractor","branch":"IMSG Contractor"},
