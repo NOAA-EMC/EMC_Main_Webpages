@@ -45,6 +45,8 @@ global $browser_title;
 
 <p><span style="font-family:arial,helvetica,sans-serif;"><font size="4" style="font-size: 14pt">1) Latest News</font></span></p>
 
+<p align="left" style="line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">June 23, 2022 : UFS Short-Range Weather Application v2.0 is now available. For details, please visit the <a href="https://epic.noaa.gov/get-code/short-range-weather/?#srw">EPIC Short Range Weather Application Page</a> for more information.</font></span></p>
+
 <p align="left" style="line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">March 4, 2021 : UFS Short-Range Weather Application v1.0 is now available. For details, please visit the <a href="http://www.weather.gov/exit?url=https://ufscommunity.org/news/srwa/">UFS community web site</a> on this release.</font></span></p>
 
 <p align="left" style="line-height: 150%"><span style="font-family:arial,helvetica,sans-serif;"><font size="3" style="font-size: 12pt">October 6, 2020 : UFS Medium Range Weather Application v1.1 is now available. For details, please visit the <a href="http://www.weather.gov/exit?url=https://ufscommunity.org//news/medrangeweatherapp_v1p1/">UFS community web site</a> on this release.</font></span></p>

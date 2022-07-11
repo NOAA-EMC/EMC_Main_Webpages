@@ -93,12 +93,12 @@
 								<h4>Recent Publications</h4>
 								<ul class="list-group">
                                                                   <font size="2">
+								  <li class="list-group-item"><b>Abdolali et al., 2022: </b> <a href="https://www.frontiersin.org/articles/10.3389/fbuil.2022.891612/full">Wave Attenuation by Vegetation: Model Implementation and Validation Study.</a> Published in <i>Frontiers in Built Environment</i></li>
 								  <li class="list-group-item"><b>Zhou et al., 2022: </b> <a href="https://doi.org/10.1175/WAF-D-21-0112.1">The Development of the NCEP Global Ensemble Forecast System Version 12.</a> Published in <i>Weather and Forecasting</i></li>
 								  <li class="list-group-item"><b>Purser, Rancic, and Pondeca, 2022:</b> <a href="https://doi.org/10.1175/MWR-D-20-0405.1">The Multigrid Beta Function Approach for Modeling of Background Error Covariance in the Real-Time Mesoscale Analysis (RTMA).</a> Published in <i>Monthly Weather Review</i></li>
 								  <li class="list-group-item"><b>Belochitski and Krasnopolsky, 2021:</b> <a href="https://gmd.copernicus.org/articles/14/7425/2021/gmd-14-7425-2021.pdf">Robustness of neural network emulations of radiative transfer parameterizations in a state-of-the-art general circulation model.</a> Published in <i>Geoscientific Model Development</i></li>
 								  <li class="list-group-item"><b>Black et al., 2021:</b> <a href="https://doi.org/10.1029/2021MS002483">A Limited Area Modeling Capability for the Finite-Volume Cubed-Sphere (FV3) Dynamical Core and Comparison with a Global Two-Way Nest.</a> Published in <i>Journal of Advances in Modeling Earth Systems</i></li>
 								  <li class="list-group-item"><b>Carley et al., 2021:</b> <a href="http://dx.doi.org/10.1017/exp.2020.66">Variational assimilation of web camera-derived estimates of visibility for Alaska aviation.</a> Published in <i>Experimental Results</i></li>
-								  <li class="list-group-item"><b>Wang et al., 2021:</b> <a href="https://doi.org/10.1175/WAF-D-20-0134.1">A New Horizontal Mixing-Length Formulation for Numerical Simulations of Tropical Cyclones.</a> Published in <i>Weather and Forecasting</i></li>
                                                                   </font>
                                                                 <li class="list-group-item"><a href="https://www.emc.ncep.noaa.gov/emc/docs/EMC_Pubs_List.pdf" class="read-more-link">More Publications</a></li>
 								</ul>
@@ -109,6 +109,8 @@
 								<img src="emc/images/news_caption/hurricane_eye_resize.gif"/>
 								<h4>Latest News/Events</h4>
 								<ul class="list-group">
+									<li class="list-group-item right-angle-after"><a href=https://www.weather.gov/media/ncep/pdf/NCEP_Strategic_Plan_2022-2027.pdf">NCEP Strategic Implementation Plan : 2022-2027+</a>.</li>
+									<li class="list-group-item right-angle-after"><a href=https://epic.noaa.gov/get-code/short-range-weather/?#srw">Public Release of UFS Short Range Weather Application v2.0</a>.</li>
 									<li class="list-group-item right-angle-after"><a href="https://sciencecouncil.noaa.gov/Council-Products/NOAA-Science-Report">NOAA 2021 Science Report </a>.</li>
 									<li class="list-group-item right-angle-after"><a href="https://www.emc.ncep.noaa.gov/emc/pages/model_history/modeltables/modelTable.php">JNWPU/NMC/NCEP Model History: 1955-Present </a>.</li>
 									<li class="list-group-item right-angle-after"><a href="https://ufscommunity.org/wp-content/uploads/2022/01/Bulletin_UFS_Community_December_2021.pdf">UFS Community July-December 2021 Bulletin</a></li>
@@ -117,8 +119,6 @@
 									<li class="list-group-item right-angle-after"><a href="https://www.noaa.gov/media-release/noaa-upgrades-flagship-us-global-weather-model">NOAA News Release on Global Forecast System Version 16 Implementation</a></li>
 									<li class="list-group-item right-angle-after"><a href="https://www.weather.gov/news/210403-ufs">Public release of the Unified Forecast System Short-Range Weather Application v1.0</a></li>
 									<li class="list-group-item right-angle-after"><a href="http://www.weather.gov/exit?url=https://www.jcsda.org/jedi-fv3-release">The Joint Center for Satellite Data Assimilation announces the first public release of JEDI-FV3</a></li>
-									<li class="list-group-item right-angle-after"><a href="http://www.weather.gov/exit?url=https://www.youtube.com/watch?v=G7Q800Pi7QM&feature=youtu.be">Now Playing: NOAA Weather Partners video on EMC</a></li>
-									<li class="list-group-item right-angle-after"><a href="http://www.weather.gov/exit?url=https://ufscommunity.org/news/medrangeweatherapp_v1p1">Public release of the Unified Forecast System Medium Range Weather Application v1.1</a></li>
 								</ul>
 									
 							</div>
@@ -127,7 +127,8 @@
 								<img src="emc/images/news_caption/wavewatch3_resize.jpg"/>
 								<h4>Recent/Upcoming Upgrades</h4>
 								<ul class="list-group">
- 								   <li class="list-group-item right-angle-after">There is a moritorium on upgrades to the NCEP Production Suite during its conversion to run on the WCOSS2 Cray Shasta system. Production Suite upgrades are expected to resume in 2023. See the EMC Model Evaluation Group's <a href="https://www.emc.ncep.noaa.gov/users/meg/home/future.html"> Implementations table</a> for the list of upgrades from 2019-2021.</li>
+                                                                   <li class="list-group-item right-angle-after">HYSPLIT v8 in September 2022</li>
+                                                                   <li class="list-group-item right-angle-after">GEFS-Aerosol v12.3 in September 2022</li>
 								</ul>
 							</div>
 						</div>
