@@ -2201,7 +2201,7 @@ formation of the the JNWPU in 1955. Separate tables are available for <a href=".
         <td></td>
         <td></td>
         <td>IBM x86 + IBM Cray XC40 (Luna, Surge); 5.57 petaflops total</td>
-        <td>Still</td>
+        <td>6/2022</td>
         <td></td>
     </tr>
     <tr>
@@ -2643,7 +2643,7 @@ formation of the the JNWPU in 1955. Separate tables are available for <a href=".
         <td></td>
         <td></td>
         <td>IBM x86 + IBM Cray XC40 + Dell C6320 (Mars/Venus); 8.41 petaflops total</td>
-        <td>Still</td>
+        <td>6/2022</td>
         <td></td>
     </tr>
     <tr>
