@@ -127,7 +127,7 @@
 								<img src="emc/images/news_caption/wavewatch3_resize.jpg"/>
 								<h4>Recent/Upcoming Upgrades</h4>
 								<ul class="list-group">
-                                                                   <li class="list-group-item right-angle-after">HYSPLIT v8 in September 2022</li>
+                                                                   <li class="list-group-item right-angle-after"><a href="https://www.emc.ncep.noaa.gov/users/EIB/Implementations/HYSPLIT2022OD_v3.pdf">HYSPLIT v8 in September 2022</a></li>
                                                                    <li class="list-group-item right-angle-after">GEFS-Aerosol v12.3 in September 2022</li>
 								</ul>
 							</div>
