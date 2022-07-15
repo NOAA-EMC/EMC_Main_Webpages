@@ -581,6 +581,18 @@
     </tr>
     <tr>
         <td>2014</td>
+        <td>R </td>
+        <td>NAM (RRTM Radiation, Explicit Convection, F-A Microphysics, GWD)</td>
+        <td>12km (N.Amer); 6 km (AK nest); 4 km (CONUS nest); 3 km (HI/PR nest), 1.33 or 1.5 km (FW nest)</td>
+        <td>60</td>
+        <td>CONUS parent, Alaska, CONUS, HI, PR, Fire wx nests</td>
+        <td>84h (12km), 60 h (all nests except FW); 36-h (FW nest)</td>
+        <td><a href="https://www.weather.gov/media/notification/tins/tin14-29namcca.pdf">NWS TIN</a></td>
+        <td>Still (2017)</td>
+        <td>4</td>
+    </tr>
+    <tr>
+        <td>2014</td>
         <td>R</td>
         <td>RTMA, URMA (Unrestricted Mesoscale Analysis)</td>
         <td>2.5 km for all but 3 km for Alaska</td>
