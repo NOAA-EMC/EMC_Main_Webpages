@@ -39,18 +39,6 @@
                 <td>1</td>
             </tr>
             <tr>
-                <td>1960</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-            </tr>
-            <tr>
                 <td>1962</td>
                 <td>H</td>
                 <td>Cressman filtered-equation</td>
