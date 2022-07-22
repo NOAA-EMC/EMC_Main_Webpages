@@ -100,7 +100,7 @@ global $browser_title;
 
 			<ul style="color: rgb(52, 73, 94); font-family: &quot;Open Sans&quot;, Helvetica, Arial, sans-serif; font-size: 14px;">
 				<li>
-				<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><a href="http://www.emc.ncep.noaa.gov/users/Eric.Rogers/documents/FV3GFS_OD_Briefs_10-01-18_4-1-2019.pdf">Details on changes in GFS V15</a></span></span></p>
+				<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><a href="http://www.emc.ncep.noaa.gov/emc/docs/FV3GFS_OD_Briefs_10-01-18_4-1-2019.pdf">Details on changes in GFS V15</a></span></span></p>
 				</li>
 				<li>
 				<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><a href="https://github.com/ufs-community/ufs-weather-model/wiki">UFS Weather Model Codes - Github</a></span></span></p>

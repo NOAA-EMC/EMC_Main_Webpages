@@ -769,7 +769,7 @@ global $browser_title;
                 			</th>
                 		</tr>
                 		<tr>
-                			<th><center><a href="https://www.emc.ncep.noaa.gov/users/Eric.Rogers/documents/AQMv5.1-CCB.pdf"><strong>18 December 2018 </strong></a></center></th>
+                			<th><center><a href="https://www.emc.ncep.noaa.gov/emc/docs/AQMv5.1-CCB.pdf"><strong>18 December 2018 </strong></a></center></th>
                 			<th>
                 			<p style="text-align: left;">Changes to the NCEP Community Air Quality Model:</p>
                 
@@ -792,7 +792,7 @@ global $browser_title;
                 			</th>
                 		</tr>
                 		<tr>
-                			<th><center><a href="https://www.emc.ncep.noaa.gov/users/Eric.Rogers/documents/OD_Science_Brief_RTMA_v2.7.pdf"><strong>4 December 2018 </strong></a></center></th>
+                			<th><center><a href="https://www.emc.ncep.noaa.gov/emc/docs/OD_Science_Brief_RTMA_v2.7.pdf"><strong>4 December 2018 </strong></a></center></th>
                 			<th style="text-align: left;">Changes to the NCEP Real-time Mesoscale Analysis (RTMA), Unrestricted Real-time Mesoscale Analysis (URMA), Real Time Mesoscale Analysis with Rapid Updates (RTMA-RU), and the RTMA/URMA Precipitation Analysis (PCPANL):
                 			<ol type="1">
                 				<li>The RTMA-RU system latency is improved such that product delivery occurs within 15 minutes of the cycle time.</li>
@@ -819,10 +819,10 @@ global $browser_title;
                 
                 			<center>&nbsp;</center>
                 
-                			<center><a href="https://www.emc.ncep.noaa.gov/users/Eric.Rogers/documents/RAPv4HRRRv3_CCB.pdf"><strong>Technical Briefing </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/emc/docs/RAPv4HRRRv3_CCB.pdf"><strong>Technical Briefing </strong></a></center>
                 			&nbsp;
                 
-                			<center><a href="https://www.emc.ncep.noaa.gov/users/Eric.Rogers/documents/EMC_RAPv4_HRRRv3_OD_Briefing.pdf"><strong>Overview with verification results and stakeholders evaluation </strong></a></center>
+                			<center><a href="https://www.emc.ncep.noaa.gov/emc/docs/EMC_RAPv4_HRRRv3_OD_Briefing.pdf"><strong>Overview with verification results and stakeholders evaluation </strong></a></center>
                 
                 			<center>&nbsp;</center>
                 			</th>
