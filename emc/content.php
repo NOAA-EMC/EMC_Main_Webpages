@@ -129,9 +129,7 @@
 								<ul class="list-group">
                                                                    <li class="list-group-item right-angle-after"><a href="https://www.emc.ncep.noaa.gov/users/EIB/Implementations/HYSPLIT2022OD_v3.pdf">HYSPLIT v8 in October 2022</a></li>
                                                                    <li class="list-group-item right-angle-after">GEFS-Aerosol v12.3 in October 2022</li>
-                                                                   <li class="list-group-item right-angle-after">Great Lakes Wave Model v2.0 in October 2022</li>
                                                                    <li class="list-group-item right-angle-after">GFS v16.3 in January 2023</li>
-                                                                   <li class="list-group-item right-angle-after">NWPS v1.5 in February 2023</li>
 								</ul>
 							</div>
 						</div>
