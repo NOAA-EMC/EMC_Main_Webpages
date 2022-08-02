@@ -41,9 +41,9 @@ global $browser_title;
 
 <ul>
 	<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">RAPv1 - implemented 1 May 2012 at NCEP (replacing the <a href="https://ruc.noaa.gov/ruc"> Rapid Update Cycle - RUC </a> )</span></span></li>
-	<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/RAPV2_NCEP_Director.pdf">RAPv2</a> - implemented 25 Feb 2014 at NCEP</span></span></li>
-	<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><a href="http://www.emc.ncep.noaa.gov/mmb/mmbpll/misc/RAPX_HRRRX_NWS-13sep2016-pub.pdf">RAPv3</a> - implemented 23 Aug 2016 at NCEP </span></span></li>
-	<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><a href="http://www.emc.ncep.noaa.gov/impdoc/RAP/RAPv4HRRRv3_CCB.pdf"> RAPv4 : Implemented on 12 July 2018</a></li>
+	<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><a href="http://www.emc.ncep.noaa.gov/users/mesoimpldocs/RAPV2_NCEP_Director.pdf">RAPv2</a> - implemented 25 Feb 2014 at NCEP</span></span></li>
+	<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><a href="http://www.emc.ncep.noaa.gov/users/mesoimpldocs/RAPX_HRRRX_NWS-13sep2016-pub.pdf">RAPv3</a> - implemented 23 Aug 2016 at NCEP </span></span></li>
+	<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><a href="http://www.emc.ncep.noaa.gov/users/mesoimpldocs/RAP/RAPv4HRRRv3_CCB.pdf"> RAPv4 : Implemented on 12 July 2018</a></li>
         <li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><a href="https://www.emc.ncep.noaa.gov/users/meg/rapv5_hrrrv4/updates/EMC_RAPv5_HRRRv4_OD_Brief.pptx">RAPv5 - Implemented on 2 December 2020</a></font></span></span></li>
 </ul>
 
