@@ -238,7 +238,7 @@
         <td>50</td>
         <td>N. America</td>
         <td>60-h (00,12z); 48-h (06,18z)</td>
-        <td><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/mesoimpl/eta22tpb/">NWS TPB</a></td>
+        <td><a href="https://www.emc.ncep.noaa.gov/users/mesoimpldocs/mesoimpl/eta22tpb/">NWS TPB</a></td>
         <td>1/2005 (2002)</td>
         <td>4</td>
     </tr>
@@ -274,7 +274,7 @@
         <td>60</td>
         <td>N. America</td>
         <td>84-h (00/12z); 48-h (06/18z)</td>
-        <td><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/mesoimpl/eta12tpb/">EMC Doc</a></td>
+        <td><a href="https://www.emc.ncep.noaa.gov/users/mesoimpldocs/mesoimpl/eta12tpb/">EMC Doc</a></td>
         <td>1/2005 (2003)</td>
         <td>4</td>
     </tr>
@@ -298,7 +298,7 @@
         <td>60</td>
         <td>East/West/Cent. CONUS, AK, HI, WRF-NMM replaces Eta model</td>
         <td>48-h</td>
-        <td><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/mesoimpl/CAFTI.feb2002/CAFTI.feb2002.html">EMC Doc</a></td>
+        <td><a href="https://www.emc.ncep.noaa.gov/users/mesoimpldocs/mesoimpl/CAFTI.feb2002/CAFTI.feb2002.html">EMC Doc</a></td>
         <td>Still (2005)</td>
         <td>4</td>
     </tr>
@@ -370,7 +370,7 @@
         <td>60 (Eta); 28 (RSM); 50 (WRF-NMM); 35 (WRF-ARW)  </td>
         <td>N. America</td>
         <td>87-h; 21 mbrs (10 Eta, 5 RSM, 3 NMM, 3 ARW)</td>
-        <td><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/mesoimpl/SREF-Nov2005b/SREF-Nov2005b.html">EMC Doc</a></td>
+        <td><a href="https://www.emc.ncep.noaa.gov/users/mesoimpldocs/mesoimpl/SREF-Nov2005b/SREF-Nov2005b.html">EMC Doc</a></td>
         <td>Still (2006)</td>
         <td>2</td>
     </tr>
@@ -442,7 +442,7 @@
         <td>35</td>
         <td>West/East CONUS, AK, HI, PR</td>
         <td>48h</td>
-        <td><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/mesoimpl/hiresw2007/HiResWindow_2007.html">EMC Doc</a></td>
+        <td><a href="https://www.emc.ncep.noaa.gov/users/mesoimpldocs/mesoimpl/hiresw2007/HiResWindow_2007.html">EMC Doc</a></td>
         <td>Still (2011)</td>
         <td>4</td>
     </tr>
