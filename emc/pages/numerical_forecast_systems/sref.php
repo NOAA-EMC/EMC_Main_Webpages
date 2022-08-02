@@ -81,7 +81,7 @@ global $browser_title;
 <table border="">
 	<tbody>
 		<tr>
-			<td><font size="5"><a href="http://www.emc.ncep.noaa.gov/mmb/SREF/SREFv7_implementationBriefing.pdf">Oct. 21, 2015 SREF Upgrade</a></font></td>
+			<td><font size="5"><a href="http://www.emc.ncep.noaa.gov/users/mesoimpldocs/SREFv7_implementationBriefing.pdf">Oct. 21, 2015 SREF Upgrade</a></font></td>
 			<td><font size="5"><a href="https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/nam/references.php">Past Upgrades</a></font></td>
 			<td><font size="5"><a href="http://www.emc.ncep.noaa.gov/mmb/SREF/reference.html">References</a></font></td>
 		</tr>
