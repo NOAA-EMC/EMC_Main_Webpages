@@ -1473,7 +1473,7 @@ global $browser_title;
                 					</li>
                 					<li>Correct GFS physics in 2 NMMB members to produce compatible cloud &amp; ceiling guidance with the rest of SREF members</li>
                 					<li>Fix post-processor to remove use of snow in diagnosing cloud base height</li>
-                					<li>Correct a mapping bug (eastward shift) in NMM member�s pressure-grib output files</li>
+                					<li>Correct a mapping bug (eastward shift) in NMM members pressure-grib output files</li>
                 					<li>Use the model lowest-level values for the 2m T, Td q, RH and 10m u and v fields for the 7 NMMB members at initial time f00; these fields do not have correct values in the current operational SREF.</li>
                 					<li>Switch the hypsometric option in the ARW model back to the version in the original wrf3.3 version from option 2 (height is derived from log pressure) to option 1 (derived from pressure); this will make the model more reliable.</li>
                 					<li>New output products:
@@ -1615,7 +1615,7 @@ global $browser_title;
                 						<li>Diversity in land surface initial states (NDAS, GFS, and RAP).</li>
                 					</ol>
                 					</li>
-                					<li>More diversity of phyiscs schemes (flavors from NAM, GFS, NCAR, and RAP)</li>
+                					<li>More diversity of physics schemes (flavors from NAM, GFS, NCAR, and RAP)</li>
                 					<li>New capabilities of post-processing and product generation:
                 					<ol type="a">
                 						<li>Precipitation bias correction (individual members and ensemble mean)</li>
@@ -1649,7 +1649,7 @@ global $browser_title;
                 					<li>Increase in domain coverage compared to the RUC, including Alaska and the Caribbean basin and almost all of North America.</li>
                 					<li>Use of the WRF modeling framework, with the Advanced Research WRF (ARW) forecast model with RUC physics.</li>
                 					<li>Major upgrades to the prediction model (updated versions of the cloud microphysics, Grell convection, and RUC land-surface schemes)</li>
-                					<li>Modifcations to the data analysis and assimilation system:
+                					<li>Modifications to the data analysis and assimilation system:
                 					<ol>
                 						<li>Begin use of Grid-point Statistical Interpolation (GSI) analysis</li>
                 						<li>Assimilate satellite radiances (including AMSU-A and AMSU-B)</li>
@@ -1784,7 +1784,7 @@ global $browser_title;
                 					<ol type="a">
                 						<li>Extended assimilation time window (+/-30 min; 5 km RTMA uses +/-12 min)</li>
                 						<li>Use First Guess at the Appropriate Time (FGAT)</li>
-                						<li>Apply sequential bias-correcton algorithm for background temperature</li>
+                						<li>Apply sequential bias-correction algorithm for background temperature</li>
                 						<li>Improved quality control</li>
                 						<li>Add ocean surface WindSat and ASCAT winds and low-level satellite drift winds</li>
                 					</ol>
@@ -1871,7 +1871,7 @@ global $browser_title;
                 					<li>Four new aviation products are added:
                 					<ol type="a">
                 						<li>Icing (probability products only)</li>
-                						<li>Clear air turbulance (probability products only)</li>
+                						<li>Clear air turbulence (probability products only)</li>
                 						<li>Ceiling (mean and probability products)</li>
                 						<li>Flight restriction (probability products only)</li>
                 					</ol>
@@ -1899,7 +1899,7 @@ global $browser_title;
                 				<ol type="1">
                 					<li>Introducing the NESDIS snow analysis to eliminate snow cover at model points where the analysis indicates no snow is present. The new code will introduce the NESDIS analysis once per day at 1900 UTC and will eliminate snow cover at any point where 1) the analysis shows no snow, 2) the model surface temperature is above 274 K, and 3) no precipitation has fallen during the previous one hour forecast.</li>
                 					<li>Changing the call to the analysis of cloud data so it occurs near the end of the analysis process. This will prevent non- cloud observations from causing subsaturation at grid points where clouds exists. A final check is made to make certain that any grid point with analyzed cloud is saturated.</li>
-                					<li>Modifications to the code to allow GOES satellite cloud data to supercede any METAR report of clear skies.</li>
+                					<li>Modifications to the code to allow GOES satellite cloud data to supersede any METAR report of clear skies.</li>
                 				</ol>
                 				</li>
                 			</ul>
@@ -1942,9 +1942,9 @@ global $browser_title;
                 					<li>The background for the first (tm12) analysis in each NDAS run is now from the GDAS instead of the previous NDAS run (so-called "partial cycling"). Land states are still fully cycled from the previous NDAS cycle.</li>
                 					<li>WRF-NMM Model changes (also implemented into the DGEX):
                 					<ol type="a">
-                						<li>The PBL/turbulance schemes were modified to mix each hydrometeor species in the vertical.</li>
+                						<li>The PBL/turbulence schemes were modified to mix each hydrometeor species in the vertical.</li>
                 						<li>To apply vertical diffusion for separate water species, the model was changed so that (a) it can apply vertical diffusion to an arbitrary number of species, (b) the counter gradient option can be applied to some or all of the species if desired, and (c) option to set to zero some or all of the surface fluxes is also made available.</li>
-                						<li>In the radiation parameterization, the absorbtion coefficients for water and ice have been doubled to 1600 and 1000, respectively</li>
+                						<li>In the radiation parameterization, the absorption coefficients for water and ice have been doubled to 1600 and 1000, respectively</li>
                 						<li>Changes to land-sfc physics:
                 						<ol type="a">
                 							<li>Let the potential evaporation decrease linearly with Bulk Richardson number under stable condition, and weighted by snow coverage.</li>
@@ -1999,7 +1999,7 @@ global $browser_title;
                 						<li>Change the longwave radiative scheme from Dudhia to Rapid Radiative Transfer Model (RRTM)</li>
                 						<li>Modify the snow component of the land-surface model to avoid excessively cold temperatures over fresh snow at night as well as during warm advection events over snow cover</li>
                 						<li>Modify the convective scheme to reduce the excessive generation of light precipitation areas.</li>
-                						<li>Specify three-dimensional latent heating in the diabtic digital filter initialization.</li>
+                						<li>Specify three-dimensional latent heating in the diabatic digital filter initialization.</li>
                 					</ol>
                 					</li>
                 					<li>Changes to the RUC post-processing:
@@ -2074,7 +2074,7 @@ global $browser_title;
                 					<ol type="a">
                 						<li>Run with WRF-NMM V2.2 code (August 2007 Repository version) with IJK array indexing</li>
                 						<li>Use gravity wave drag/mountain blocking. Run with SIGFAC=0: gravity wave drag responds only to ELEVMAX, the maximum elevation within the grid box only. No further inflation is done based on the standard deviation of the 30" heights in the grid box.</li>
-                						<li>Use new Unified (with NCAR) Land-Surface Physics module. This module now uses total soil moisture rather than liquid soil moisture (as in the previous NCEP/noahlsm) to determine bare-soil evaporation, which results in greater moisture fluxes (and thus higher near-surface dew point temperatures) over regions of frozen, bare soil with patchy or no snow cover.</li>
+                						<li>Use new Unified (with NCAR) Land-Surface Physics module. This module now uses total soil moisture rather than liquid soil moisture (as in the previous NCEP/noah-lsm) to determine bare-soil evaporation, which results in greater moisture fluxes (and thus higher near-surface dew point temperatures) over regions of frozen, bare soil with patchy or no snow cover.</li>
                 						<li>Use of new passive advection with the requirement for exact conservation of specific humidity, TKE, and cloud water relaxed in the advection step. The exact conservation is still required in the antifiltering step following the advection step.</li>
                 						<li>Stratospheric ozone fix in the computation of latitude: the error led to using climatological ozone values valid at the equator at all latitudes.</li>
                 						<li>Remove two modifications to longwave radiation made for the June 2006 WRF-in-NAM implementation
@@ -2165,7 +2165,7 @@ global $browser_title;
                 					</li>
                 					<li>WRF-ARW
                 					<ol type="a">
-                						<li>Upgrade from WRF version 1.3 to WRF verison 2.2</li>
+                						<li>Upgrade from WRF version 1.3 to WRF version 2.2</li>
                 						<li>Increase resolution from 5.8 km to 5.1 km</li>
                 					</ol>
                 					</li>
@@ -2206,9 +2206,9 @@ global $browser_title;
                 			<ul>
                 				<li>Changes to the Real-time Mesoscale Analysis (RTMA):
                 				<ol type="1">
-                					<li>Tuned observation and background error covariances for improved fit to obervations</li>
+                					<li>Tuned observation and background error covariances for improved fit to observations</li>
                 					<li>Reduced spatial scales of anisotropic filter to allow the for better resolution of mesoscale features</li>
-                					<li>Elevation gradient near coastlines made artifically large to onbain sharper background error covriances, which reduced influence of coastal land stations on the analysis of temperatures over water.</li>
+                					<li>Elevation gradient near coastlines made artifically large to obbain sharper background error covariances, which reduced influence of coastal land stations on the analysis of temperatures over water.</li>
                 				</ol>
                 				</li>
                 			</ul>
@@ -2381,7 +2381,7 @@ global $browser_title;
                 					</li>
                 					<li>Data assimilation changes:
                 					<ol type="a">
-                						<li>Turn off nudging of temperature, mositure and cloud during assimiltion of observed precipitation, but continue use of bias-corrected observed precipitation analysis to drive the WRF-NMM land-surface physics</li>
+                						<li>Turn off nudging of temperature, moisture and cloud during assimiltion of observed precipitation, but continue use of bias-corrected observed precipitation analysis to drive the WRF-NMM land-surface physics</li>
                 						<li>Begin use of new observation types: WSR-88D Level II radial wind data, GPS-Integrated Precipitable Water (IPW) data, and NOAA-18 radiances.</li>
                 						<li>Drop use of GOES and SSM/I Precipitable Water retrievals</li>
                 					</ol>
@@ -2491,7 +2491,7 @@ global $browser_title;
                 			<ul>
                 				<li>Changes to NE US Air Quality Model run:
                 				<ol>
-                					<li>PREMAQ updated to use NAM-12 1 km landuse data</li>
+                					<li>PREMAQ updated to use NAM-12 1 km land-use data</li>
                 					<li>Minor CMAQ updates to version 4.4</li>
                 					<li>2002 Point/Area Source Emissions projected for 2005</li>
                 					<li>Updated Mobile 6 source emissions</li>
@@ -2575,7 +2575,7 @@ global $browser_title;
                 					<ol type="a">
                 						<li>The "masked" horizontal interpolation of SST data was generating spurious 290K temperatures over parts of the Arctic Ocean, leading to unrealistically warm near-surface temperatures.</li>
                 						<li>Native-grid GRIB output from the HI and PR WRF-ARW runs were being labeled as Lambert Conformal, when the integration domain is actually Mercator. Improper hardwiring of the map type to a Lambert Conformal projection was removed from, and the problem that necessitated the hardwiring was eliminated.</li>
-                						<li>Made modifications so an initial snowcover would be properly defined within the WRF-ARW.</li>
+                						<li>Made modifications so the initial snow cover would be properly defined within the WRF-ARW.</li>
                 						<li>Definition of sea-ice points are changed from water to land, and the Land-sfc physics can now handle sea-ice properly</li>
                 					</ol>
                 					</li>
@@ -2590,7 +2590,7 @@ global $browser_title;
                 					<ol type="a">
                 						<li>The reduced sea-level pressure in the WRF-ARW was in poor agreement with the initializing Eta model data at the initial time (up to 5 hPa too low relative to the Eta), and would continue to have a low bias through the forecast period. A moisture component of pressure that is subtracted out during initialization of the WRF-ARW was added back in the post.</li>
                 						<li>Fixes which ensure that output from both WRF cores will produce bit-identical answers regardless of the number of processors applied to the task.</li>
-                						<li>Modified two routines to process properly the snow and snowcover fields now coming out of the WRF-ARW.</li>
+                						<li>Modified two routines to process properly the snow and snow cover fields now coming out of the WRF-ARW.</li>
                 					</ol>
                 					</li>
                 				</ol>
@@ -2774,10 +2774,13 @@ global $browser_title;
                 			</td>
                 			<td>
                 			<ul>
-                				<li>Use of daily gauge data for precipitation assimilation bias adjustment</li>
-                				<li>Assimilation of GOES cloud top radiances</li>
-                				<li>Eta Land-surface model precipitation type now based on model microphysics</li>
-                				<li>Post-processing changes</li>
+                                                <li>Eta Model/Analysis Changes
+                                                <ol>
+                				  <li>Use of daily gauge data for precipitation assimilation bias adjustment</li>
+                				  <li>Assimilation of GOES cloud top radiances</li>
+                				  <li>Eta Land-surface model precipitation type now based on model microphysics</li>
+                				  <li>Post-processing changes</li>
+                                                </ol>
                 			</ul>
                 			</td>
                 		</tr>
@@ -2870,9 +2873,12 @@ global $browser_title;
                 			</td>
                 			<td>
                 			<ul>
-                				<li>Increased horizontal and vertical resolution from 22 km/50 levels to 12 km/60 levels</li>
-                				<li>New cloud microphysics scheme</li>
-                				<li>Improvements to the 3DVAR initialization</li>
+                                                <li>Eta Model/Analysis Changes
+                                                <ol>
+                				  <li>Increased horizontal and vertical resolution from 22 km/50 levels to 12 km/60 levels</li>
+                				  <li>New cloud microphysics scheme</li>
+                				  <li>Improvements to the 3DVAR initialization</li>
+                                                </ol>
                 			</ul>
                 			</td>
                 		</tr>
@@ -2884,9 +2890,12 @@ global $browser_title;
                 			</td>
                 			<td>
                 			<ul>
-                				<li>Eta 3DVAR analysis modified for improved mass-wind balance constraint</li>
-                				<li>Assimilation of the 4-km NCEP National Precipitation Analysis (stage II) in the EDAS</li>
-                				<li>Extensive modifications to the Eta model land-surface physics (NOAH LSM version 2.3</li>
+                                                <li>Eta Model/Analysis Changes
+                                                <ol>
+                				  <li>Eta 3DVAR analysis modified for improved mass-wind balance constraint</li>
+                				  <li>Assimilation of the 4-km NCEP National Precipitation Analysis (stage II) in the EDAS</li>
+                				  <li>Extensive modifications to the Eta model land-surface physics (NOAH LSM version 2.3</li>
+                                                </ol>
                 			</ul>
                 			</td>
                 		</tr>
@@ -3009,7 +3018,7 @@ global $browser_title;
                 				<ol type="1">
                 					<li>Increase horizontal resolution from 80 km to 48 km</li>
                 					<li>Early Eta initialized from a 12-h intermittent data assimilation system (Eta Data Assimilation System, or EDAS) with 3 hourly analysis update. First EDAS analysis at 12-h prior to cycle time uses GDAS as a first guess</li>
-                					<li>Assimilate SSM/I precipitatble water data in Eta OI analysis</li>
+                					<li>Assimilate SSM/I precipitable water data in Eta OI analysis</li>
                 					<li>Use 0.5 deg lat/lon SST analysis from NESDIS, merged with a 14-km analysis over the Great Lakes provided by GLERL</li>
                 				</ol>
                 				</li>
@@ -3025,7 +3034,7 @@ global $browser_title;
                 				<li>Initial implementation of the 29 km/50 level "Meso" Eta forecast over the CONUS
                 				<ol type="1">
                 					<li>Run from 03z/15z initial conditions, forecast length = 33-h</li>
-                					<li>Initialzied by a 3-h "mini" data assimilation: use GDAS first guess valid 00z/12z as first guess, perform a 29 km Eta OI analysis, run a 3-h Meso Eta forecast to 03z/15z, use this Meso Eta forecast as first guess to the 03z/15z Eta OI analysis</li>
+                					<li>Initialized by a 3-h "mini" data assimilation: use GDAS first guess valid 00z/12z as first guess, perform a 29 km Eta OI analysis, run a 3-h Meso Eta forecast to 03z/15z, use this Meso Eta forecast as first guess to the 03z/15z Eta OI analysis</li>
                 				</ol>
                 				</li>
                 			</ul>
@@ -3062,7 +3071,7 @@ global $browser_title;
                 			</td>
                 			<td>
                 			<ul>
-                				<li>Limited-area Fine Mesh (LFM) model replaced with 80 km/38 level Eta model ("Early Eta"), initialzed with the Eta OI analysis using the GDAS as a first guess</li>
+                				<li>Limited-area Fine Mesh (LFM) model replaced with 80 km/38 level Eta model ("Early Eta"), initialized with the Eta OI analysis using the GDAS as a first guess</li>
                 			</ul>
                 			</td>
                 		</tr>
