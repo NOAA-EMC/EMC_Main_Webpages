@@ -109,8 +109,9 @@
 								<img src="emc/images/news_caption/hurricane_eye_resize.gif"/>
 								<h4>Latest News/Events</h4>
 								<ul class="list-group">
-									<li class="list-group-item right-angle-after"><a href=https://www.weather.gov/media/ncep/pdf/NCEP_Strategic_Plan_2022-2027.pdf">NCEP Strategic Implementation Plan : 2022-2027+</a>.</li>
-									<li class="list-group-item right-angle-after"><a href=https://epic.noaa.gov/get-code/short-range-weather/?#srw">Public Release of UFS Short Range Weather Application v2.0</a>.</li>
+									<li class="list-group-item right-angle-after"><a href="https://www.emc.ncep.noaa.gov/emc/pages/news/emcnews.php">Two Prestigious Items of Recognition for EMC MDAB Chief Dr. Vijay Tallapragada</a>.</li>
+									<li class="list-group-item right-angle-after"><a href="https://www.weather.gov/media/ncep/pdf/NCEP_Strategic_Plan_2022-2027.pdf">NCEP Strategic Implementation Plan : 2022-2027+</a>.</li>
+									<li class="list-group-item right-angle-after"><a href="https://epic.noaa.gov/get-code/short-range-weather/?#srw">Public Release of UFS Short Range Weather Application v2.0</a>.</li>
 									<li class="list-group-item right-angle-after"><a href="https://sciencecouncil.noaa.gov/Council-Products/NOAA-Science-Report">NOAA 2021 Science Report </a>.</li>
 									<li class="list-group-item right-angle-after"><a href="https://www.emc.ncep.noaa.gov/emc/pages/model_history/modeltables/modelTable.php">JNWPU/NMC/NCEP Model History: 1955-Present </a>.</li>
 									<li class="list-group-item right-angle-after"><a href="https://ufscommunity.org/wp-content/uploads/2022/01/Bulletin_UFS_Community_December_2021.pdf">UFS Community July-December 2021 Bulletin</a></li>
@@ -118,7 +119,6 @@
 									<li class="list-group-item right-angle-after"><a href="https://www.weather.gov/careers/physical-science-fanglin-yang">MDAB-Physics Lead Dr. Fanglin Yang profiled in the "Faces of the National Weather Service" web site</a></li>
 									<li class="list-group-item right-angle-after"><a href="https://www.noaa.gov/media-release/noaa-upgrades-flagship-us-global-weather-model">NOAA News Release on Global Forecast System Version 16 Implementation</a></li>
 									<li class="list-group-item right-angle-after"><a href="https://www.weather.gov/news/210403-ufs">Public release of the Unified Forecast System Short-Range Weather Application v1.0</a></li>
-									<li class="list-group-item right-angle-after"><a href="http://www.weather.gov/exit?url=https://www.jcsda.org/jedi-fv3-release">The Joint Center for Satellite Data Assimilation announces the first public release of JEDI-FV3</a></li>
 								</ul>
 									
 							</div>
