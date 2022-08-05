@@ -118,7 +118,6 @@
 									<li class="list-group-item right-angle-after"><a href="https://www.youtube.com/watch?v=rA_Bzc5hk8g">NOAA : Meeting the Moment</a></li>
 									<li class="list-group-item right-angle-after"><a href="https://www.weather.gov/careers/physical-science-fanglin-yang">MDAB-Physics Lead Dr. Fanglin Yang profiled in the "Faces of the National Weather Service" web site</a></li>
 									<li class="list-group-item right-angle-after"><a href="https://www.noaa.gov/media-release/noaa-upgrades-flagship-us-global-weather-model">NOAA News Release on Global Forecast System Version 16 Implementation</a></li>
-									<li class="list-group-item right-angle-after"><a href="https://www.weather.gov/news/210403-ufs">Public release of the Unified Forecast System Short-Range Weather Application v1.0</a></li>
 								</ul>
 									
 							</div>
