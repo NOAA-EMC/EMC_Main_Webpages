@@ -317,6 +317,18 @@
     <tr>
         <td>2004</td>
         <td>R</td>
+        <td>Downscaled GFS with Eta Extension (DGEX)</td>
+        <td>12 km</td>
+        <td>60</td>
+        <td>CONUS and Alaska</td>
+        <td>84-192 h</td>
+        <td></td>
+        <td>3/2017 (2006)</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>2004</td>
+        <td>R</td>
         <td>CMAQ (Air Quality model)</td>
         <td>12 km</td>
         <td>22</td>
