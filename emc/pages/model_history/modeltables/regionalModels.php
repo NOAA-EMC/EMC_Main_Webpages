@@ -431,7 +431,7 @@
         <td>CONUS+AK</td>
         <td>NAM extention; 84-192h</td>
         <td><a href="https://www.weather.gov/media/notification/tins/tin05-68aab_eta_replcemnt.pdf">NWS TIN</a></td>
-        <td>3/2017</td>
+        <td>3/2017 (2011) </td>
         <td>2 for each domain</td>
     </tr>
     <tr>
