@@ -1261,11 +1261,11 @@ formation of the the JNWPU in 1955. Separate tables are available for <a href=".
         <td>High-Resolution Window (HiResW)</td>
         <td>8 km</td>
         <td>60</td>
-        <td>East/West/Cent. CONUS, AK, HI, WRF-NMM replaces Eta model</td>
+        <td>East/West/Cent. CONUS, AK, HI, Non-Hydrostatic Meso Model (NMM) replaces Eta model</td>
         <td>48-h</td>
-        <td><a href="https://www.emc.ncep.noaa.gov/users/mesoimpldocs/mesoimpl/CAFTI.feb2002/CAFTI.feb2002.html2">EMC Doc</a></td>
+        <td><a href="https://www.emc.ncep.noaa.gov/users/mesoimpldocs/mesoimpl/CAFTI.feb2002/CAFTI.feb2002.html">EMC Doc</a></td>
         <td>IBM Class 9, Phase 1 (Frost, Snow, 2.5 teraflops)</td>
-        <td>Still (2005)</td>
+        <td>Still (2004)</td>
         <td>4</td>
     </tr>
     <tr>
@@ -1425,6 +1425,19 @@ formation of the the JNWPU in 1955. Separate tables are available for <a href=".
         <td>2 (06z, 12z)</td>
     </tr>
     <tr>
+        <td>2004</td>
+        <td>R</td>
+        <td>High-Resolution Window (HiResW)</td>
+        <td>8 km</td>
+        <td>60</td>
+        <td>East/West/Central CONUS, AK, HI, PR; NMM replaced by WRF-NMM and WRF-ARW</td>
+        <td>48-h</td>
+        <td><a href="https://www.emc.ncep.noaa.gov/users/mesoimpldocs/mesoimpl/wrftest/WRF-HRW-Readiness-Rev-13Sep04.htm">EMC Doc</a></td>
+        <td></td>
+        <td>Still (2007)</td>
+        <td>4</td>
+    </tr>
+    <tr>
         <td>2005</td>
         <td>R</td>
         <td>North American Mesoscale (NAM, formerly Eta)</td>
@@ -1432,6 +1445,7 @@ formation of the the JNWPU in 1955. Separate tables are available for <a href=".
         <td>60</td>
         <td>N. America</td>
         <td>84-h</td>
+        <td><a href="https://www.emc.ncep.noaa.gov/users/mesoimpldocs/Spring2005.NAMUpgrade.pdf">EMC Doc</a></td>
         <td></td>
         <td></td>
         <td>Still (2006)</td>
@@ -1603,7 +1617,7 @@ formation of the the JNWPU in 1955. Separate tables are available for <a href=".
         <td>NAM extention; 84-192h</td>
         <td><a href="https://www.weather.gov/media/notification/tins/tin05-68aab_eta_replcemnt.pdf">NWS TIN</a></td>
         <td></td>
-        <td>3/2017</td>
+        <td>3/2017 (2011) </td>
         <td>2 for each domain</td>
     </tr>
     <tr>
@@ -1956,6 +1970,19 @@ formation of the the JNWPU in 1955. Separate tables are available for <a href=".
         <td></td>
         <td>Still (2014)</td>
         <td>4</td>
+    </tr>
+    <tr>
+        <td>2011</td>
+        <td>R</td>
+        <td>DGEX; NEMS-NMMB replaced WRF-NMM</td>
+        <td>12km</td>
+        <td>60</td>
+        <td>CONUS+AK</td>
+        <td>NAM extention; 84-192h</td>
+        <td><a href="https://www.weather.gov/media/notification/tins/tin11-16nam_changes_aad.pdf">NWS TIN</a></td>
+        <td></td>
+        <td>3/2017</td>
+        <td>2 for each domain</td>
     </tr>
     <tr>
         <td>2011</td>
