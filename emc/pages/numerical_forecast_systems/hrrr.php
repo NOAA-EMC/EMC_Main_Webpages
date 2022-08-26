@@ -56,7 +56,7 @@ The <a href="http://rapidrefresh.noaa.gov/hrrr/">HRRR web site at ESRL</a> has h
 	<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><font color="red"><b><a href="https://www.emc.ncep.noaa.gov/users/meg/rapv5_hrrrv4/updates/EMC_RAPv5_HRRRv4_OD_Brief.pptx">HRRRv4 - 2 December 2020</a> </b></font></span></span></li>
 </ul>
 
-<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><big>The December 2, 2020 implementation will be the last HRRR upgrade at NCEP. Development is underway on the future Rapid Refresh Forecast System (RRFS), a convection-allowing ensemble forecast system with this projected configuration:</span></span></p>
+<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><big>The December 2, 2020 implementation was the last HRRR upgrade at NCEP. Development is underway on the future Rapid Refresh Forecast System (RRFS), a convection-allowing ensemble forecast system with this projected configuration:</span></span></p>
 <p>
 <ul type=disk>
 <li> Based on the limited area FV3 dynamic core
@@ -67,7 +67,7 @@ The <a href="http://rapidrefresh.noaa.gov/hrrr/">HRRR web site at ESRL</a> has h
 <li> 36-60 h forecast every 6 hours
 </ul>
 <p>
-<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><big>The RRFS is intended to facilitate the replacement of all current mesoscale systems in NCEP Production: NAM/NAM nests, RAP/HRRR, and HiResW/HREF in ~2023.</span></span></p>
+<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><big>The RRFS is intended to facilitate the replacement of all current mesoscale systems in NCEP Production: NAM/NAM nests, RAP/HRRR, and HiResW/HREF in ~2024.</span></span></p>
 
 
 <p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><big>A chronological listing from 1993-present of all EMC Mesoscale Model upgrades, including all RUC/RAP/HRRR implementations, can be found at the <a href="https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/nam/references.php#TAB4">EMC Mesoscale Model reference web site</a>. </big></span></span></p>

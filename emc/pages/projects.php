@@ -35,8 +35,8 @@
 								<div class="col-lg-6">
                                     <ul class="list-group">
                                     	<li class="list-group-item">
-                                    	<h5><span style="font-size:20px;"><span style="font-family:arial,helvetica,sans-serif;"><a class="read-more-link" href="https://www.weather.gov/sti/stimodeling_airquality">National Air Quality Forecast Capability (NAQFC)</a></span></span></h5>
-                                    	<span> <a href="https://www.weather.gov/sti/stimodeling_airquality"><img alt="" src="https://www.weather.gov/images/sti/aq/aq_image.jpg" width="300" height="200"></a> </span>&nbsp;&nbsp;</li>
+                                    	<h5><span style="font-size:20px;"><span style="font-family:arial,helvetica,sans-serif;"><a class="read-more-link" href="https://vlab.noaa.gov/web/osti-modeling/air-quality">National Air Quality Forecast Capability (NAQFC)</a></span></span></h5>
+                                    	<span> <a href="https://vlab.noaa.gov/web/osti-modeling/air-quality"><img alt="" src="https://www.weather.gov/images/sti/aq/aq_image.jpg" width="300" height="200"></a> </span>&nbsp;&nbsp;</li>
                                     </ul>
                                     </div>
                                     

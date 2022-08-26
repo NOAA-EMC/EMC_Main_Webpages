@@ -40,14 +40,14 @@ global $browser_title;
 <p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">RAP History at NCEP:</span></span></p>
 
 <ul>
-	<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">RAPv1 - implemented 1 May 2012 at NCEP (replacing the <a href="https://ruc.noaa.gov/ruc"> Rapid Update Cycle - RUC </a> )</span></span></li>
+	<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><a href="https://www.emc.ncep.noaa.gov/users/mesoimpldocs/RAPbrief.NCEP-Dir-20Mar2012.pdf">RAPv1</a> - implemented 1 May 2012 at NCEP (replacing the <a href="https://ruc.noaa.gov/ruc"> Rapid Update Cycle - RUC </a> )</span></span></li>
 	<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><a href="http://www.emc.ncep.noaa.gov/users/mesoimpldocs/RAPV2_NCEP_Director.pdf">RAPv2</a> - implemented 25 Feb 2014 at NCEP</span></span></li>
 	<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><a href="http://www.emc.ncep.noaa.gov/users/mesoimpldocs/RAPX_HRRRX_NWS-13sep2016-pub.pdf">RAPv3</a> - implemented 23 Aug 2016 at NCEP </span></span></li>
 	<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><a href="http://www.emc.ncep.noaa.gov/users/mesoimpldocs/RAP/RAPv4HRRRv3_CCB.pdf"> RAPv4 : Implemented on 12 July 2018</a></li>
         <li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><a href="https://www.emc.ncep.noaa.gov/users/meg/rapv5_hrrrv4/updates/EMC_RAPv5_HRRRv4_OD_Brief.pptx">RAPv5 - Implemented on 2 December 2020</a></font></span></span></li>
 </ul>
 
-<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">The December 2, 2020 implementation will be the last RAP upgrade at NCEP. Development is underway on the future Rapid Refresh Forecast System (RRFS), a convection-allowing ensemble forecast system with this projected configuration:</span></span></p>
+<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">The December 2, 2020 implementation was the last RAP upgrade at NCEP. Development is underway on the future Rapid Refresh Forecast System (RRFS), a convection-allowing ensemble forecast system with this projected configuration:</span></span></p>
 <p>
 <ul type=disk>
 <li> Based on the limited area FV3 dynamic core
@@ -58,7 +58,7 @@ global $browser_title;
 <li> 36-60 h forecast every 6 hours
 </ul>
 <p>
-<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">The RRFS is intended to facilitate the replacement of all current mesoscale systems in NCEP Production: NAM/NAM nests, RAP/HRRR, and HiResW/HREF in ~2023.</span></span></p>
+<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">The RRFS is intended to facilitate the replacement of all current mesoscale systems in NCEP Production: NAM/NAM nests, RAP/HRRR, and HiResW/HREF in ~2024.</span></span></p>
 
 <p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">A chronological listing from 1993-present of all EMC Mesoscale Model upgrades, including all RUC/RAP/HRRR implementations, can be found at the <a href="https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/nam/references.php#TAB4">EMC Mesoscale Model reference web site</a>. </span></span></p>
 
