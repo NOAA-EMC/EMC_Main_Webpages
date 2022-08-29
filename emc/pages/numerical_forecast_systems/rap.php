@@ -50,7 +50,7 @@ global $browser_title;
 	<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><a href="http://www.emc.ncep.noaa.gov/users/mesoimpldocs/RAPV2_NCEP_Director.pdf">RAPv2</a> - implemented 25 Feb 2014 at NCEP</span></span></li>
 	<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><a href="http://www.emc.ncep.noaa.gov/users/mesoimpldocs/RAPX_HRRRX_NWS-13sep2016-pub.pdf">RAPv3</a> - implemented 23 Aug 2016 at NCEP </span></span></li>
 	<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><a href="http://www.emc.ncep.noaa.gov/users/mesoimpldocs/RAP/RAPv4HRRRv3_CCB.pdf"> RAPv4 : Implemented on 12 July 2018</a></li>
-        <li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><a href="https://www.emc.ncep.noaa.gov/users/meg/rapv5_hrrrv4/updates/EMC_RAPv5_HRRRv4_OD_Brief.pptx">RAPv5 - Implemented on 2 December 2020</a></font></span></span></li>
+        <li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><a href="https://www.emc.ncep.noaa.gov/users/meg/rapv5_hrrrv4/">RAPv5 - Implemented on 2 December 2020</a></font></span></span></li>
 </ul>
 
 <p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">The December 2, 2020 implementation was the last RAP upgrade at NCEP. Development is underway on the future Rapid Refresh Forecast System (RRFS), a convection-allowing ensemble forecast system with this projected configuration:</span></span></p>

@@ -62,7 +62,7 @@ The <a href="http://rapidrefresh.noaa.gov/hrrr/">HRRR web site at the NOAA Globa
 	<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><a href="http://www.emc.ncep.noaa.gov/users/mesoimpldocs/HRRR_EMC_NCEPDirector_Briefing.pdf">HRRRv1</a> - 30 Sept 2014</span></span></li>
 	<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><a href="http://www.emc.ncep.noaa.gov/users/mesoimpldocs/RAPX_HRRRX_NWS-13sep2016-pub.pdf">HRRRv2</a> - 23 Aug 2016 <font color="red"><b> </b></font></span></span></li>
 	<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><font color="red"><b><a href="http://www.emc.ncep.noaa.gov/users/mesoimpldocs/EMC_RAPv4_HRRRv3_OD_Briefing.pdf">HRRRv3 - 12 July 2018</a> </b></font></span></span></li>
-	<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><font color="red"><b><a href="https://www.emc.ncep.noaa.gov/users/meg/rapv5_hrrrv4/updates/EMC_RAPv5_HRRRv4_OD_Brief.pptx">HRRRv4 - 2 December 2020</a> </b></font></span></span></li>
+	<li><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><font color="red"><b><a href="https://www.emc.ncep.noaa.gov/users/meg/rapv5_hrrrv4/">HRRRv4 - 2 December 2020</a> </b></font></span></span></li>
 </ul>
 
 <p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><big>The December 2, 2020 implementation was the last HRRR upgrade at NCEP. Development is underway on the future Rapid Refresh Forecast System (RRFS), a convection-allowing ensemble forecast system with this projected configuration:</span></span></p>
