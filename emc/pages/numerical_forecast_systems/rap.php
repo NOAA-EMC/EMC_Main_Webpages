@@ -25,7 +25,7 @@ global $browser_title;
 
     <main role="main" class="col-md-9 ml-sm-auto col-lg-10 px-4">
       <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
-        <h1 class="h2">Dashboard</h1>
+        <h1 class="h2"></h1>
         <div class="btn-toolbar mb-2 mb-md-0">
           <div class="btn-group mr-2">
             <!--<button type="button" class="btn btn-sm btn-outline-secondary">Share</button>-->
@@ -33,9 +33,15 @@ global $browser_title;
           </div>
         </div>
       </div>
-     <h2 id="section-title">Rapid Refresh</h2>
+
+     <h2 id="section-title"><div style="text-align left; margin-left:400px;">Rapid Refresh</h2>
+<div id="meta" style="-webkit-text-stroke-width:0px; background-color:#ffffff; box-sizing:border-box; color:#34495e; font-family:&quot;Open Sans&quot;,Helvetica,Arial,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:normal; letter-spacing:normal; orphans:2; padding:15px; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px"><span style="font-size:12px"><span style="color:#000000"><span style="font-family:Arial,Helvetica,sans-serif"><img alt="RAP" src="https://www.emc.ncep.noaa.gov/emc/images/RAP_images_sfccape_crop.png" style="border:0px; box-sizing:border-box; vertical-align:middle" title="HRRR"></span></span></span>
+<p>
+                                <p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:12px;"><big><span style="color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial; display: inline ! important; float: none;">Above: RAP analysis of surface-based CAPE (J/kg) valid 0000 UTC 11 Dec 2021 (left, Kentucky tornado event) and 2100 UTC 15 Dec 2021 (right, IA/NE severe weather event).</span></big></span></span></p>
+<p>
+
      	<div id="description">
-				<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><span class="more">The Rapid Refresh system (RAP) is an hourly-updated assimilation/modeling system running at 13 km resolution, <span class="morecontent"><span style="display: inline;">developed at NOAA's Earth Systems Research Laboratory (ESRL). The RAP covers North America and is comprised of a numerical forecast with the Advanced Research WRF (WRF-ARW) model and an data assimilation system using the NCEP Gridpoint Statistical Interpolation (GSI) analysis. The RAP is complemented by the higher-resolution 3km High-Resolution Rapid Refresh (HRRR) model, which is also updated hourly and covers a smaller geographic domain. More information and hourly graphics from the RAP can be viewed at ESRL's <a href="http://rapidrefresh.noaa.gov">RAP home page</a>; HRRR information and graphics can be obtained at ESRL's <a href="http://rapidrefresh.noaa.gov/hrrr/">HRRR home page</a>.&nbsp; </span>&nbsp; </span></span></span></span></p>
+				<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><span class="more">The Rapid Refresh system (RAP) is an hourly-updated assimilation/modeling system running at 13 km resolution, <span class="morecontent"><span style="display: inline;">developed at NOAA's Global Systems Laboratory (GSL). The RAP covers North America and is comprised of a numerical forecast with the Advanced Research WRF (WRF-ARW) model and an data assimilation system using the NCEP Gridpoint Statistical Interpolation (GSI) analysis. The RAP is complemented by the higher-resolution 3km High-Resolution Rapid Refresh (HRRR) model, which is also updated hourly and covers a smaller geographic domain. More information and hourly graphics from the RAP can be viewed at GSL's <a href="http://rapidrefresh.noaa.gov">RAP home page</a>; HRRR information and graphics can be obtained at GSL's <a href="http://rapidrefresh.noaa.gov/hrrr/">HRRR home page</a>.&nbsp; </span>&nbsp; </span></span></span></span></p>
 
 <p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">RAP History at NCEP:</span></span></p>
 
