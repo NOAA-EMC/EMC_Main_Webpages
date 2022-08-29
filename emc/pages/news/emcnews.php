@@ -30,9 +30,11 @@
 <img alt="Vijay Tallapragada" src="https://www.emc.ncep.noaa.gov/emc/images/Vijay_Tallapragada.jpg" style="width: 128px; height: 128px;" align="right">
 <h4><strong><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"></span></span></strong><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"></span></span></h4>
 
-<p style="margin-left:0px; margin-right:0px"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">Dr. Tallapragada was appointed to the Scientific or Professional (ST) position of Senior Scientist at the Environmental Modeling Center, beginning August 14, 2022. This is a testament to his outstanding scientific contributions and collaborative endeavors in the area of numerical modeling, as well as an acknowledgment on the part of DOC/NOAA that the EMC mission requires the highest level of scientific leadership.</span></span></p>
+<p style="margin-left:0px; margin-right:0px"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">Dr. Vijay Tallapragada of National Centers for Environmental Prediction (NCEP)/Environmental Modeling Center (EMC), has been appointed as a Senior Scientist and AMS Fellow.</span></span></p>
 
-<p style="margin-left:0px; margin-right:0px"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">The Council of the American Meteorological Society voted to elect Dr. Tallapragada a Fellow of the AMS.</span></span></p>
+<p style="margin-left:0px; margin-right:0px"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">Over his career in NOAA and the NWS, Dr. Tallapragada has worked relentlessly to improve operational modeling systems. In his new role, Vijay will focus on technical direction for a revamped production suite and engagement with the community as EMC continues to embrace open development of NWS operational modeling systems.</span></span></p>
+
+<p style="margin-left:0px; margin-right:0px"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">Vijay was also elected as an AMS Fellow, a move that was based on his contributions to the development of modeling systems that protect lives and livelihoods, his scientific contributions documented in the peer-reviewed literature, his service to the meteorological community, and his mentoring of students and early-career scientists.</span></span></p>
 </div>
 </div>
 								
