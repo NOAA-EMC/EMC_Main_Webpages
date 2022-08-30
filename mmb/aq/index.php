@@ -142,9 +142,12 @@
 	<center><p>
    <!--<a href="https://www.weather.gov/sti/stimodeling_airquality">NOAA  NAM 12 - CMAQ Ozone and PM Forecasts</a>-->
       <h1>The Community Multiscale Air Quality Modeling System</h1>
-
 <p>
-Operational NOAA-EPA National Air Quality Forecast Capability (NAQFC) ozone and fine particulate matter 
+<img src="https://www.emc.ncep.noaa.gov/emc/images/CMAQ_web_pnw_cropped.png"/>
+<p>
+Above: Day 1 PM2.5 forecasts from the previous ops AQMv5 (left) and current (as of July 2021) ops AQMv6 (right) for the historic Pacific NW fires in Sept 2020. The current operational AQMv6 correctly captured the high 24h PM2.5 exceedances along the Oregon/Washington coasts. 
+<p>
+<style="text-align:justify"><span style="font-size:18px;"><span style="color:#000000"><span style="font-family:Arial,Helvetica,sans-serif">Operational NOAA-EPA National Air Quality Forecast Capability (NAQFC) ozone and fine particulate matter 
 (PM2.5) predictions are produced twice daily to 72 forecast hours for the 06 and 12 UTC run cycles. The 
 system consists of the Community Multiscale Air Quality (CMAQ) model, which is driven by the NCEP Global 
 Forecast System meteorological model (<a style="color:blue" href="https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/gfs.php">GFS</a>). 
@@ -155,18 +158,19 @@ Database (BELD) v5. Aerosol lateral boundary conditions are provided by the NWS 
 predictions. Bias-corrected ozone and PM2.5 predictions are also produced using the ESRL analog Kalman Filter method, 
 which has been improved to use a consistent training data set, additional monitor sites, and a unified KFAN bias 
 correction system. The Air Resources Laboratory (ARL) Fengsha dust model has been updated with 
-improved threshold velocities by soil type. Greenness vegetation fraction (GVF) will be updated daily 
+improved threshold velocities by soil type. Greenness vegetation fraction (GVF) are updated daily 
 with a 7-day average GVF provided by the National Environmental Satellite, Data, and Information Service (NESDIS) satellite
-products, and the Leaf Area Index (LAI) will be updated from a constant value in time and space to a 
+products, and the Leaf Area Index (LAI) are updated from a constant value in time and space to a 
 climatological field. The NESDIS Global Biomass Burning Emissions Product eXtended
-(GBBEPx) product will be used to initialize fire particulate and gas-phase emissions and its associated Fire Radiative Power,
+(GBBEPx) product are used to initialize fire particulate and gas-phase emissions and its associated Fire Radiative Power,
 which is used to drive fire smoke plume rise. Both GVF and LAI are used for biogenic and deposition processes and should result
-in better land-related processes.
+in better land-related processes.</span></span></span>
 </p>
 <br>
 <p>
-The AQ model operational predictions are displayed by the National Weather Service's <a style="color:blue" href="https://airquality.weather.gov/">National Digital Forecast Database (NDFD)</a>, showing 1-hr/8-hr averages and daily maxima of 1-hr/8-hr averages of ozone. In addition, operational ozone predictions and testing of PM2.5 predictions are displayed at the links provided below.
+<style="text-align:justify"><span style="font-size:18px;"><span style="color:#000000"><span style="font-family:Arial,Helvetica,sans-serif">The AQ model operational predictions are displayed by the National Weather Service's <a style="color:blue" href="https://airquality.weather.gov/">National Digital Forecast Database (NDFD)</a>, showing 1-hr/8-hr averages and daily maxima of 1-hr/8-hr averages of ozone. In addition, operational ozone predictions and testing of PM2.5 predictions are displayed at the links provided below.</span></span></span>
 </p>
+</h2>
 <br>
 <p>
 <img src="https://www.emc.ncep.noaa.gov/emc/pages/disclaimer/disclaimer_small.png" style="width:60%;display:block; margin:auto; " />
