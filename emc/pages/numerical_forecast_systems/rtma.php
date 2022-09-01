@@ -30,7 +30,7 @@ global $browser_title;
 
     <main role="main" class="col-md-9 ml-sm-auto col-lg-10 px-4">
       <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
-        <h1 class="h2">Dashboard</h1>
+        <h1 class="h2"></h1>
         <div class="btn-toolbar mb-2 mb-md-0">
           <div class="btn-group mr-2">
             <!--<button type="button" class="btn btn-sm btn-outline-secondary">Share</button>-->
@@ -38,10 +38,17 @@ global $browser_title;
           </div>
         </div>
       </div>
-     <h2 id="section-title">RTMA/URMA/RTMA-RU</h2>
-     <img src="../../pages/disclaimer/disclaimer_small.png" style="width:80%;display:block; margin:auto; " />
+     <h2 id="section-title"><div style="text-align left; margin-left:200px;">Real-Time Mesoscale Analysis/UnRestricted Mesoscale Analysis/RTMA-Rapid Update</h2>
+     <p>
+     <p>
      <div style="margin-bottom:20px;"></div>
      	<div id="description">
+
+<div id="meta" style="-webkit-text-stroke-width:0px; background-color:#ffffff; box-sizing:border-box; color:#34495e; font-family:&quot;Open Sans&quot;,Helvetica,Arial,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:normal; letter-spacing:normal; orphans:2; padding:15px; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px"><span style="font-size:12px"><span style="color:#000000"><span style="font-family:Arial,Helvetica,sans-serif"><img alt="RTMA" src="https://www.emc.ncep.noaa.gov/emc/images/RTMA_Wind_Gust_Example.png" style="border:0px; box-sizing:border-box; vertical-align:middle" title="RTMA"></span></span></span>
+<p>
+     <img src="../../pages/disclaimer/disclaimer_small.png" style="width:80%;display:block; margin:auto; " />
+<p>
+
 				<h3 id="section-FrontPage-System+Overview"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:22px;"><strong>System Overview <span style="font-size:16px;"></span></strong></span></span></h3>
 
 <p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">The Real Time Mesoscale Analysis (RTMA) and the UnRestricted Mesoscale Analysis system (URMA) are 2DVar analysis systems that provide analyses of National Digital Forecast Database parameters for CONUS, Alaska, Hawaii, Puerto Rico, and Guam. The RTMA is run hourly for all domains to provide situational awareness. The URMA is also run hourly but with a six hour time delay to capture late arriving data at NCEP. While RTMA is considered for situational awareness the URMA is considered for verification/validation. The URMA also serves as a critical component in the National Blend of Models (NBM) program, as it is used for calibration and validation.&nbsp; As of December 2017, a new Rapid Update version of the RTMA (RTMA-RU) was implemented.&nbsp; This system provides a new analysis every 15 minutes and is for users in need of fast, low-latency analysis products (e.g. the aviation community).</span></span></p>
