@@ -47,7 +47,7 @@
                            	<tr>
                                <th>Name</th>
                                <th>Email Address</th>
-                               <th>Extension<br>(Base #=301-363-xxxx)</th>
+                               <th>Extension<br>(Base #=301-683-xxxx)</th>
                                <th>Employment Type</th>
                                <th>Branch/Organization</th>
                                <th>Website</th>
@@ -82,7 +82,7 @@ $.fn.dataTable.ext.search.push( function ( settings, searchData ) {
 
 			
 			
-	$.getJSON('../js/data/phone_dir_v5.json',function(data){
+	$.getJSON('../js/data/phone_dir_v6.json',function(data){
 	      
 	      $.each(data,function(i,emp){
 	            	
