@@ -3090,23 +3090,7 @@ global $browser_title;
                 
                 <p>&nbsp;</p>
                 
-                <h3><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/namhpss.htm">Contents of NAM archive on HPSS </a></h3>
-                
-                <p>&nbsp;</p>
-                
-                <h3><a href="https://www.emc.ncep.noaa.gov/mmb/research/eta.log.html">Link to log of all operational NAM (formerly Eta) model changes from June 1995 - March 2004 </a></h3>
-                
-                <p>&nbsp;</p>
-                
                 <h3><a href="https://www.emc.ncep.noaa.gov/mmb/namgrids/">Link to reference page and domain size graphics for NCEP mesoscale model (NAM, RAP, HRRR, HiResW) output grids</a></h3>
-                
-                <p>&nbsp;</p>
-                
-                <h3><a href="https://www.emc.ncep.noaa.gov/mmb/bblake/fv3/log.html">Link to EMC Mesoscale Systems parallel log</a></h3>
-                
-                <h3>&nbsp;</h3>
-                
-                <h3><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/paralog/index_nam.html">Link to Legacy NAM parallel log</a></h3>
                 
                 <p>&nbsp;</p>
                 
