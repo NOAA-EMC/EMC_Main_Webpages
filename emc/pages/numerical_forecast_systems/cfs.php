@@ -79,7 +79,7 @@ global $browser_title;
 
     <main role="main" class="col-md-9 ml-sm-auto col-lg-10 px-4">
       <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
-        <h1 class="h2">Dashboard</h1>
+        <h1 class="h2"></h1>
         <div class="btn-toolbar mb-2 mb-md-0">
           <div class="btn-group mr-2">
             <!--<button type="button" class="btn btn-sm btn-outline-secondary">Share</button>-->
@@ -87,10 +87,16 @@ global $browser_title;
           </div>
         </div>
       </div>
-     <h2 id="section-title">Climate Forecast System</h2>
-     	<div id="description">
-				<p style="margin-left: 0px; margin-right: 0px; text-align: center;"><strong><span style="font-size:18pt"><span style="color:blue"><span style="font-family:&quot;Times New Roman&quot;,sans-serif">The NCEP Climate Forecast System Version 2 (CFSv2)</span></span></span></strong></p>
+     <h2 id="section-title"><div style="text-align left; margin-left:175px;">Climate Forecast System Version 2</h2>
+     <p>
+     <img src="https://www.emc.ncep.noaa.gov/emc/images/glbSSTSeaInd2.gif" />
+     <p>
+     <FONT SIZE="4"</FONT>Above: An example of seasonal SST anomalies from the NCEP coupled Climate Forecast System (CFSv2).
+     <b>NOTE</B> : Official NCEP seasonal forecast outlooks can be found at the NCEP <a href="https://www.cpc.ncep.noaa.gov/">Climate Prediction Center</a> website. 
+     <p>
 
+     	<div id="description">
+        <p style="margin-left: 0px; margin-right: 0px; text-align: left;"><strong><span style="font-size:18pt"><span style="color:blue"><span style="font-family:&quot;Times New Roman&quot;,sans-serif">The NCEP Climate Forecast System Version 2 (CFSv2)</span></span></span></strong></p>
 <p style="margin-left:0px; margin-right:0px; text-align:start"><span style="font-size:14px;">&nbsp;<br>
 <span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;">Version 2 of the Climate Forecast System was developed at NCEP's Environmental Modeling Center.&nbsp; It is a fully coupled model representing the interaction between the Earth's atmosphere, oceans, land and sea ice. CFS Version 2 became operational at NCEP in March 2011. </span></span></span><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;"></span></span></p>
 

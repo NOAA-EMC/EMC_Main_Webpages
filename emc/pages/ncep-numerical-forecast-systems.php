@@ -26,7 +26,7 @@
                                                  <a href="#ncepda">NCEP Data Assimilation</a>
                                             </li>
                                             <li class="list-group-item">
-                                                <a href="#cfss">Climate Forecast System (CFS)</a>
+                                                <a href="#cfs">Climate Forecast System (CFS)</a>
                                             </li>
                                             <li class="list-group-item">
                                                 <a href="#nam">North American Mesoscale (NAM)</a>
