@@ -229,7 +229,7 @@
 										
      									<ul class="list-group">
                                             <li class="list-group-item">
-                                            <h5><a class="read-more-link" id="wavewatch-iii" href="https://polar.ncep.noaa.gov/waves/">Global Wave Model (WAVEWATCH III)</a></h5>
+                                            <h5><a class="read-more-link" id="wavewatch-iii" href="https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/wavemodels.php">Global Wave Model (WAVEWATCH III)</a></h5>
                                             <span class="more">
                                                 The NCEP operational global wave model (WAVEWATCH III) runs as coupled component to the NCEP Global Forecast System (GFS) and Global Ensemble Forecast System (GEFS)
                                             </li>
@@ -339,7 +339,7 @@
 										
      									<ul class="list-group">
                                             <li class="list-group-item">
-                                            <h5><a class="read-more-link" id="glw" href="https://polar.ncep.noaa.gov/waves/?-glwn-">Great Lakes Wave Model (WAVEWATCH III)</a></h5>
+                                            <h5><a class="read-more-link" id="glw" href="https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/wavemodels.php#TABGLW">Great Lakes Wave Model (WAVEWATCH III)</a></h5>
                                             <span class="more">
         					The NCEP Great Lakes Wave production system runs the WAVEWATCH III model, forced with atmospheric data from NCEP's North American Mesoscale Model (NAM) and the National Digital Forecast Database (NDFD)  
                                             </li>
