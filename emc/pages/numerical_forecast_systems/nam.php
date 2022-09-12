@@ -89,17 +89,15 @@ SREF, CMAQ) Operational Change Log since 1993
           </div>
         </div>
       </div>
-     <h2 id="section-title"><div style="text-aligh left; margin-left:230px;">North American Mesoscale</h2>
+     <h2 id="section-title"><div style="text-align left; margin-left:360px;">North American Mesoscale</h2>
      	<div id="description">
 				<div id="branch" style="-webkit-text-stroke-width:0px; background-color:#ffffff; box-sizing:border-box; color:#34495e; font-family:&quot;Open Sans&quot;,Helvetica,Arial,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:normal; letter-spacing:normal; orphans:2; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px"><span style="font-size:12px"><span style="color:#8a8a8a"><span style="font-family:Arial,Helvetica,sans-serif"><strong><span style="color:#000000"></span></strong></span></span></span></div>
 <p> 
+
+<div id="meta" style="-webkit-text-stroke-width:0px; background-color:#ffffff; box-sizing:border-box; color:#34495e; font-family:&quot;Open Sans&quot;,Helvetica,Arial,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:normal; letter-spacing:normal; orphans:2; padding:15px; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px"><span style="font-size:12px"><span style="color:#000000"><span style="font-family:Arial,Helvetica,sans-serif"><img alt="NORTH AMERICAN MESOSCALE" src="https://www.emc.ncep.noaa.gov/emc/images/nam3km_coldair_damming.png" style="border:0px; box-sizing:border-box; vertical-align:middle" title="NORTH AMERICAN MESOSCALE"></span></span></span>
+<p>
 <p>
 <img src="../../pages/disclaimer/disclaimer_small.png"/>
-<p>
-
-<div id="meta" style="-webkit-text-stroke-width:0px; background-color:#ffffff; box-sizing:border-box; color:#34495e; font-family:&quot;Open Sans&quot;,Helvetica,Arial,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:normal; letter-spacing:normal; orphans:2; padding:15px; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px"><span style="font-size:12px"><span style="color:#000000"><span style="font-family:Arial,Helvetica,sans-serif"><img alt="NORTH AMERICAN MESOSCALE" src="https://www.emc.ncep.noaa.gov/emc/images/nam_visibility_smaller.png" style="border:0px; box-sizing:border-box; vertical-align:middle" title="NORTH AMERICAN MESOSCALE"></span></span></span>
-
-<p style="margin-left:0px; margin-right:0px; text-align:justify"><span style="font-size:16px;"><span style="color:#000000"><span style="font-family:Arial,Helvetica,sans-serif">Above: Comparison of the forecast visibility from the previous operational NAM (top left) to the current operational NAM (top right) from the CONUS nest for a 39-h forecast valid 1500 UTC 31 August 2016. Removing the cutoff of surface latent heat flux when the lowest model layer RH reaches 95% markedly improves the NAM's predicted visibility off the California coast, as verified by the observed visibility reports compiled by AWC (bottom right).</span></span></span></p>
 <p>
 
 <p style="margin-left:0px; margin-right:0px; text-align:justify"><span style="font-size:16px;"><span style="color:#000000"><span style="font-family:Arial,Helvetica,sans-serif">The North American Mesoscale (NAM) is one of the forecast systems NCEP's Environmental Modeling Center has developed to provide mesoscale guidance to public and private sector meteorologists. It is run four times daily at 0000, 0600, 1200, and 1800 UTC and consists of the following components:</span></span></span></p>
