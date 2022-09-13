@@ -169,7 +169,7 @@ global $browser_title;
 
 <div class="one-half-first" style="border: 0px solid black; padding: 20px;">
     <!-- NWPS -->
-    <h2><a href="https://polar.ncep.noaa.gov/nwps">Nearshore Wave Prediction System</a></h2>
+    <h2><a href="https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/nwps.php">Nearshore Wave Prediction System</a></h2>
     <p>
     The Nearshore Wave Prediction System (NWPS) provides on-demand, high-resolution
     nearshore wave model guidance to U.S. coastal WFOs, triggered in real time by forecast
@@ -178,7 +178,7 @@ global $browser_title;
     Weather Forecast Offices (WFOs), as well as partners at NOAA/NOS, USGS and USACE.
     </p>
     <p>
-    <a href="https://polar.ncep.noaa.gov/nwps">Link to NWPS</a>
+    <a href="https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/nwps.php">Link to NWPS</a>
 </div>    
 
 <div class="one-half-last" style="border: 0px solid black; padding: 20px;">

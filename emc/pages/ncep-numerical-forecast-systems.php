@@ -317,7 +317,7 @@
 										
      									<ul class="list-group">
                                             <li class="list-group-item">
-                                            <h5><a class="read-more-link" id="nwps" href="https://polar.ncep.noaa.gov/nwps/">Nearshore Wave Prediction System</a></h5>
+                                            <h5><a class="read-more-link" id="nwps" href="https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/nwps.php">Nearshore Wave Prediction System</a></h5>
                                             <span class="more">
         					The Nearshore Wave Prediction System (NWPS) provides on-demand, high-resolution nearshore wave model guidance to U.S. coastal WFOs, triggered in real time by forecast wind grids prepared and submitted by the individual offices.  
                                             </li>
