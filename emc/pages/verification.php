@@ -120,7 +120,7 @@
                                 	<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><a href="https://polar.ncep.noaa.gov/global/class-4/cable/"><b>Global RTOFS Florida Cable Transports</b></a></span></span></li>
                                 	<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><a href="http://polar.ncep.noaa.gov/waves/validation/prod/">WAVEWATCH III Production Validation Archive (2013-2020, updated yearly)</a></strong></span></span></li>
                                 	<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><a href="http://polar.ncep.noaa.gov/waves/hindcasts/prod-multi_1.php">WAVEWATCH III Production Hindcast, Multigrid</a></strong></span></span></li>
-                                	<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><a href="http://polar.ncep.noaa.gov/nwps/">Nearshore Wave Prediction System</a></strong></span></span></li>
+                                	<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><a href="https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/nwps.php">Nearshore Wave Prediction System</a></strong></span></span></li>
                                 </ul>
                                 
                                 <p><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;"><strong>6) <a href="https://www.emc.ncep.noaa.gov/users/verification/cyclones/">Hurricane / Cyclones Verification</a></strong></span></span></p>

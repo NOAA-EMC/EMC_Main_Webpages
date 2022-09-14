@@ -150,6 +150,8 @@ global $browser_title;
 	<p class="reg" style="font-size: 18px; color: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif;">Sign up for the<span>&nbsp;</span><b style="font-weight: bold;"><a href="https://www.lstsrv.ncep.noaa.gov/mailman/listinfo/ncep.list.emc.nwps" style="color: rgb(0, 51, 153); text-decoration: none;">NWPS mailing list</a></b><span>&nbsp;</span>for updates and information on this system.</p>
 
         <p class="reg" style="font-size: 18px; color: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; text-align: justify;">Follow the system development on our<span>&nbsp;</span><b style="font-weight: bold;"><a href="https://collaborate.nws.noaa.gov/trac/awipsSpecialProjects/" style="color: rgb(0, 51, 153); text-decoration: none;">Wiki Page</a></b><span>&nbsp;</span>(authorization required).</p>
+
+        <p class="reg" style="font-size: 18px; color: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; text-align: justify;">If you want to go to the original NWPS page on polar.ncep.noaa.gov, click<span>&nbsp;</span><b style="font-weight: bold;"><a href="https://polar.ncep.noaa.gov/nwps/" style="color: rgb(0, 51, 153); text-decoration: none;">here</a></b>.</p>
         <p>
 
 	<h2 style="font-size: 20px; font-family: Helvetica, Arial, &quot;San Serif&quot;;"><b>References</b></h2>
