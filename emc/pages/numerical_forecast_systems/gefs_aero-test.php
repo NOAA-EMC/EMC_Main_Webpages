@@ -98,9 +98,6 @@ include '../portal_header.php';?>
         </div>
       </div>
      <h1 id="section-title"><div style="text-align left; margin-left:440px;">GEFS-Aerosol 5-day Forecasts</h1>
-     <img src="https://www.emc.ncep.noaa.gov/emc/images/GEFS-Aero_Australia_fires.png">
-     <p>
-     <img src="../../pages/disclaimer/disclaimer_small.png"  />
      	<div id="description">
     
           <?php include "gefs-aero/GlobalAerosols5dayForecasts.html"; ?> 
@@ -120,7 +117,7 @@ include '../portal_header.php';?>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/feather-icons/4.9.0/feather.min.js"></script>
 <script>
 var links = document.getElementsByClassName("nav-link");
-var base_url = "https://emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/gefs-aero/documents";
+var base_url = "https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/gefs-aero/documents";
 var iframe = document.createElement('iframe');
 iframe.style.width="100%";
 iframe.style.height="100vh";
@@ -184,13 +181,13 @@ for (var i = 0; i < links.length; i++) {
        img.style.height="100%";
        contentDescription.appendChild(img);
     }else if ("ICAP" == this.text){
-       window.location = "http://www.weather.gov/exit?url=http://icap.atmos.und.edu/";
+       window.location = "https://www.weather.gov/exit?url=http://icap.atmos.und.edu/";
     }else if ("WMO SDS-WAS" == this.text){
-       window.location = "http://www.weather.gov/exit?url=https://public.wmo.int/en/our-mandate/focus-areas/environment/SDS/warnings";
+       window.location = "https://www.weather.gov/exit?url=https://public.wmo.int/en/our-mandate/focus-areas/environment/SDS/warnings";
     }else if ("Global Air Quality Index project" == this.text){
        window.location = "http://www.weather.gov/exit?url=https://aqicn.org/forecast/models/";
     }else if ("WMO VFSP-WASL" == this.text){
-       window.location = "http://www.weather.gov/exit?url=http://www.weather.gov.sg/vfsp-was/about-vfsp-was/";
+       window.location = "https://www.weather.gov/exit?url=http://www.weather.gov.sg/vfsp-was/about-vfsp-was/";
     }else if ("Miami WFO" == this.text){
        window.location = "https://www.weather.gov/mfl/";
     }else if ("San Juan WFO" == this.text){
