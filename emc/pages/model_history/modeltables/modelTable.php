@@ -1447,7 +1447,6 @@ formation of the the JNWPU in 1955. Separate tables are available for <a href=".
         <td>84-h</td>
         <td><a href="https://www.emc.ncep.noaa.gov/users/mesoimpldocs/Spring2005.NAMUpgrade.pdf">EMC Doc</a></td>
         <td></td>
-        <td></td>
         <td>Still (2006)</td>
         <td>4</td>
     </tr>
