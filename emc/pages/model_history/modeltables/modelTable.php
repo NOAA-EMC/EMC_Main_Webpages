@@ -2603,7 +2603,7 @@ formation of the the JNWPU in 1955. Separate tables are available for <a href=".
         <td>1</td>
         <td>Global</td>
         <td>180h; hourly output to 120h</td>
-        <td><a href="https://www.weather.gov/media/notification/pdfs/SCN17-129wave_multi1.pdf">NWS SCN</a></td>
+        <td><a href="https://www.weather.gov/media/notification/pdfs/scn17-129wave_multi1.pdf">NWS SCN</a></td>
         <td></td>
         <td>3/2021</td>
         <td>4</td>
@@ -2694,7 +2694,7 @@ formation of the the JNWPU in 1955. Separate tables are available for <a href=".
         <td>64, model top to 0.2 hPa</td>
         <td>Global</td>
         <td>384h</td>
-        <td><a href="https://www.weather.gov/media/notification/scn19-40gfs_v15_1.pdf">NWS SCN</a></td>
+        <td><a href="https://www.weather.gov/media/notification/pdf2/scn19-40gfs_v15_1.pdf">NWS SCN</a></td>
         <td></td>
         <td>Still (2021)</td>
         <td>4</td>
@@ -2707,7 +2707,7 @@ formation of the the JNWPU in 1955. Separate tables are available for <a href=".
         <td>ATM=71</td>
         <td>NATL, EPAC, CPAC</td>
         <td>126h</td>
-        <td><a href="https://www.weather.gov/media/notification/scn20-51hmon_v3_0-0.pdf">NWS SCN</a></td>
+        <td><a href="https://www.weather.gov/media/notification/pdf2/scn20-51hmon_v3_0-0.pdf">NWS SCN</a></td>
         <td></td>
         <td>Still </td>
         <td>4</td>
@@ -2733,7 +2733,7 @@ formation of the the JNWPU in 1955. Separate tables are available for <a href=".
         <td>NA</td>
         <td>Global</td>
         <td>NA</td>
-        <td><a href="https://www.weather.gov/media/notification/scn20-10nsst1_0.pdf">NWS SCN</a></td>
+        <td><a href="https://www.weather.gov/media/notification/pdf2/scn20-10nsst1_0.pdf">NWS SCN</a></td>
         <td></td>
         <td>Still</td>
         <td>1</td>
@@ -2746,7 +2746,7 @@ formation of the the JNWPU in 1955. Separate tables are available for <a href=".
         <td>41</td>
         <td>Global</td>
         <td>192h</td>
-        <td><a href="https://www.weather.gov/media/notification/scn20-105rtofs2.pdf">NWS SCN</a></td>
+        <td><a href="https://www.weather.gov/media/notification/pdf2/scn20-105rtofs2.pdf">NWS SCN</a></td>
         <td></td>
         <td>Still</td>
         <td>1</td>
@@ -2759,7 +2759,7 @@ formation of the the JNWPU in 1955. Separate tables are available for <a href=".
         <td>N.A</td>
         <td>RTMA, URMA : CONUS, AK; HI, PR; RTMA-only: Guam; RTMA-RU is CONUS only</td>
         <td>N.A.</td>
-        <td><a href="https://www.weather.gov/media/notification/scn21-38hiresw_v8_hrefaaa.pdf">NWS SCN</a></td>
+        <td><a href="https://www.weather.gov/media/notification/pdf2/scn20-45rtma2_8aab.pdf">NWS SCN</a></td>
         <td></td>
         <td>Still (Last Update**)</td>
         <td>24 (RTMA/URMA), 96 (RTMA-RU) </td>
@@ -2798,7 +2798,7 @@ formation of the the JNWPU in 1955. Separate tables are available for <a href=".
         <td>64</td>
         <td>Global</td>
         <td>384h (00z cycle runs to 35 days</td>
-        <td><a href="https://www.weather.gov/media/notification/SCN_20-75_GEFSv12_Changes.pdf">NWS SCN</a></td>
+        <td><a href="https://www.weather.gov/media/notification/pdf2/scn20-75_gefsv12_changes.pdf">NWS SCN</a></td>
         <td></td>
         <td>Still</td>
         <td>4</td>
@@ -2811,7 +2811,7 @@ formation of the the JNWPU in 1955. Separate tables are available for <a href=".
         <td>64</td>
         <td>Global</td>
         <td>120h</td>
-        <td><a href="https://www.weather.gov/media/notification/SCN_20-75_GEFSv12_Changes.pdf">NWS SCN</a></td>
+        <td><a href="https://www.weather.gov/media/notification/pdf2/scn20-75_gefsv12_changes.pdf">NWS SCN</a></td>
         <td></td>
         <td>Still</td>
         <td>4</td>
@@ -2824,7 +2824,7 @@ formation of the the JNWPU in 1955. Separate tables are available for <a href=".
         <td>N.A</td>
         <td>Global</td>
         <td>384h</td>
-        <td><a href="https://www.weather.gov/media/notification/SCN_20-75_GEFSv12_Changes.pdf">NWS TIN</a></td>
+        <td><a href="https://www.weather.gov/media/notification/pdf2/scn20-75_gefsv12_changes.pdf">NWS SCN</a></td>
         <td></td>
         <td>Still</td>
         <td>4</td>
@@ -2876,7 +2876,7 @@ formation of the the JNWPU in 1955. Separate tables are available for <a href=".
         <td>50 (ARW), 60 (FV3)</td>
         <td>CONUS, AK, HI, PR, Guam </td>
         <td>60h for FV3, 48-h for ARW</td>
-        <td><a href="https://www.weather.gov/media/notification/scn21-38hiresw_v8_hrefaaa.pdf">NWS SCN</a></td>
+        <td><a href="https://www.weather.gov/media/notification/pdf2/scn21-38hiresw_v8_hrefaaa.pdf">NWS SCN</a></td>
         <td></td>
         <td>Still</td>
         <td>2</td>
@@ -2889,7 +2889,7 @@ formation of the the JNWPU in 1955. Separate tables are available for <a href=".
         <td>35</td>
         <td>CONUS, AK, HI</td>
         <td>48h (72h for 06/12z)</td>
-        <td><a href="https://www.weather.gov/media/notification/pdf2/SCN21-60_aqm_v6.0_aaa.pdf">NWS SCN</a></td>
+        <td><a href="https://www.weather.gov/media/notification/pdf2/scn21-60_aqm_v6.0_aaa.pdf">NWS SCN</a></td>
         <td></td>
         <td>Still</td>
         <td>4</td>

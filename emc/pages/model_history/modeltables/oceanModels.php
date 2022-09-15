@@ -1,5 +1,5 @@
 <?php include('./header.php') ?>
-<h1 class="text-center">GLOBAL/HEMISPHERIC numerical analysis and forecast systems at JNWPU/NMC/NCEP - a HISTORY!</h1>
+<h1 class="text-center">OCEAN/MARINE numerical analysis and forecast systems at JNWPU/NMC/NCEP - a HISTORY!</h1>
     <div id="model-table">
                 <table class="table table-hover">
                     <tr>
@@ -452,7 +452,7 @@
                         <td>1</td>
                         <td>Global</td>
                         <td>180h; hourly output to 120h</td>
-                        <td><a href="https://www.weather.gov/media/notification/pdfs/SCN17-129wave_multi1.pdf">NWS SCN</a></td>
+                        <td><a href="https://www.weather.gov/media/notification/pdfs/scn17-129wave_multi1.pdf">NWS SCN</a></td>
                         <td>3/2021</td>
                         <td>4</td>
                         <td></td>
@@ -478,7 +478,7 @@
                         <td>NA</td>
                         <td>Global</td>
                         <td>NA</td>
-                        <td><a href="https://www.weather.gov/media/notification/scn20-10nsst1_0.pdf">NWS SCN</a></td>
+                        <td><a href="https://www.weather.gov/media/notification/pdf2/scn20-10nsst1_0.pdf">NWS SCN</a></td>
                         <td>Still</td>
                         <td>1</td>
                         <td></td>
@@ -491,7 +491,7 @@
                         <td>N.A</td>
                         <td>Global, 31 mbrs</td>
                         <td>384h</td>
-                        <td><a href="https://www.weather.gov/media/notification/SCN_20-75_GEFSv12_Changes.pdf">NWS TIN</a></td>
+                        <td><a href="https://www.weather.gov/media/notification/pdf2/scn20-75_gefsv12_changes.pdf">NWS SCN</a></td>
                         <td>Still</td>
                         <td>4</td>
                         <td></td>
@@ -504,7 +504,7 @@
                         <td>41</td>
                         <td>Global</td>
                         <td>192h</td>
-                        <td><a href="https://www.weather.gov/media/notification/scn20-105rtofs2.pdf">NWS SCN</a></td>
+                        <td><a href="https://www.weather.gov/media/notification/pdf2/scn20-105rtofs2.pdf">NWS SCN</a></td>
                         <td>Still</td>
                         <td>1</td>
                         <td></td>

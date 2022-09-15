@@ -214,7 +214,7 @@
                         <td>ATM=71</td>
                         <td>NATL, EPAC, CPAC</td>
                         <td>126h</td>
-                        <td><a href="https://www.weather.gov/media/notification/scn20-51hmon_v3_0-0.pdf">NWS SCN</a></td>
+                        <td><a href="https://www.weather.gov/media/notification/pdf2/scn20-51hmon_v3_0-0.pdf">NWS SCN</a></td>
                         <td>Still</td>
                         <td>4</td>
                     </tr>

@@ -851,7 +851,7 @@
         <td>N.A</td>
         <td>RTMA, URMA : CONUS, AK; HI, PR; RTMA-only: Guam; RTMA-RU is CONUS only</td>
         <td>N.A.</td>
-        <td><a href="https://www.weather.gov/media/notification/scn21-38hiresw_v8_hrefaaa.pdf">NWS SCN</a></td>
+        <td><a href="https://www.weather.gov/media/notification/pdf2/scn20-45rtma2_8aab.pdf">NWS SCN</a></td>
         <td>Still</td>
         <td>24 (RTMA/URMA), 96 (RTMA-RU) </td>
     </tr>
@@ -887,7 +887,7 @@
         <td>50 (ARW), 60 (FV3)</td>
         <td>CONUS, AK, HI, PR, Guam </td>
         <td>60h for FV3, 48-h for ARW</td>
-        <td><a href="https://www.weather.gov/media/notification/scn21-38hiresw_v8_hrefaaa.pdf">NWS SCN</a></td>
+        <td><a href="https://www.weather.gov/media/notification/pdf2/scn21-38hiresw_v8_hrefaaa.pdf">NWS SCN</a></td>
         <td>Still</td>
         <td>2</td>
     </tr>
@@ -899,7 +899,7 @@
         <td>35</td>
         <td>CONUS, AK, HI</td>
         <td>48h (72h for 06/12z)</td>
-        <td><a href="https://www.weather.gov/media/notification/pdf2/SCN21-60_aqm_v6.0_aaa.pdf">NWS SCN</a></td>
+        <td><a href="https://www.weather.gov/media/notification/pdf2/scn21-60_aqm_v6.0_aaa.pdf">NWS SCN</a></td>
         <td>Still</td>
         <td>4</td>
     </tr>

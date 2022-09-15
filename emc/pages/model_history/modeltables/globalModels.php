@@ -574,7 +574,7 @@
                 <td>64, model top to 0.2 hPa</td>
                 <td>Global</td>
                 <td>384h</td>
-                <td><a href="https://www.weather.gov/media/notification/scn19-40gfs_v15_1.pdf">NWS SCN</a></td>
+                <td><a href="https://www.weather.gov/media/notification/pdf2/scn19-40gfs_v15_1.pdf">NWS SCN</a></td>
                 <td>Still (2021)</td>
                 <td>4</td>
             </tr>
@@ -585,8 +585,8 @@
                 <td>25 km; 31 mbrs</td>
                 <td>64</td>
                 <td>Global</td>
-                <td>384h (00z cycle runs to 35 days</td>
-                <td><a href="https://www.weather.gov/media/notification/SCN_20-75_GEFSv12_Changes.pdf">NWS SCN</a></td>
+                <td>384h (00z cycle runs to 35 days)</td>
+                <td><a href="https://www.weather.gov/media/notification/pdf2/scn20-75_gefsv12_changes.pdf">NWS SCN</a></td>
                 <td>Still</td>
                 <td>4</td>
             </tr>
@@ -598,7 +598,7 @@
                 <td>64</td>
                 <td>Global</td>
                 <td>120h</td>
-                <td><a href="https://www.weather.gov/media/notification/SCN_20-75_GEFSv12_Changes.pdf">NWS SCN</a></td>
+                <td><a href="https://www.weather.gov/media/notification/pdf2/scn20-75_gefsv12_changes.pdf">NWS SCN</a></td>
                 <td>Still</td>
                 <td>4</td>
             </tr>
