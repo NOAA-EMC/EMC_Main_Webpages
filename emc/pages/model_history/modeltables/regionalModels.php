@@ -528,7 +528,7 @@
         <td>18-h</td>
         <td><a href="https://www.weather.gov/media/notification/tins/tin10-07aaa_ruc_changes.pdf">NWS TIN</a></td>
         <td>5/2012</td>
-        <td></td>
+        <td>24</td>
     </tr>
     <tr>
         <td>2011</td>
