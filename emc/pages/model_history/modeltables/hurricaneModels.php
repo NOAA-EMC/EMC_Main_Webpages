@@ -34,9 +34,9 @@
                         <td>10</td>
                         <td>Window (111x111)</td>
                         <td>72-h</td>
-                        <td>NWS TPB #377</td>
+                        <td><a href="https://doi.org/10.1175/1520-0493(1991)119%3C1419:TNMCQL%3E2.0.CO;2">Mathur 1991 MWR</td>
                         <td>6/1995</td>
-                        <td></td>
+                        <td>2</td>
                     </tr>
                     <tr>
                         <td>1995</td>
