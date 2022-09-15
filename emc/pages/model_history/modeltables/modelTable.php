@@ -2832,7 +2832,7 @@ formation of the the JNWPU in 1955. Separate tables are available for <a href=".
     <tr>
         <td>2021</td>
         <td>G</td>
-        <td>GFS, GDAS (FV3 replaces GSM)</td>
+        <td>GFS, GDAS</td>
         <td>13km</td>
         <td>127, model top to 80 km</td>
         <td>Global</td>
