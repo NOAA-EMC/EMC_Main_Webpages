@@ -95,7 +95,7 @@ SREF, CMAQ) Operational Change Log since 1993
 <p> 
 
 <div id="meta" style="-webkit-text-stroke-width:0px; background-color:#ffffff; box-sizing:border-box; color:#34495e; font-family:&quot;Open Sans&quot;,Helvetica,Arial,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:normal; letter-spacing:normal; orphans:2; padding:15px; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px"><span style="font-size:12px"><span style="color:#000000"><span style="font-family:Arial,Helvetica,sans-serif"><img alt="NORTH AMERICAN MESOSCALE" src="https://www.emc.ncep.noaa.gov/emc/images/prico.radargust.gif" style="border:0px; box-sizing:border-box; vertical-align:middle" title="NORTH AMERICAN MESOSCALE"></span></span></span>
-<p style="margin-left:0px; margin-right:0px; text-align:justify"><span style="font-size:16px;"><span style="color:#000000"><span style="font-family:Arial,Helvetica,sans-serif">Above: NAM 3 km Puerto Rico nest forecast loop of composite radar reflectvity (left, dBz) and instantaneous 10-m wind gust (right, kts) initialized at 1200 UTC 17 September 2022, showing the passage of Hurricane Fiona through the domain.</span></span></span></p>
+<p style="margin-left:0px; margin-right:0px; text-align:justify"><span style="font-size:16px;"><span style="color:#000000"><span style="font-family:Arial,Helvetica,sans-serif">Above: NAM 3 km Puerto Rico nest forecast loop of composite radar reflectivity (left, dBz) and instantaneous 10-m wind gust (right, kts) initialized at 1200 UTC 17 September 2022, showing the passage of Hurricane Fiona through the domain.</span></span></span></p>
 <p>
 <img src="../../pages/disclaimer/disclaimer_small.png"/>
 <p>
@@ -127,7 +127,7 @@ SREF, CMAQ) Operational Change Log since 1993
 	<p><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;">The nests do not run with gravity wave drag/mountain blocking</span></span></p>
 	</li>
 	<li style="margin-left: 0px; margin-right: 0px; text-align: justify;">
-	<p><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;">In the Ferrier-Algo microphysics, the 12 km domain's threshold RH for the onset of condensation is 98%, for the nests it is 100%</span></span></p>
+	<p><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;">In the Ferrier-Aligo microphysics, the 12 km domain's threshold RH for the onset of condensation is 98%, for the nests it is 100%</span></span></p>
 	</li>
 	<li style="margin-left: 0px; margin-right: 0px; text-align: justify;">
 	<p><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;">The NAM nests use a higher divergence damping coefficient. </span></span></p>
