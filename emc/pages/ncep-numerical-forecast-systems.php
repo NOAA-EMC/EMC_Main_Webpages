@@ -142,7 +142,7 @@
 										
      									<ul class="list-group">
                                             <li class="list-group-item">
-                                            <h5><a class="read-more-link" id="ncepda" href="https://www.emc.ncep.noaa.gov/data_assimilation/data.html">NCEP Data Assimilation</a></h5>
+                                            <h5><a class="read-more-link" id="ncepda" href="https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/ncep_data_assimilation.php">NCEP Data Assimilation</a></h5>
                                             <span class="more">
         					The NCEP hybrid ensemble data assimilation system with the Grid-Point Statistical Interpolation (GSI) analysis is used to generate initial conditions for NWS operational global, regional, mesoscale, rapid refresh, Real-Time Mesoscale Analysis (RTMA) and hurricane guidance systems.  
                                             </li>
