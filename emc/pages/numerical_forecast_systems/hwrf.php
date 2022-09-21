@@ -110,6 +110,74 @@ global $browser_title;
 <p>HWRF team at EMC has also been providing experimental real-time forecast guidance for all tropical cyclone basins in the world (including Western North Pacific, Southern Pacific, North Indian and South Indian Ocean regions) to the Joint Typhoon Warning Center (JTWC) and National Weather Service (NWS) Pacific Region (PR) with support from NOAA's Hurricane Forecast Improvement Project (HFIP) and using HFIP Research&amp;Development computational resources on Jet supercomputers. Based on the demonstration of superior performance from HWRF compared to other regional models, JTWC has included HWRF model guidance in their operational consensus forecasts.</p>
 
 <p>The objective of the HWRF team is to implement planned scientific and product enhancements to the operational HWRF annually, with an aim towards improved forecast performance using state-of-the-art numerical techniques. The HWRF project is an NCEP Annual Operating Plan (AOP) milestone which maps to NCEP's strategic goal to produce and deliver the best products and services, and prepare for a Weather Ready Nation.</p>
+<p>
+
+<p>
+<h3 style="color: red;">Highlights for HWRF's FY2020 implementation:</h3>
+
+<ol>
+        <li><b>HWRF Science and Technical Enhancements</b>:<span>&nbsp;</span><br>
+            <ul type="circle">
+               <li> Use high-resolution land-sea masks for the moving nests
+               <li> Upgrade dynamic core from WRF3.9.1 to WRF4.0a
+               <li> Obtain three-hourly (instead of six-hourly) lateral boundary conditions from GFS 
+               <li> Optimize and unify the domain sizes for the ghost domains for initialization 
+                    and data assimilation (DA)
+               <li> Adjust the horizontal mixing length scale parameter (coac)for D03
+               <li> Use the exponential random cloud overlap method(cldovrlp=5) with a 
+                    constant decorrelation length (idcor=0) in the RRTMG radiation 
+                    scheme and include a recent shortwave radiation related bug fix 
+                    from Atmospheric Environment Research (AER) through Developmental 
+                    Testbed Center (DTC)
+               <li> Sync the scale-aware SAS convection scheme with a recent
+                    GFS version, but keep using the HWRF's detrainment rate
+               <li> Use the unified Ferrier-Aligo microphysics scheme (consistent with
+                    the versions used in Hurricanes in a Multi-scale Ocean-coupled
+                    Non-hydrostatic, HMON, and North American Meso-scale, NAM)
+                    with bug fixes (collection efficiency calculation, calculation
+                    of the saturation mixing ratio with respect to water at 0
+                    degC, limit the ice/rain fraction within 0 to 1, etc.)
+               <li> Adopt new settings for the Data Assimilation and Gridpoint
+                    Statistical Interpolation, DA/GSI, increment blending
+               <li> Turn off smoothing in Vortex Initialization (VI) and turn
+                    off intensity correction when model mean sea level pressure is
+                    shallower than observed and wind speed is stronger than
+                    observed wind speed
+               <li> Skip the effects of VI but keep DA/GSI for weak
+                    storms/cycles with vmax <= 25 kts, and fall back to use Global
+                    Forecast System (GFS) analysis as initial conditions (ICs) for
+                    weak storms/cycles with vmax < 20 kts
+               <li> Implement a new domain merging method and procedure to
+                    better handle the transition from the HWRF analysis to GFS analysis
+               <li> Update and fix issues related to the preprocessing of the
+                    temperature dropsonde (TEMPDROP) data
+               <li> Assimilate some additional satellite observations used in
+                    GFS
+               <li> Unflag and turn off the thinning method for the Advanced
+                    Scatterometer (ASCAT) data
+               <li> Assimilate the Next Generation Weather Radar (NEXRAD)
+                    radial wind data from coastal radar sites together with
+                    Hurricane Research Division, and Oklahoma University,
+                    collaborators)
+               <li> Switch to use the Global Real-Time Ocean Forecast System.
+                    Use RTOFS data (instead of the Generalized Digital Environmental
+                    Model, GDEM climatology) to initialize the ocean model for the
+                    national basin (same as the east Pacific basin)
+               <li> Improve the regridding of initial data from RTOFS to
+                    Princeton Ocean Model (POM) grid especially over shallow
+                    layers to fix the cold spots of Sea Surface Temperature (SST)
+                    appeared in the previous forecasts
+               <li> Unify the POM related scripts to support both the current
+                    operational HWRF or basin-scale HWRF configurations
+               <li> Use a newer version HYbrid Coordinate Ocean Model
+                    (HYCOM) for ocean coupling for JTWC basins and update the ocean
+                    lateral boundary condition specification
+               <li> Use upgraded unified post-processor code.
+               <li> Use the latest version of Geophysical Fluid Dynamics
+                    Laboratory (GFDL) storm tracker (from Tim Marchok, GFDL)
+           </ul>
+</ol>
+<p>
 
 <h3 style="color: red;">Highlights for HWRF's FY2018 implementation:</h3>
 
@@ -153,6 +221,7 @@ global $browser_title;
 	</ul>
 	</li>
 </ol>
+
 </div>
 </div>
 			  </div>
