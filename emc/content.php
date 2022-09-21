@@ -126,7 +126,7 @@
 								<img src="emc/images/news_caption/wavewatch3_resize.jpg"/>
 								<h4>Recent/Upcoming Upgrades</h4>
 								<ul class="list-group">
-                                                                   <li class="list-group-item right-angle-after"><a href="https://www.weather.gov/media/notification/pdf2/pns22-34_gefs_aerosols_v12.3_aaa.pdf">GEFS-Aerosol v12.3 in October 2022</a></li>
+                                                                   <li class="list-group-item right-angle-after"><a href="https://www.weather.gov/media/notification/pdf2/scn22-90_gefs_aerosols_v12.3_update.pdf">GEFS-Aerosol v12.3 in October 2022</a></li>
                                                                    <li class="list-group-item right-angle-after"><a href="https://www.weather.gov/media/notification/pdf2/pns22-35_hysplit_v8.0.pdf">HYSPLIT v8 in November 2022</a></li>
                                                                    <li class="list-group-item right-angle-after">GFS v16.3 in November 2022</li>
                                                                    <li class="list-group-item right-angle-after">RTMA v2.9 in January 2023</li>
