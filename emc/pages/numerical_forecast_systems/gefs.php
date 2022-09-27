@@ -872,7 +872,7 @@ global $browser_title;
 
 <p class="teaser" style="margin: 0px 0px 1.5em; padding: 0px; border: 0px; outline: 0px; background: transparent; vertical-align: baseline; font-family: &quot;Open Sans&quot;, Helvetica, Verdana, Arial, sans-serif; color: rgb(68, 68, 68); line-height: 1.556em; text-rendering: auto;"><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;">GEFS v12 is the final upgrade of a global ensemble system separate from the deterministic GFS at NCEP. The next GEFS upgrade will be merged with the version 17 upgrade of the GFS upgrade planned for 2023-2024.</span></span></p>
 
-<p class="teaser" style="margin: 0px 0px 1.5em; padding: 0px; border: 0px; outline: 0px; background: transparent; vertical-align: baseline; font-family: &quot;Open Sans&quot;, Helvetica, Verdana, Arial, sans-serif; color: rgb(68, 68, 68); line-height: 1.556em; text-rendering: auto;"><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;">Other NCEP GEFS web pages:</span></span></p>
+<p class="teaser" style="margin: 0px 0px 1.5em; padding: 0px; border: 0px; outline: 0px; background: transparent; vertical-align: baseline; font-family: &quot;Open Sans&quot;, Helvetica, Verdana, Arial, sans-serif; color: rgb(68, 68, 68); line-height: 1.556em; text-rendering: auto;"><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;"><b><i>6. Other NCEP GEFS web pages:</b></i></span></span></p>
 
 <p class="teaser" style="margin: 0px 0px 1.5em; padding: 0px; border: 0px; outline: 0px; background: transparent; vertical-align: baseline; font-family: &quot;Open Sans&quot;, Helvetica, Verdana, Arial, sans-serif; color: rgb(68, 68, 68); line-height: 1.556em; text-rendering: auto;"><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;">-<strong> Official GEFS Graphics at the <a href="http://mag.ncep.noaa.gov/model-guidance-model-area.php#">NCEP Model Analysis and Guidance Page : Mean/Spread and Spaghetti Plots</a></strong></span></span></p>
 
@@ -890,7 +890,7 @@ global $browser_title;
 
 <p class="western" style="margin-top: 0.04in; margin-bottom: 0.08in; line-height: 100%" lang="en-GB" align="justify">&nbsp;</p>
 
-<p class="western" style="margin-top: 0.04in; margin-bottom: 0.08in; line-height: 100%" lang="en-GB" align="justify"><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;"><span lang="en-US"><b>References for GEFS, NAEFS and post processing:</b></span></span></span></p>
+<p class="western" style="margin-top: 0.04in; margin-bottom: 0.08in; line-height: 100%" lang="en-GB" align="justify"><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;"><span lang="en-US"><b><i>7. References for GEFS, NAEFS and post processing:</i></b></span></span></span></p>
 
 <p class="western" style="margin-top: 0.04in; margin-bottom: 0.08in; line-height: 100%" lang="en-GB" align="justify"><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;"></span></span></p>
 
