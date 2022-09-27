@@ -149,7 +149,6 @@ global $browser_title;
             	<li class="link"><a href="http://www.emc.ncep.noaa.gov/mmb/mpyle/hrefv3/">EMC HREF guidance</a> - EMC <a href="https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/href-hiresw.php">HREF</a> guidance for CONUS, Alaska, Hawaii, Puerto Rico</li>
             	<li class="link"><a href="http://www.emc.ncep.noaa.gov/mmb/SREF_avia/FCST/NARRE/web_site/html/refl.html">EMC NARRE-TL ensemble</a> - Aviation-focused experimental time-lagged ensemble using ops RAP and NAM nest forecasts</li>
             	<li class="link"><a href="http://www.esrl.noaa.gov/psd/map/images/ens/ens.html">ESRL PSD ensemble guidance</a> - NCEP ensemble guidance from ESRL PSD</li>
-            	<li class="link"><a href="http://www.emc.ncep.noaa.gov/gmb/yluo/html_pqpf/rmop.html">GEFS Relative Measure of Predictability guidance</a> - GEFS ensemble spread relative to spread over last 30-days</li>
             	<li class="link"><a href="http://www.spc.noaa.gov/exper/sref">SPC SREF ensemble guidance</a> - various SREF forecast guidance</li>
             </ul>
             

@@ -230,22 +230,6 @@ global $browser_title;
                 			<td>No</td>
                 		</tr>
                 		<tr>
-                			<td><a href="https://www.emc.ncep.noaa.gov/mmb/mpyle/hiresw/"><strong>NCEP HiResWindow Forecast Page - EMC Web pages </strong> </a></td>
-                			<td>
-                			<ul>
-                				<li>CONUS FV3, ARW, and ARW2 (00Z,12Z)</li>
-                				<li>Hawaii FV3, ARW, and ARW2 (00Z/12Z)</li>
-                				<li>Guam FV3 and ARW (00Z/12Z)</li>
-                				<li>Puerto Rico FV3, ARW, and ARW2 (06Z/18Z)</li>
-                				<li>Alaska FV3, ARW, and ARW2 (06z/18Z)</li>
-                			</ul>
-                			</td>
-                			<td>48-h</td>
-                			<td>1 hour</td>
-                			<td>Yes</td>
-                			<td>No</td>
-                		</tr>
-                		<tr>
                 			<td><a href="https://mag.ncep.noaa.gov/model-guidance-model-area.php"><strong>NCEP HiResWindow Forecasts on NCEP Model Analysis and Guidance Page </strong> </a></td>
                 			<td>
                 			<ul>
