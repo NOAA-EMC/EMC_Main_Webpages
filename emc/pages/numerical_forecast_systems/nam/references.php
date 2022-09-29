@@ -136,56 +136,13 @@ global $browser_title;
                 			<th>Archive of past forecasts?</th>
                 		</tr>
                 		<tr>
-                			<td><a href="https://www.emc.ncep.noaa.gov/mmb/nammeteograms/"><strong>NAM FORECAST METEOGRAMS </strong> </a></td>
-                			<td>NAM</td>
-                			<td>84-h ; displays last two NAM runs for 1300+ stations, use NAM model grid point nearest to station</td>
-                			<td>1 hour</td>
-                			<td>Not applicable</td>
-                			<td>No</td>
-                		</tr>
-                		<tr>
-                			<td><a href="https://www.emc.ncep.noaa.gov/mmb/precip_type/"><strong>NAM FORECAST PRECIPITATION TYPE METEOGRAMS AND REGIONAL PLOTS </strong> </a></td>
-                			<td>NAM</td>
-                			<td>84-h (00Z/12Z runs only); data for 1300+ stations, use NAM model grid point nearest to station</td>
-                			<td>1 hour</td>
-                			<td>Yes, for regional hourly plots of precipitation type</td>
-                			<td>No</td>
-                		</tr>
-                		<tr>
-                			<td><a href="https://www.emc.ncep.noaa.gov/mmb/rucmeteograms/"><strong>RAP FORECAST METEOGRAMS </strong> </a></td>
-                			<td>RAP</td>
-                			<td>21-h; displays latest RAP 3-h cycle, data for 500+ stations, use model grid point nearest to station</td>
-                			<td>1 hour</td>
-                			<td>Not applicable</td>
-                			<td>No</td>
-                		</tr>
-                		<tr>
                 			<td><a href="https://mag.ncep.noaa.gov/model-guidance-model-area.php"><strong>NCEP North American Mesoscale (NAM-12) Model : NCEP Model Analysis and Guidance (MAG) page </strong> </a>
-                			<p>&nbsp;</p>
-                			<a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/opsnam/"><strong>NCEP North American Mesoscale (NAM-12) Model : Enhanced CONUS/North America/Hawaii Graphics (EMC page) </strong> </a>
-                
-                			<p>&nbsp;</p>
                 			</td>
                 			<td>NAM</td>
                 			<td>84-h</td>
                 			<td>3 hours</td>
                 			<td>Yes</td>
-                			<td>1 day on EMC page, and NCEP MAG page</td>
-                		</tr>
-                		<tr>
-                			<td><strong>NAM 3 km Nests </strong>
-                			<ol type="1">
-                				<li><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/nam_alaskanest_hourly"><strong>3 km Alaska </strong> </a></li>
-                				<li><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/nam_conusnest_hourly60"><strong>3 km CONUS </strong> </a></li>
-                				<li><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/nam_hawaiinest_hourly"><strong>3 km Hawaii </strong> </a></li>
-                				<li><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/nam_priconest_hourly"><strong>3 km Puerto Rico </strong> </a></li>
-                			</ol>
-                			</td>
-                			<td>Ops NAM 3 km nests</td>
-                			<td>60-h</td>
-                			<td>1 hour</td>
-                			<td>Yes</td>
-                			<td>1 days for CONUS&nbsp; Alaska nest only</td>
+                			<td>1 day</td>
                 		</tr>
                 		<tr>
                 			<td><strong>NAM Nest runs on NCEP Model Analysis and Guidance Page (Model Type = "NAM-HIRES") </strong>
@@ -207,12 +164,9 @@ global $browser_title;
                 			<td>1 day</td>
                 		</tr>
                 		<tr>
-                			<td><a href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/firewx"><strong>NAM Fire Weather Nest (EMC page) </strong> </a>
-                			<p>&nbsp;</p>
+                			<td>
                 			<a href="https://mag.ncep.noaa.gov/model-guidance-model-area.php"><strong>NAM Fire Weather Nest : NCEP Model Analysis and Guidance (MAG) page </strong> </a>
-                
                 			<p>&nbsp;</p>
-                
                 			<p><strong>To access : Model Type = "FIREWX", Model Area = "CONUS-AK"</strong></p>
                 			</td>
                 			<td>1.5 km NAM Fire weather nest</td>
@@ -220,14 +174,6 @@ global $browser_title;
                 			<td>1 hour</td>
                 			<td>Yes</td>
                 			<td>Last 4 cycles</td>
-                		</tr>
-                		<tr>
-                			<td><a href="https://www.emc.ncep.noaa.gov/mmb/namsvrfcst/"><strong>NCEP Operational NAM-12 : Convective Forecasting Page for 00Z/12Z cycles </strong> </a></td>
-                			<td>NAM</td>
-                			<td>84-h</td>
-                			<td>3 hours</td>
-                			<td>Yes</td>
-                			<td>No</td>
                 		</tr>
                 		<tr>
                 			<td><a href="https://mag.ncep.noaa.gov/model-guidance-model-area.php"><strong>NCEP HiResWindow Forecasts on NCEP Model Analysis and Guidance Page </strong> </a></td>
