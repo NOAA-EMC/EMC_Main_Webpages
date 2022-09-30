@@ -10,7 +10,7 @@ or horizontal/vertical resolution has been
 increased to satisfy operational requirements. There is an attempt to record dates when models went out of 
 service, generally occurring when a new model was implemented. For more details see the references listed below.   
 Additional information regarding the 'early' years may be found in 
-<a href=http://www.lib.ncep.noaa.gov/ncepofficenotes/files/013FD835.pdf">NMC Office Note 72</a>, by Shuman (1972), entitled 
+<a href="https://www.lib.ncep.noaa.gov/ncepofficenotes/files/013FD835.pdf">NMC Office Note 72</a>, by Shuman (1972), entitled 
 'The Research and Development Program at the National Meteorological Center'.
 </h4>
 </p>
