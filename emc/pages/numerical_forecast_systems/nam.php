@@ -61,11 +61,6 @@ SREF, CMAQ) Operational Change Log since 1993
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="https://www.emc.ncep.noaa.gov/mmb/mmbpll/paralog/">
-              Parallel Experiment Change Log
-            </a>
-          </li>
-          <li class="nav-item">
             <a class="nav-link" href="http://www.weather.gov/disclaimer">
               NWS Disclaimer
             </a>
